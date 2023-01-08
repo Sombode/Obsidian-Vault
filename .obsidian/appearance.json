@@ -1,0 +1,12 @@
+{
+  "accentColor": "#d5b96c",
+  "cssTheme": "Minimal",
+  "baseFontSize": 18,
+  "translucency": false,
+  "nativeMenus": false,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "stylesheet",
+    "fonts"
+  ]
+}

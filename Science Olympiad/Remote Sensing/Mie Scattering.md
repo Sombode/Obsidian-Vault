@@ -1,0 +1,1 @@
+Mie Scattering occurs between radiation and particles of **equal** size (wavelength $\approx$ size), generally caused by *water vapor* and *dust*. This tends to influence longer wavelengths more than [[Rayleigh Scattering]], but is less prevalent in all but partly overcast conditions.

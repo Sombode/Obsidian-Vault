@@ -1,0 +1,1 @@
+Nonselective Scattering occurs between radiation and particles **larger** than their wavelength, from sources such as water drops (~5-100 µm; scattering [[Visible Light]] and [[NIR]]-[[MIR]]). Scattering occurs about **equally**. This causes white fog and clouds.
