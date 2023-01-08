@@ -101,6 +101,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72ed66b35a4c99ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Underbelly/Demo Playground/Blue Pill.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e53bd8310a44db8c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Underbelly/Demo Playground/Blue Pill.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50aa08a66364fd63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Underbelly/Demo Playground/Blue Pill.md"
+              }
+            }
           }
         ]
       }
