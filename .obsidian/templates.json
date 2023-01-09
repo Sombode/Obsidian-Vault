@@ -1,3 +1,4 @@
 {
-  "dateFormat": "MM-DD-YYYY"
+  "dateFormat": "YYYY-MM-SS",
+  "folder": "Backend/Templates"
 }

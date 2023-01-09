@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Demo Playground/Typing in Markdown.md",
-                "mode": "preview",
+                "file": "Backend/Templates/General Template.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Demo Playground/Typing in Markdown.md",
+                "file": "Backend/Templates/General Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Demo Playground/Typing in Markdown.md",
+                "file": "Backend/Templates/General Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Demo Playground/Typing in Markdown.md"
+                "file": "Backend/Templates/General Template.md"
               }
             }
           }
@@ -167,15 +167,15 @@
   },
   "active": "ad14c3d6e1d52931",
   "lastOpenFiles": [
-    "Backend/Demo Playground/Blue Pill.md",
-    "Extracirricular/Science Olympiad/Remote Sensing/Electromagnetic Waves.md",
     "Backend/Tasks.md",
-    "Extracirricular/Science Olympiad/Remote Sensing/Math/Energy of a Photon.md",
-    "Extracirricular/Science Olympiad/Remote Sensing/Math/Planck's Constant.md",
-    "Extracirricular/Science Olympiad/Remote Sensing/Math/Energy of Quantum.md",
-    "Extracirricular/Science Olympiad/Remote Sensing/Absorption.md",
-    "Backend/Demo Playground/Woah, Another Note.md",
-    "Backend/Demo Playground/Which Pill.md",
-    "Backend/Demo Playground/My First Note.md"
+    "Untitled.md",
+    "Backend/Templates/Untitled.md",
+    "Personal/Plover/Steno Layout.png",
+    "Backend/Templates/General Template.md",
+    "Personal/Plover/Plover Overlay.png",
+    "Personal/Plover/Plover.md",
+    "Personal/Plover/Practice/12 23 22 Practice.md",
+    "Backend/Demo Playground/Typing in Markdown.md",
+    "Backend/Demo Playground/Blue Pill.md"
   ]
 }

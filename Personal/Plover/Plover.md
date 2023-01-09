@@ -13,7 +13,7 @@ The left side (of the * key) is generally for the beginning of syllables, the ri
 #### Layout Mnemonic
 
 Top left - STPH (Steph)
-Bottom Left - SWER (Skewer)
+Bottom Left - SKWR (Skewer)
 
 Vowels - AO EU (A *jump* E *I* O *jump* U)
 
