@@ -25,7 +25,7 @@
 		- [ ] Peer Review?
 		- [ ] Render
 	- [ ] Publish to WeVideo
-- [ ] ESP: Mi Propio Nombre #task 📅 2023-01-10 ⏫ 
+- [x] ESP: Mi Propio Nombre #task ⏫ 📅 2023-01-10 ✅ 2023-01-09
 - [ ] ENG: Speech #task 📅 2023-01-12 ⏫ 
 	- [ ] Check over script
 	- [ ] First run through
