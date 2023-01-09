@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "School/List of Death.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "dab35a043cc4f0f3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,11 +80,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "857c9409b22cd114",
+            "id": "dab35a043cc4f0f3",
             "type": "leaf",
             "state": {
-              "type": "style-settings",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Tasks.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -125,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "School/List of Death.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "School/List of Death.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "School/List of Death.md"
               }
             }
           }
@@ -162,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 669.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,12 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf35ffa324e0b9fe",
+  "active": "ad14c3d6e1d52931",
   "lastOpenFiles": [
+    "Backend/Tasks.md",
+    "School/List of Death.md",
     "README.md",
     "Backend/Templates/General Template.md",
-    "Backend/Tasks.md",
-    "Untitled.md",
     "Backend/Templates/Untitled.md",
     "Personal/Plover/Steno Layout.png",
     "Personal/Plover/Plover Overlay.png",

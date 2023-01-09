@@ -1,0 +1,44 @@
+- [ ] GOV: Chapter Readings? #task 🔼 
+	- [ ] Chapter 9
+	- [ ] Chapter 4
+	- [ ] Chapter 5
+- [ ] GOV: SCOTUS Project #task 📅 2023-01-10 🔼
+	- [ ] Meet with Joel, plan?
+	- [ ] Script
+		- [ ] Introduction Script
+		- [ ] Background Script
+		- [ ] Interview Script
+		- [ ] Decision Script
+		- [ ] Conclusion Script
+	- [ ] Film
+		- [ ] Film Introduction
+		- [ ] Film Background
+		- [ ] Film Interview
+		- [ ] Film Decision
+		- [ ] Film Conclusion
+	- [ ] Edit
+		- [ ] Trim all clips
+		- [ ] Find graphics
+		- [ ] Rough timeline
+		- [ ] Add graphics
+		- [ ] Text as needed
+		- [ ] Peer Review?
+		- [ ] Render
+	- [ ] Publish to WeVideo
+- [ ] ESP: Mi Propio Nombre #task 📅 2023-01-10 ⏫ 
+- [ ] ENG: Speech #task 📅 2023-01-12 ⏫ 
+	- [ ] Check over script
+	- [ ] First run through
+	- [ ] Note card
+	- [ ] Second run through
+	- [ ] Memorized
+	- [ ] Dry Run
+- [ ] GOV: Letter from A Birmingham Jail #task 📅 2023-01-11 🔼 
+- [ ] BIO: Study Cellular Respiration #task 📅 2023-01-10  🔽 
+	- [ ] Glycolysis
+	- [ ] Krebs
+	- [ ] ETC
+	- [ ] Fermentation
+- [ ] BIO: Midterm Studying #task 📅 2023-01-17 🔽 
+	- [ ] Unit 1
+	- [ ] Unit 2
