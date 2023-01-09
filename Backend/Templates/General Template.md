@@ -13,4 +13,4 @@ Brief summary.
 Lorem ipsum dolor sit amet.
 # Media
 
-*Images go right here*
+*Images go here*
