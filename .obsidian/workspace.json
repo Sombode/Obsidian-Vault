@@ -6,6 +6,7 @@
       {
         "id": "5fbb2bfab145f327",
         "type": "tabs",
+        "dimension": 48.88758782201405,
         "children": [
           {
             "id": "ad14c3d6e1d52931",
@@ -14,6 +15,25 @@
               "type": "markdown",
               "state": {
                 "file": "School/List of Death.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "50b63e4ad63debff",
+        "type": "tabs",
+        "dimension": 51.112412177985945,
+        "children": [
+          {
+            "id": "dab35a043cc4f0f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "189a38ed5c48185a",
@@ -79,18 +100,6 @@
         "id": "b86bafc3370f1e96",
         "type": "tabs",
         "children": [
-          {
-            "id": "dab35a043cc4f0f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend/Tasks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "0d2d3a40eb5ed01d",
             "type": "leaf",
@@ -120,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/List of Death.md",
+                "file": "Backend/Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/List of Death.md",
+                "file": "Backend/Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/List of Death.md"
+                "file": "Backend/Tasks.md"
               }
             }
           }
@@ -157,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 669.5
+    "width": 1082.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,10 +179,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad14c3d6e1d52931",
+  "active": "dab35a043cc4f0f3",
   "lastOpenFiles": [
-    "Backend/Tasks.md",
     "School/List of Death.md",
+    "Backend/Tasks.md",
     "README.md",
     "Backend/Templates/General Template.md",
     "Backend/Templates/Untitled.md",

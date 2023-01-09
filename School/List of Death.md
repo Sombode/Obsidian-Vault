@@ -2,7 +2,7 @@
 	- [ ] Chapter 9
 	- [ ] Chapter 4
 	- [ ] Chapter 5
-- [ ] GOV: SCOTUS Project #task 📅 2023-01-10 🔼
+- [ ] GOV: SCOTUS Project #task 📅 2023-01-17 🔼
 	- [ ] Meet with Joel, plan?
 	- [ ] Script
 		- [ ] Introduction Script
@@ -42,3 +42,4 @@
 - [ ] BIO: Midterm Studying #task 📅 2023-01-17 🔽 
 	- [ ] Unit 1
 	- [ ] Unit 2
+	- [ ] ???
