@@ -27,8 +27,8 @@
 	- [ ] Publish to WeVideo
 - [x] ESP: Mi Propio Nombre #task ⏫ 📅 2023-01-10 ✅ 2023-01-09
 - [ ] ENG: Speech #task 📅 2023-01-12 ⏫ 
-	- [ ] Check over script
-	- [ ] First run through
+	- [x] Check over script
+	- [x] First run through
 	- [ ] Note card
 	- [ ] Second run through
 	- [ ] Memorized

@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cabd2fe167170c4a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "50b63e4ad63debff",
@@ -129,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +164,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Backend/Tasks.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -179,7 +184,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dab35a043cc4f0f3",
+  "active": "cabd2fe167170c4a",
   "lastOpenFiles": [
     "School/List of Death.md",
     "Backend/Tasks.md",
