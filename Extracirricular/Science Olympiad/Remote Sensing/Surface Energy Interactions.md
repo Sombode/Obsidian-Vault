@@ -42,3 +42,5 @@ The process of **change detection** seeks to measure/track the effect of tempora
 Spectral response patterns can also be influenced by the atmosphere, which among others can affect the *brightness* (radiance) of solar energy (the main example used here). Energy undergoes [[Attenuation]] (reduces) and the atmosphere also can reflect energy, adding *path radiance* to measured signals. Thus, the incoming radiance/irradiance follows:
 $$L_{tot}=\frac{pET}{\pi}+L_p$$
 Where $L_{tot}$ is total measured spectral radiance; $p$ is object reflectance; $E$ is irradiance on object, incoming energy; $T$ is transmission of atmosphere; $L_p$ is path radiance from the atmosphere.
+
+Skylight is sunlight that has been diffused by the atmosphere, and the proportions of each can vary on weather conditions. Irradiance also changes  seasonally as the solar elevation angle changes.
