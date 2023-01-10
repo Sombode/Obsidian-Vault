@@ -19,9 +19,12 @@ Where $p_λ$ is a percentage of *spectral reflectance*, which for objects can be
 Differences between two objects' reflectance curves can be used to differentiate objects easily, though this is not always the case.
 
 ![[Spectral Reflectance Curves.png]]
+*Spectral reflectance curves for soil, vegetation, water*
 
 Vegetation manifests "peaks and valleys" in its spectral reflectance. Chlorophyll strongly absorbs 0.45 - 0.67 μm (called the *"chlorophyll absorption bands"*). Plant species vary in their reflectance in the range of 0.7 - 1.3 μm, which can also be affected by various stresses. More layers -> more reflectance.
 
-Water strongly absorbs 1.4, 1.9, 2.7 μm (*water absorption bands*)
-
 Soil reflectance is more based on its content (moisture, texture, roughness, etc.). Moisture is generally the most important factor, as sandy/coarse soil is more dry (more reflectance) while finer soils are more moist. Iron oxide in soil greatly reduces reflectance in visible wavelengths.
+
+Water in vegetation/soil strongly absorbs 1.4, 1.9, 2.7 μm (*water absorption bands*)
+
+Regular water has distinct absorbance of [[NIR]] bands, no matter the type of body. Water conditions generally only appear in [[Visible Light]] bands. Water generally has high [[Transmittance]], especially with blue-green. Turbidity and dust particles can lower reflectance; other properties (chlorophyll, salt, etc.) also have some correlation to reflectance that can be measured.

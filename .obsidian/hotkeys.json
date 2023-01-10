@@ -11,19 +11,19 @@
   "obsidian-git:push2": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt",
+        "Mod"
       ],
-      "key": "A"
+      "key": "S"
     }
   ],
   "obsidian-git:pull": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt",
+        "Mod"
       ],
-      "key": "D"
+      "key": "R"
     }
   ]
 }
