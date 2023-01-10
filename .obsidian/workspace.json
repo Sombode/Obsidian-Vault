@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extracirricular/Science Olympiad/Remote Sensing/Scattering.md",
+                "file": "Extracirricular/Science Olympiad/Remote Sensing/Surface Energy Interactions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31a7c5b36c0390a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extracirricular/Science Olympiad/Remote Sensing/Math/Wien's Displacement Law.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extracirricular/Science Olympiad/Remote Sensing/Scattering.md",
+                "file": "Extracirricular/Science Olympiad/Remote Sensing/Surface Energy Interactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extracirricular/Science Olympiad/Remote Sensing/Scattering.md",
+                "file": "Extracirricular/Science Olympiad/Remote Sensing/Surface Energy Interactions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extracirricular/Science Olympiad/Remote Sensing/Scattering.md"
+                "file": "Extracirricular/Science Olympiad/Remote Sensing/Surface Energy Interactions.md"
               }
             }
           }
@@ -160,15 +172,15 @@
   },
   "active": "9dc940f6a5b32d5b",
   "lastOpenFiles": [
-    "School/List of Death.md",
-    "Backend/Tasks.md",
-    "README.md",
-    "Backend/Templates/General Template.md",
-    "Backend/Templates/Untitled.md",
-    "Personal/Plover/Steno Layout.png",
-    "Personal/Plover/Plover Overlay.png",
-    "Personal/Plover/Plover.md",
-    "Personal/Plover/Practice/12 23 22 Practice.md",
-    "Backend/Demo Playground/Typing in Markdown.md"
+    "Extracirricular/Science Olympiad/Remote Sensing/Math/Wien's Displacement Law.md",
+    "Extracirricular/Science Olympiad/Remote Sensing/Surface Energy Interactions.md",
+    "Extracirricular/Science Olympiad/Remote Sensing/Math/Wave Equation.md",
+    "Extracirricular/Science Olympiad/Remote Sensing/Math/Energy of a Photon.md",
+    "Extracirricular/Science Olympiad/Remote Sensing/Bands/IR.md",
+    "Extracirricular/Science Olympiad/Remote Sensing/Mie Scattering.md",
+    "Extracirricular/Science Olympiad/Remote Sensing/Nonselective Scattering.md",
+    "Extracirricular/Science Olympiad/Remote Sensing/Rayleigh Scattering.md",
+    "Extracirricular/Science Olympiad/Remote Sensing/Remote Sensing and Image Interpretation Fifth Edition.md",
+    "Extracirricular/Science Olympiad/Remote Sensing/Scattering.md"
   ]
 }
