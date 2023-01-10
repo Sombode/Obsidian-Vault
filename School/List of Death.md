@@ -29,7 +29,7 @@
 - [ ] ENG: Speech #task 📅 2023-01-12 ⏫ 
 	- [x] Check over script
 	- [x] First run through
-	- [ ] Note card
+	- [x] Note card
 	- [ ] Second run through
 	- [ ] Memorized
 	- [ ] Dry Run
