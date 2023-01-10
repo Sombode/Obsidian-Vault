@@ -24,4 +24,4 @@ Vegetation manifests "peaks and valleys" in its spectral reflectance. Chlorophyl
 
 Water strongly absorbs 1.4, 1.9, 2.7 μm (*water absorption bands*)
 
-Soil reflectance is more based on its content (moisture, texture, roughness, etc.). Moisture is generally the most important factor, as sandy/coarse soil is more dry (more reflectance) while finer soils are more moist. Iron oxide in soi
+Soil reflectance is more based on its content (moisture, texture, roughness, etc.). Moisture is generally the most important factor, as sandy/coarse soil is more dry (more reflectance) while finer soils are more moist. Iron oxide in soil greatly reduces reflectance in visible wavelengths.
