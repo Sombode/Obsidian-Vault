@@ -12,5 +12,16 @@ Geometrically, objects reflect energy on a scale of **specular** to **diffuse** 
 
 Diffuse reflection contains color information, and is most helpful in remote sensing.
 
+## Spectral Reflectance
+
 $$p_λ=\frac{E_R(λ)}{E_I(λ)}$$
 Where $p_λ$ is a percentage of *spectral reflectance*, which for objects can be graphed on a *spectral reflectance curve*
+Differences between two objects' reflectance curves can be used to differentiate objects easily, though this is not always the case.
+
+![[Spectral Reflectance Curves.png]]
+
+Vegetation manifests "peaks and valleys" in its spectral reflectance. Chlorophyll strongly absorbs 0.45 - 0.67 μm (called the *"chlorophyll absorption bands"*). Plant species vary in their reflectance in the range of 0.7 - 1.3 μm, which can also be affected by various stresses. More layers -> more reflectance.
+
+Water strongly absorbs 1.4, 1.9, 2.7 μm (*water absorption bands*)
+
+Soil reflectance is more based on its content (moisture, texture, roughness, etc.). Moisture is generally the most important factor, as sandy/coarse soil is more dry (more reflectance) while finer soils are more moist. Iron oxide in soi
