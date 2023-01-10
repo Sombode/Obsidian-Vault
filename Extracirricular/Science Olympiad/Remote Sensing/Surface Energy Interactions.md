@@ -15,8 +15,10 @@ Diffuse reflection contains color information, and is most helpful in remote sen
 ## Spectral Reflectance
 
 $$p_λ=\frac{E_R(λ)}{E_I(λ)}$$
-Where $p_λ$ is a percentage of *spectral reflectance*, which for objects can be graphed on a *spectral reflectance curve*
+Where $p_λ$ is a percentage of *spectral reflectance*, which for objects can be graphed on a *spectral reflectance curve*.
 Differences between two objects' reflectance curves can be used to differentiate objects easily, though this is not always the case.
+
+### Reflectance Curves
 
 ![[Spectral Reflectance Curves.png]]
 *Spectral reflectance curves for soil, vegetation, water*
@@ -29,6 +31,14 @@ Water in vegetation/soil strongly absorbs 1.4, 1.9, 2.7 μm (*water absorption b
 
 Regular water has distinct absorbance of [[NIR]] bands, no matter the type of body. Water conditions generally only appear in [[Visible Light]] bands. Water generally has high [[Transmittance]], especially with blue-green. Turbidity and dust particles can lower reflectance; other properties (chlorophyll, salt, etc.) also have some correlation to reflectance that can be measured.
 
+### Signatures/Responses
+
 **Spectral signatures** are another name for the measured spectral reflectance of an object, and are often used to determine various attributes/characteristics. They may also include *spectral emittance curves* (see [[Electromagnetic Waves#^bcf79e|here for more?]]). In contrast to **spectral response patterns**, signatures are more consistent/absolute (very similar otherwise). 
 
-Spectral response patterns may be altered by *temporal* or *spatial* effects. Temporal effects change the object over time, which can include seasonal changes for plants. Spatial effects result in different 
+Spectral response patterns may be altered by *temporal* or *spatial* effects. Temporal effects change the object over time, which can include seasonal changes for plants. Spatial effects result in different responses from the same feature at the same time at different places, as a result of factors such as climate or disease.
+
+The process of **change detection** seeks to measure/track the effect of temporal effects over time, such as observing the urbanization of an area.
+
+Spectral response patterns can also be influenced by the atmosphere, which among others can affect the *brightness* (radiance) of solar energy (the main example used here). Energy undergoes [[Attenuation]] (reduces) and the atmosphere also can reflect energy, adding *path radiance* to measured signals. Thus, the incoming radiance/irradiance follows:
+$$L_{tot}=\frac{pET}{\pi}+L_p$$
+Where $L_{tot}$ is total measured spectral radiance; $p$ is object reflectance; $E$ is irradiance on object, incoming energy; $T$ is transmission of atmosphere; $L_p$ is path radiance from the atmosphere.
