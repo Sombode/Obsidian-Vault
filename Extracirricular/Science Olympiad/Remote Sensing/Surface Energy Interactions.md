@@ -28,3 +28,7 @@ Soil reflectance is more based on its content (moisture, texture, roughness, etc
 Water in vegetation/soil strongly absorbs 1.4, 1.9, 2.7 μm (*water absorption bands*)
 
 Regular water has distinct absorbance of [[NIR]] bands, no matter the type of body. Water conditions generally only appear in [[Visible Light]] bands. Water generally has high [[Transmittance]], especially with blue-green. Turbidity and dust particles can lower reflectance; other properties (chlorophyll, salt, etc.) also have some correlation to reflectance that can be measured.
+
+**Spectral signatures** are another name for the measured spectral reflectance of an object, and are often used to determine various attributes/characteristics. They may also include *spectral emittance curves* (see [[Electromagnetic Waves#^bcf79e|here for more?]]). In contrast to **spectral response patterns**, signatures are more consistent/absolute (very similar otherwise). 
+
+Spectral response patterns may be altered by *temporal* or *spatial* effects. Temporal effects change the object over time, which can include seasonal changes for plants. Spatial effects result in different 
