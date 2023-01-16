@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Valorant/Maps/Icebox.md",
+                "file": "Personal/Valorant/General.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Valorant/Maps/Icebox.md",
+                "file": "Personal/Valorant/General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Valorant/Maps/Icebox.md",
+                "file": "Personal/Valorant/General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Valorant/Maps/Icebox.md"
+                "file": "Personal/Valorant/General.md"
               }
             }
           }
@@ -160,10 +160,10 @@
   },
   "active": "05ddf67e997b9b4c",
   "lastOpenFiles": [
+    "Personal/Valorant/Maps/Icebox.md",
     "Personal/Valorant/General.md",
     "Personal/Valorant/Maps/Pearl.md",
     "Personal/Valorant/Maps/Lotus.md",
-    "Personal/Valorant/Maps/Icebox.md",
     "Personal/Valorant/Maps/Haven.md",
     "Personal/Valorant/Maps/Breeze.md",
     "Personal/Valorant/Maps/Bind.md",
