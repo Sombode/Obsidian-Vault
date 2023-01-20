@@ -40,11 +40,11 @@ The ~~15~~ 14 landmark SCOTUS cases for the AP Gov Exam (2023).
 **Concepts**:
 - Freedom of Speech (First Amendment)
 **Summary**: Des Moines students planned a public showing of support for a truce in the Vietnam War, by wearing black armbands and fasting. The school created a policy against wearing armbands, and punished Mary Beth Tinker and Christopher Eckhardt.
-**Driving Question**: 
-**Relevant Outcome**:
+**Driving Question**: Was the symbolic protest (speech) of wearing armbands protected under free speech?
+**Relevant Outcome**: For Tinker. Armbands represented *pure speech* separate from any actions/conduct, and are protected on school property.
 
-# McCulloch v. Maryland (1819)
-**Time Period**: 3/6/1819
+# New York Times v. United States (1970)
+**Time Period**: 6/30/1971
 **Concepts**:
 **Summary**:
 **Relevant Outcome**:
