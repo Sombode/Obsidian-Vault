@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Landmark SCOTUS Cases.md",
+                "file": "School/Government/Landmark SCOTUS Cases.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Landmark SCOTUS Cases.md",
+                "file": "School/Government/Landmark SCOTUS Cases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Landmark SCOTUS Cases.md",
+                "file": "School/Government/Landmark SCOTUS Cases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Landmark SCOTUS Cases.md"
+                "file": "School/Government/Landmark SCOTUS Cases.md"
               }
             }
           }
@@ -159,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05ddf67e997b9b4c",
+  "active": "bf35ffa324e0b9fe",
   "lastOpenFiles": [
     "School/List of Death.md",
     "Personal/Valorant/General.md",
