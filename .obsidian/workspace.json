@@ -11,12 +11,8 @@
             "id": "05ddf67e997b9b4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Valorant/General.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -108,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Valorant/General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Valorant/General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Valorant/General.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,10 +150,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05ddf67e997b9b4c",
+  "active": "bf35ffa324e0b9fe",
   "lastOpenFiles": [
-    "Personal/Valorant/Maps/Icebox.md",
     "Personal/Valorant/General.md",
+    "Personal/Valorant/Maps/Icebox.md",
     "Personal/Valorant/Maps/Pearl.md",
     "Personal/Valorant/Maps/Lotus.md",
     "Personal/Valorant/Maps/Haven.md",
