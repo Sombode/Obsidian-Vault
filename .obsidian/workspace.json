@@ -11,8 +11,12 @@
             "id": "05ddf67e997b9b4c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Landmark SCOTUS Cases.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -104,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Landmark SCOTUS Cases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Landmark SCOTUS Cases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,15 +136,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Landmark SCOTUS Cases.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 1082.5,
-    "collapsed": true
+    "width": 1082.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,8 +157,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf35ffa324e0b9fe",
+  "active": "05ddf67e997b9b4c",
   "lastOpenFiles": [
+    "School/List of Death.md",
     "Personal/Valorant/General.md",
     "Personal/Valorant/Maps/Icebox.md",
     "Personal/Valorant/Maps/Pearl.md",
@@ -160,7 +168,6 @@
     "Personal/Valorant/Maps/Breeze.md",
     "Personal/Valorant/Maps/Bind.md",
     "Personal/Valorant/Maps/Ascent.md",
-    "Personal/Valorant/Maps/Images/Pearl Map.png",
-    "Personal/Valorant/Maps/Images/Lotus Map.png"
+    "Personal/Valorant/Maps/Images/Pearl Map.png"
   ]
 }
