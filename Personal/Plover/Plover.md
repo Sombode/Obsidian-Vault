@@ -24,6 +24,18 @@ Right Col 4 - TS (entices)
 Right Col 5 - DZ (doesn't)
 
 \* - Undo
+
+##### Plover Order
+STKPWHRAO\*EUFRPBLGTSDZ
+*^ VERY IMPORTANT*
+
+The way/sequence characters are laid down once chorded
+> Some exceptions do exist, called "inversions," for specific cases where it makes life easier without blocking other words
+
+If S comes before another letter, use F instead.
+
+
+
 # Vowels
 
 ## Short Vowels
@@ -36,11 +48,30 @@ Consecutive vowel sounds require the glyph with the matching short vowel sound.
 - heart = a
 - roar = o
 - tough = u
+
+"I" is chorded with EU
 ## Long Vowels
 
-
+AEU for long a (grape, saint)
+AOE for ee (seen, preach)
+AOEU for i (guise, spite)
+OE for oh (boat, grown)
+AOU for oo (glue, NO "oo" IN WORD), ew (few)
 
 ## Diphthongs
+
+AU for aw (bought, tawny, faun)
+OU for ow (down, mound)
+OEU or oi (toil, ploy)
+
+## Vowel Disambiguation
+
+*Some words can sound very similar but have different vowels, these remedy that.*
+
+AE for homonyms where one is spelled with "ea"
+> If neither has it, but one has at least an "a" and "e," use AE
+
+AO for words with "oo" or words with the "o" sound (from O or OE) but spelled with "oa"
 
 # Briefs
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Valorant/General.md",
+                "file": "Personal/Plover/Plover.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Valorant/General.md",
+                "file": "Personal/Plover/Plover.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Valorant/General.md",
+                "file": "Personal/Plover/Plover.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Valorant/General.md"
+                "file": "Personal/Plover/Plover.md"
               }
             }
           }
@@ -161,15 +161,15 @@
   },
   "active": "05ddf67e997b9b4c",
   "lastOpenFiles": [
+    "Personal/Plover/Practice/12 23 22 Practice.md",
+    "Personal/Valorant/General.md",
+    "Personal/Valorant/Maps/Pearl.md",
+    "Personal/Valorant/Maps/Haven.md",
     "Personal/Valorant/Maps/Icebox.md",
     "Personal/Valorant/Maps/Breeze.md",
     "Personal/Valorant/Maps/Bind.md",
     "Personal/Valorant/Maps/Ascent.md",
     "School/Government/Landmark SCOTUS Cases.md",
-    "School/List of Death.md",
-    "Personal/Valorant/General.md",
-    "Personal/Valorant/Maps/Pearl.md",
-    "Personal/Valorant/Maps/Lotus.md",
-    "Personal/Valorant/Maps/Haven.md"
+    "School/List of Death.md"
   ]
 }
