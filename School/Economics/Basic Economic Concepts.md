@@ -49,12 +49,16 @@ As life can be so convoluted and complex, focusing on one variable as dynamic an
 # Scarcity
 > There's no such thing as a free lunch.
 
-Scarcity is fundamental to economics, choices must be made. With limited resources, better decisions must be made to make with do with what you have. Time is one of the most scarce/precious resources. 
+Scarcity is fundamental to economics, choices must be made. With limited resources, decisions must be made to make with do with what you have. *Time is one of the most scarce/precious resources.*
+
+## Production Possibility Curves
+
+Production possibility curves (PPCs) represent the [[#Opportunity Cost]] of making goods out of scarce resources. Only so much can be produced, and the relationship between
 
 # Opportunity Cost
 > You can't have your cake and eat it too.
 
-
+Saying yes to something also means saying no to something else. Choosing one option puts you out of another. Sometimes it is best to say no to an opportunity and save you cost of time/effort for something not worthwhile. Choosing how to spend time is one of the best examples of this, you can choose to spend it doing X, but that means that you can't do Y in that time.
 # Common Fallacies
 
 ## Fallacy of Composition
