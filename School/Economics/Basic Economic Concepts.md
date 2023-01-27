@@ -8,7 +8,25 @@
 	- Still based on solid facts
 	- People make decisions in their best interest (not necessarily *selfish*, just *rational*)
 	- The status quo matters
+- Marginal thinking (what happens *next*?)
 
+## Types
+### Microeconomics
+Looks at small, individual markets.
+- Individuals
+- Households
+- Specific Firms
+
+> ex. _Wheat market_ over the US economy/whole agricultural market
+### Macroeconomics
+Looking at the whole economy, or large general segments of it. Focuses on the aggregate (GDP, all consumers, all businesses, inflation, unemployment, etc.).
+
+### Positive Economics
+Looking just at the facts/data. Cleaner/simpler.
+> ex. Gas prices are $3.67/gallon.
+### Normative Economics
+Value judgements, what does X mean? More speculation. What is good, what is bad?
+> ex. Gas prices are $3.67/gallon, *which is too high and will make people drive less.*
 ## Ceteris Paribus
 As life can be so convoluted and complex, focusing on one variable as dynamic and treating everything else as a static constant helps make better sense of things.
 > ex. What happens to X when Y changes?
@@ -45,9 +63,8 @@ Large in the sports world, "rituals" to increase luck/likelihood of events. Supe
 Just because two sets of data are correlated, doesn't mean that one causes the other. There could be external factors that create this correlation, or it could be coincidence.
 
 # Basic Economic Questions
+- What to Produce?
+- How Much to Produce?
+- For Whom?
+	- Distributions of products/profits
 
-## What to Produce?
-
-## How Much to Produce?
-
-## For Who
