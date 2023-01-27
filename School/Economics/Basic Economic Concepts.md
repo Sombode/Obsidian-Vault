@@ -10,7 +10,10 @@
 	- The status quo matters
 - Marginal thinking (what happens *next*?)
 - All societies must answer **3 basic questions**:
-	- 
+	- What to Produce?
+	- How Much to Produce?
+	- For Whom?
+		- Distributions of products/profits
 
 ## Types
 ### Microeconomics
