@@ -9,6 +9,8 @@
 	- People make decisions in their best interest (not necessarily *selfish*, just *rational*)
 	- The status quo matters
 - Marginal thinking (what happens *next*?)
+- All societies must answer **3 basic questions**:
+	- 
 
 ## Types
 ### Microeconomics
@@ -61,10 +63,3 @@ Large in the sports world, "rituals" to increase luck/likelihood of events. Supe
 
 ## Correlation vs. Causation
 Just because two sets of data are correlated, doesn't mean that one causes the other. There could be external factors that create this correlation, or it could be coincidence.
-
-# Basic Economic Questions
-- What to Produce?
-- How Much to Produce?
-- For Whom?
-	- Distributions of products/profits
-
