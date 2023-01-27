@@ -2,7 +2,7 @@
 - Social science (deals with people)
 	- Generalizations for people as a whole, there will be exceptions
 - Working with *limited resources* and *unlimited wants/needs* ([[#Scarcity]])
-	- You can't have your cake and eat it too ([[Opportunity Cost]])
+	- You can't have your cake and eat it too ([[#Opportunity Cost]])
 - Economics is in terms of **abstractions**
 	- Simplified models for the real world
 	- Still based on solid facts
@@ -32,14 +32,6 @@ Looking just at the facts/data. Cleaner/simpler.
 ### Normative Economics
 Value judgements, what does X mean? More speculation. What is good, what is bad?
 > ex. Gas prices are $3.67/gallon, *which is too high and will make people drive less.*
-## Ceteris Paribus
-As life can be so convoluted and complex, focusing on one variable as dynamic and treating everything else as a static constant helps make better sense of things.
-> ex. What happens to X when Y changes?
-
-## Scarcity
-> There's no such thing as a free lunch.
-
-Scarcity is fundamental to economics, choices must be made. With limited resources, better decisions must be made to make with do with what you have. Time is one of the most scarce/precious resources. 
 
 ## Pitfalls to Objectivity
 - Bias
@@ -48,6 +40,20 @@ Scarcity is fundamental to economics, choices must be made. With limited resourc
 	- Think critically
 - Definitions
 	- Can be slightly different for each person (connotations, etc.)
+# Ceteris Paribus
+> Keep it simple, stupid.
+
+As life can be so convoluted and complex, focusing on one variable as dynamic and treating everything else as a static constant helps make better sense of things.
+> ex. What happens to X when Y changes?
+
+# Scarcity
+> There's no such thing as a free lunch.
+
+Scarcity is fundamental to economics, choices must be made. With limited resources, better decisions must be made to make with do with what you have. Time is one of the most scarce/precious resources. 
+
+# Opportunity Cost
+> You can't have your cake and eat it too.
+
 
 # Common Fallacies
 
