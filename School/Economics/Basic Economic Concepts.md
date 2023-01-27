@@ -3,7 +3,7 @@
 	- Generalizations for people as a whole, there will be exceptions
 - Working with *limited resources* and *unlimited wants/needs* ([[#Scarcity]])
 	- You can't have your cake and eat it too ([[Opportunity Cost]])
-- Economics is in terms of abstractions
+- Economics is in terms of **abstractions**
 	- Simplified models for the real world
 	- Still based on solid facts
 	- People make decisions in their best interest (not necessarily *selfish*, just *rational*)
@@ -15,7 +15,7 @@
 	- For Whom?
 		- Distributions of products/profits
 
-## Types
+## Types of Economics
 ### Microeconomics
 Looks at small, individual markets.
 - Individuals
