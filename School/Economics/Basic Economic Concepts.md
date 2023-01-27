@@ -53,8 +53,15 @@ Scarcity is fundamental to economics, choices must be made. With limited resourc
 
 ## Production Possibility Curves
 
-Production possibility curves (PPCs) represent the [[#Opportunity Cost]] of making goods out of scarce resources. Only so much can be produced, and the relationship between
+Production possibility curves (PPCs) represent the [[#Opportunity Cost]] of making goods out of scarce resources. Only so much can be produced, and the relationship between the two is what's graphed.
 
+Say a nation uses *all* of its resources to produce good A, they can't produce any of good B, and vice-versa.
+
+Over time, a nation's PPC can change as it improves and experiences e
+### Law of Increasing Opportunity Cost
+Generally PPCs are concave, representing an *increasing* opportunity cost as a unit of a good is produced. This is because if all resources are put toward making good A, then the same specialized factories can be used to make large quantities. If some of good B is to be produced, other specialized factories/processes need to be made before any of good B can be produced, taking away from the pool of available resources.
+
+![[Sample PPC.png]]
 # Opportunity Cost
 > You can't have your cake and eat it too.
 
