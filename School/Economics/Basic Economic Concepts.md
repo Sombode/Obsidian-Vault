@@ -49,7 +49,7 @@ As life can be so convoluted and complex, focusing on one variable as dynamic an
 # Scarcity
 > There's no such thing as a free lunch.
 
-Scarcity is fundamental to economics, choices must be made. With limited resources, decisions must be made to make with do with what you have. *Time is one of the most scarce/precious resources.*
+Scarcity is fundamental to economics, choices must be made. With limited resources, decisions must be made to make with do with what you have ("you can't have it all". *Time is one of the most scarce/precious resources.*
 
 ## Production Possibility Curves
 

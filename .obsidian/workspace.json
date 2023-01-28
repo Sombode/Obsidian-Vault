@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "ca7517074b323c9e",
+            "id": "cc7e8945610e36e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Economics/Maybe LaTeX Graphs.md",
+                "file": "School/Economics/Economics, AP Edition, 22nd Edition..md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Economics/Maybe LaTeX Graphs.md",
+                "file": "School/Economics/Economics, AP Edition, 22nd Edition..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Economics/Maybe LaTeX Graphs.md",
+                "file": "School/Economics/Economics, AP Edition, 22nd Edition..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Economics/Maybe LaTeX Graphs.md"
+                "file": "School/Economics/Economics, AP Edition, 22nd Edition..md"
               }
             }
           }
@@ -172,17 +172,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca7517074b323c9e",
+  "active": "cc7e8945610e36e4",
   "lastOpenFiles": [
     "School/Economics/Basic Economic Concepts.md",
+    "School/Economics/Economics, AP Edition, 22nd Edition..md",
+    "School/Economics/Maybe LaTeX Graphs.md",
     "School/Economics/Sample PPC.png",
     "README.md",
     "Personal/Plover/Plover.md",
     "Personal/Plover/Practice/12 23 22 Practice.md",
     "Personal/Valorant/General.md",
     "Personal/Valorant/Maps/Pearl.md",
-    "Personal/Valorant/Maps/Haven.md",
-    "Personal/Valorant/Maps/Icebox.md",
-    "Personal/Valorant/Maps/Breeze.md"
+    "Personal/Valorant/Maps/Haven.md"
   ]
 }
