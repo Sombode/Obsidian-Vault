@@ -43,6 +43,8 @@ Value judgements, what does X mean? More speculation. What is good, what is bad?
 # Ceteris Paribus
 > Keep it simple, stupid.
 
+Also known as the *"other-things-equal assumption"*
+
 As life can be so convoluted and complex, focusing on one variable as dynamic and treating everything else as a static constant helps make better sense of things.
 > ex. What happens to X when Y changes?
 
