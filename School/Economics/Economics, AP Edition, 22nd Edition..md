@@ -61,6 +61,20 @@ Budget lines/constraints can be used to visualize the combinations of two produc
 
 Society itself faces an economizing problem, as it has limited resources to allocate and use. These *economic resources* fall under four main categories:
 1. Land
+	1. Natural resources (forests, oil deposits, water, wind, sunlight, etc.)
 2. Labor
+	1. Physical action and mental activities of people
 3. Capital
-4. Etrepreneurial Ability
+	1. *Captial goods* are the manufactured aids to help in producing consumer goods/services (factories, transport, storage, tools, etc.) 
+	2. Spending on this is generally called an *investment*
+	3. Money is **NOT** an economic resource
+4. Entrepreneurial Ability
+	1. A human resource distinct from labor, where *entrepreneurs*:
+		1. Take initiative to start producing a good/service
+		2. Make strategic business decisions for an enterprise
+		3. Innovate, making new products/techniques
+		4. Bear risk to bring forth new products/ideas
+
+These resources are called *factors of production*, or *inputs*.
+
+Choosing to produce consumer goods (that immediately satisfy wants) over capital goods help satisfy current wants, but hinders future production capability. Capital goods can help build delayed gratification down the road.
