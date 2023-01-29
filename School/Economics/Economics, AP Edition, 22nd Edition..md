@@ -1,4 +1,4 @@
-by Campbell R. Mcconnell, Stanley L. Brue, Sean M. Flynn
+by Campbell R. McConnell, Stanley L. Brue, Sean M. Flynn
 ISBN-13: 978-0-07-681974-4
 
 ---
@@ -13,7 +13,7 @@ ISBN-13: 978-0-07-681974-4
 ## Scarcity
 > [[Basic Economic Concepts#Scarcity|Related Section]]
 
-Society's wants/needs far exceed what it has available, with goods and services in limited supply. Scarcity causes choices, because you "can't have it all." Even if something is "free" to you, someone else bears the cost.
+Society's wants/needs far exceed what it has available, with goods and services in limited supply (called the **Economizing Problem**). Scarcity causes choices, because you "can't have it all." Even if something is "free" to you, someone else bears the cost.
 
 ## Utility
 
@@ -30,3 +30,20 @@ Marginal costs can include [[Basic Economic Concepts#Opportunity Cost|opportunit
 ## Scientific Thinking
 
 Economists can rely on the [[Scientific Method]] to rationally produce economic laws/principles, widely accepted/tested general assumptions on economic behaviors. They also simplify the world to better understand it, seen with [[Basic Economic Concepts#Ceteris Paribus|Ceteris Paribus]].
+
+## Types of Economics
+
+### Micro/Macro
+> [[Basic Economic Concepts#Microeconomics|Related Section]]
+
+Microeconomics works on the individual scale, focusing on singular/specific objects (products, consumers).
+
+Macroeconomics works on a larger scope, frequently using *aggregates* to represent components of a system (lumping together all people as *consumers*)
+
+### Positive and Normative
+> [[Basic Economic Concepts#Positive Economics|Related Section]]
+
+Positive economics works with pure facts and cause-and-effect relationships. 
+
+Normative economics incorporates *value judgements* about recommended actions/*what it ought to be* (more subjunctive).
+
