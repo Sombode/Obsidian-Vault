@@ -13,7 +13,7 @@ ISBN-13: 978-0-07-681974-4
 ## Scarcity
 > [[Basic Economic Concepts#Scarcity|Related Section]]
 
-Society's wants/needs far exceed what it has available, with goods and services in limited supply (called the **Economizing Problem**). Scarcity causes choices, because you "can't have it all." Even if something is "free" to you, someone else bears the cost.
+Society's wants/needs far exceed what it has available, with goods and services in limited supply (called [[#The Economizing Problem]]). Scarcity causes choices, because you "can't have it all." Even if something is "free" to you, someone else bears the cost.
 
 ## Utility
 
@@ -47,3 +47,20 @@ Positive economics works with pure facts and cause-and-effect relationships.
 
 Normative economics incorporates *value judgements* about recommended actions/*what it ought to be* (more subjunctive).
 
+## The Economizing Problem
+
+People's desires for good/services (be it necessities or luxuries) far exceed their ability to procure them. These unlimited desires are restricted by limited resources, and can be near impossible to truly satiate.
+
+### Budget Lines
+
+Budget lines/constraints can be used to visualize the combinations of two products a consumer can buy with a set budget. *Similar to a [[Basic Economic Concepts#Production Possibility Curves||PPC]] where the resource used is money.* 
+
+![[Sample Budget Line.png]]
+
+### Society
+
+Society itself faces an economizing problem, as it has limited resources to allocate and use. These *economic resources* fall under four main categories:
+1. Land
+2. Labor
+3. Capital
+4. Etrepreneurial Ability
