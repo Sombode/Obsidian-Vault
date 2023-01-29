@@ -81,4 +81,4 @@ Society itself faces an economizing problem, as it has limited resources to allo
 
 These resources are called *factors of production*, or *inputs*.
 
-Choosing to produce consumer goods (that immediately satisfy wants) over capital goods help satisfy current wants, but hinders future production capability. Capital goods can help build delayed gratification down the road.
+Choosing to produce consumer goods (that immediately satisfy wants) over capital goods help satisfy current wants, but hinders future production capability. Capital goods can help build delayed gratification down the road, leading to greater economic growth in the future.

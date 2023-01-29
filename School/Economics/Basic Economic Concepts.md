@@ -60,13 +60,19 @@ Production possibility curves (PPCs) represent the [[#Opportunity Cost]] of maki
 Say a nation uses *all* of its resources to produce good A, they can't produce any of good B, and vice-versa.
 	Not operating at full capacity, for reasons such as unemployment, put their production at a point such as point A (see below), beneath the PPC.
 
-Over time, a nation's PPC can change as it improves and experiences *economic growth*, gaining a larger/better educated work force among other factors.
+Over time, a nation's PPC can change as it improves and experiences *economic growth*, which can be due to:
+1. Increased supply of resources
+2. Increased *quality* of resources (ex. better educated workforce)
+3. Technological advances
 
 Another way the same data can be illustrated is with a *Production Possibilities Table*.
+
+![[Sample PPC.png]]
 ### Law of Increasing Opportunity Cost
 Generally PPCs are concave, representing an *increasing* opportunity cost as a unit of a good is produced. This is because if all resources are put toward making good A, then the same specialized factories can be used to make large quantities. If some of good B is to be produced, other specialized factories/processes need to be made before any of good B can be produced, taking away from the pool of available resources.
 
-![[Sample PPC.png]]
+International trade can somewhat circumvent this, as regions can each specialize in a certain resource and exchange between themselves, allowing a PPC to be bypassed and emulating economic growth where it isn't.
+
 # Opportunity Cost
 > You can't have your cake and eat it too.
 
