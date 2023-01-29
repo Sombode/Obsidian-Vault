@@ -27,4 +27,6 @@ Marginal thinking/marginal analysis revolves around thinking of **what comes nex
 
 Marginal costs can include [[Basic Economic Concepts#Opportunity Cost|opportunity costs]].
 
-## Scientific Thnk
+## Scientific Thinking
+
+Economists can rely on the [[Scientific Method]] to rationally produce economic laws/principles, widely accepted/tested general assumptions on economic behaviors. They also simplify the world to better understand it, seen with [[Basic Economic Concepts#Ceteris Paribus|Ceteris Paribus]].
