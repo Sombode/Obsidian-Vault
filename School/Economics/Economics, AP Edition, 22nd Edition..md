@@ -21,11 +21,15 @@ Society's wants/needs far exceed what it has available, with goods and services 
 
 ## Marginal Thinking
 
-Marginal thinking/marginal analysis revolves around thinking of **what comes next**. People consider **changes** in the current system (ex. Should I study an hour more? Should the government increase funding?) by looking at the marginal benefits and marginal costs to make rational choices. 
+Marginal thinking/marginal analysis revolves around thinking of **what comes next**. People consider **changes** in the current system (ex. Should I study an hour more? Should the government increase funding?) by looking at the marginal benefits (MB) and marginal costs (MC) to make rational choices. 
 
 > ex. If you choose to buy a larger diamond, the *marginal cost* is the extra money it will cost, but the *marginal benefit* is the longer pleasure derived from it.
 
 Marginal costs can include [[Basic Economic Concepts#Opportunity Cost|opportunity costs]].
+
+Optimized choices often occur when $MB=MC$
+
+![[Sample MB = MC.png]]
 
 ## Scientific Thinking
 

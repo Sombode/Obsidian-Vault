@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Economics/Economics, AP Edition, 22nd Edition..md",
+                "file": "School/Economics/Basic Economic Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Economics/Economics, AP Edition, 22nd Edition..md",
+                "file": "School/Economics/Basic Economic Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,12 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Economics/Economics, AP Edition, 22nd Edition..md"
+                "file": "School/Economics/Basic Economic Concepts.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -173,10 +172,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc7e8945610e36e4",
+  "active": "5b68c46820a07dcc",
   "lastOpenFiles": [
-    "School/Economics/Basic Economic Concepts.md",
     "School/Economics/Economics, AP Edition, 22nd Edition..md",
+    "School/Economics/Basic Economic Concepts.md",
     "School/Economics/Maybe LaTeX Graphs.md",
     "School/Economics/Sample PPC.png",
     "README.md",
