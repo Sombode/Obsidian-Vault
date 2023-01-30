@@ -82,3 +82,12 @@ Society itself faces an economizing problem, as it has limited resources to allo
 These resources are called *factors of production*, or *inputs*.
 
 Choosing to produce consumer goods (that immediately satisfy wants) over capital goods help satisfy current wants, but hinders future production capability. Capital goods can help build delayed gratification down the road, leading to greater economic growth in the future.
+
+# Chapter 2
+> The Market System and Circular Flow
+
+## Economic Systems
+
+Economic systems are designed to solve a society's [[#The Economizing Problem|Economizing Problem]], differing in (1) who owns factors of production and (2) the method used to motivate, coordinate, and direct economic activity.
+
+The two extreme ends of economic systems are the decentralized *laissez-faire capitalism* ("pure capitalism," minimal government influence, the market directs activity) and the highly centralized *command system* (heavy government influence/control; seen in communist/socialist countries such as the USSR, Cuba, and China; government owns/controls business firms, centralized planning). Most economic systems lie in-between, called *market systems*/*mixed economies* (capitalism, a mix of government initiatives and decentralized actions, buyers and sellers come together at *markets* to conduct activity, many can and will act in self-interest).
