@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Economics/Economics, AP Edition, 22nd Edition..md",
+                "file": "School/Economics/Class Notes/1-30-2023 Econ Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,6 +33,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "81b6fae40da4959c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "046b48ad08d6f33c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Economics/Economics, AP Edition, 22nd Edition..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Economics/Economics, AP Edition, 22nd Edition..md",
+                "file": "School/Economics/Class Notes/1-30-2023 Econ Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Economics/Economics, AP Edition, 22nd Edition..md",
+                "file": "School/Economics/Class Notes/1-30-2023 Econ Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Economics/Economics, AP Edition, 22nd Edition..md"
+                "file": "School/Economics/Class Notes/1-30-2023 Econ Notes.md"
               }
             }
           }
@@ -174,15 +192,15 @@
   },
   "active": "cc7e8945610e36e4",
   "lastOpenFiles": [
-    "School/Economics/Basic Economic Concepts.md",
     "School/Economics/Economics, AP Edition, 22nd Edition..md",
+    "School/Economics/Class Notes/1-30-2023 Econ Notes.md",
+    "School/Economics/Basic Economic Concepts.md",
     "School/Economics/Maybe LaTeX Graphs.md",
     "School/Economics/Sample PPC.png",
     "README.md",
     "Personal/Plover/Plover.md",
     "Personal/Plover/Practice/12 23 22 Practice.md",
     "Personal/Valorant/General.md",
-    "Personal/Valorant/Maps/Pearl.md",
-    "Personal/Valorant/Maps/Haven.md"
+    "Personal/Valorant/Maps/Pearl.md"
   ]
 }
