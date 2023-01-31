@@ -128,3 +128,7 @@ A modified domestic [[Basic Economic Concepts#Production Possibility Curves|PPC]
 Some argue that *absolute advantage* is not as necessary as *comparative advantage*, so even countries more productive than others should trade. Even having *absolute disadvantage* still doesn't matter as long as *comparative advantage* exists (better to delegate resource cost to others).
 
 Specialization results in better/efficient resource allocation, and increases the possible amount of resources for all parties involved. The extra resources that can be gained under this (compared to if it were self-sufficient) are called *gains from trade*.
+
+### Trade with Increasing Opportunity Costs
+
+If opportunity costs were to increase with each unit of one good, as it [[Basic Economic Concepts#Law of Increasing Opportunity Cost|usually does]], trade becomes less optimal as each party tries to optimize its production ratio, where 
