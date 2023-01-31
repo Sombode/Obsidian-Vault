@@ -55,6 +55,8 @@ Scarcity is fundamental to economics, choices must be made. With limited resourc
 
 ## Production Possibility Curves
 
+*Also known as Production Possibility Frontiers*
+
 Production possibility curves (PPCs) represent the [[#Opportunity Cost]] of making goods out of scarce resources. Only so much can be produced, and the relationship between the two is what's graphed.
 
 PPCs operate under a few key assumptions:

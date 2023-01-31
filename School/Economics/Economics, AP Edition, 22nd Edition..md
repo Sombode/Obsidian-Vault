@@ -112,6 +112,13 @@ The two extreme ends of economic systems are the decentralized *laissez-faire ca
 
 *Open economies* (to international trade) produce more of some goods (*exports*) than others (*imports*) than they would if they were a *closed economy*. This is because with trade, becoming increasingly specialized in producing certain goods means that the nation has an *absolute advantage* (as it is a more efficient producer of that good than others, being specialized; **lower per unit cost**) and *comparative advantage* (if it can produce the product at a **lower [[Basic Economic Concepts#Opportunity Cost|Opportunity Cost]]** than others).
 
-Some argue that *absolute advantage* is not as necessary as *comparative advantage*, so even countries more productive than others should trade. Even having *absolute disadvantage* still doesn't matter as long as *comparative advantage* exists (better to delegate resource cost to others).
-
 With a constant [[Basic Economic Concepts#Production Possibility Curves|PPC]] in mind, the comparative advantage of a country depends on its *opportunity-cost ratio* (*domestic exchange ratio*) of the two goods compared to others. 
+
+The exchange rate between the goods when traded between countries is called the *terms of trade* (*international exchange ratio*). Each party involved wants (but isn't always able to) to get a ratio that is **better** than if they produced it themselves.
+
+### Trading Possibility Lines
+
+### Principle of Comparative Advantage
+**It is best to specialize in producing goods where you have lower opportunity costs than others.
+
+Some argue that *absolute advantage* is not as necessary as *comparative advantage*, so even countries more productive than others should trade. Even having *absolute disadvantage* still doesn't matter as long as *comparative advantage* exists (better to delegate resource cost to others).

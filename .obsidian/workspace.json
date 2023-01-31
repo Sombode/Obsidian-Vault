@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Economics/Economics, AP Edition, 22nd Edition..md"
+                "file": "School/Economics/Basic Economic Concepts.md"
               }
             }
           }
@@ -131,10 +130,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d8d689632c4c832",
+  "active": "5b68c46820a07dcc",
   "lastOpenFiles": [
-    "Backend/Tasks.md",
     "School/Economics/Economics, AP Edition, 22nd Edition..md",
+    "Backend/Tasks.md",
     "School/Economics/Class Notes/1-30-2023 Econ Notes.md",
     "School/Economics/Basic Economic Concepts.md",
     "School/Economics/Maybe LaTeX Graphs.md",
