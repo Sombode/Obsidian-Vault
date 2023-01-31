@@ -68,7 +68,7 @@ Society itself faces an economizing problem, as it has limited resources to allo
 	1. Natural resources (forests, oil deposits, water, wind, sunlight, etc.)
 2. Labor
 	1. Physical action and mental activities of people
-3. Capital
+3. (Real) Capital
 	1. *Captial goods* are the manufactured aids to help in producing consumer goods/services (factories, transport, storage, tools, etc.) 
 	2. Spending on this is generally called an *investment*
 	3. Money is **NOT** an economic resource
@@ -78,6 +78,10 @@ Society itself faces an economizing problem, as it has limited resources to allo
 		2. Make strategic business decisions for an enterprise
 		3. Innovate, making new products/techniques
 		4. Bear risk to bring forth new products/ideas
+5. Human Capital
+	1. The skills/abilities of people
+	2. Commonly education
+	3. Sometimes not listed as a economic resource
 
 These resources are called *factors of production*, or *inputs*.
 
