@@ -105,3 +105,9 @@ The two extreme ends of economic systems are the decentralized *laissez-faire ca
 1. The distribution of resources among nations is uneven
 2. Efficient production requires specialized/expertise with technology
 3. Products differ in quality/attributes, so imported goods may be preferred over domestic
+
+> ex. China can mass produce *labor-intensive goods* (for... reasons) like textiles and electronics, Australia can produce *land-intensive goods* such as wool and meat, Mexico has the climate to mass produce produce, and the US can produce *capital-intensive goods* such as vehicles, equipment, and machinery due to its industrialization. With this, each country can specialize in certain products they excel at producing and get the others from each other.
+
+## Comparative/Absolute Advantage
+
+*Open economies* (to international trade) produce more of some goods (*exports*) than others (*imports*) than they would if they were a *closed economy*. This is because with trade, becoming increasingly specialized in producing certain goods means that the nation has an *absolute advantage* (as it is a more efficient producer of that good than others, being specialized) and *comparative advantage* (if it can produce the product at a lower [[Basic Economic Concepts#Opportunity Cost|Opportunity Cost]] than others).
