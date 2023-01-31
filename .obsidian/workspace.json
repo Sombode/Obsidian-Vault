@@ -33,24 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "526c6491c67f6c14",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6e000ae242354b91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Economics/Class Notes/1-30-2023 Econ Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "189a38ed5c48185a",
@@ -122,48 +105,7 @@
             }
           },
           {
-            "id": "7b5675a692e1b505",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend/Tasks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72ed66b35a4c99ce",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "School/Economics/Economics, AP Edition, 22nd Edition..md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "e53bd8310a44db8c",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "School/Economics/Economics, AP Edition, 22nd Edition..md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "50aa08a66364fd63",
+            "id": "4d8d689632c4c832",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -173,12 +115,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
-    "collapsed": true
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,17 +131,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "046b48ad08d6f33c",
+  "active": "4d8d689632c4c832",
   "lastOpenFiles": [
-    "School/Economics/Basic Economic Concepts.md",
-    "School/Economics/Class Notes/1-30-2023 Econ Notes.md",
+    "Backend/Tasks.md",
     "School/Economics/Economics, AP Edition, 22nd Edition..md",
+    "School/Economics/Class Notes/1-30-2023 Econ Notes.md",
+    "School/Economics/Basic Economic Concepts.md",
     "School/Economics/Maybe LaTeX Graphs.md",
     "School/Economics/Sample PPC.png",
     "README.md",
     "Personal/Plover/Plover.md",
     "Personal/Plover/Practice/12 23 22 Practice.md",
-    "Personal/Valorant/General.md",
-    "Personal/Valorant/Maps/Pearl.md"
+    "Personal/Valorant/General.md"
   ]
 }
