@@ -87,7 +87,7 @@ Generally PPCs are concave, representing an *increasing* opportunity cost as a u
 
 This is why PPCs are *generally* curved/bowed out, instead of constant/straight. Vertical/horizontal PPCs indicate no correlation between the two goods.
 
-International trade can somewhat circumvent this, as regions can each specialize in a certain resource and exchange between themselves, allowing a PPC to be bypassed and emulating economic growth where it isn't.
+International trade can somewhat circumvent this, as regions can each specialize in a certain resource and exchange between themselves, allowing a PPC to be bypassed and emulating economic growth where it isn't (see [[Economics, AP Edition, 22nd Edition.#Comparative/Absolute Advantage|this section]] for better analysis).
 
 # Opportunity Cost
 > You can't have your cake and eat it too.

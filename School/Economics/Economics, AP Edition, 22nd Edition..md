@@ -108,6 +108,8 @@ The two extreme ends of economic systems are the decentralized *laissez-faire ca
 
 > ex. China can mass produce *labor-intensive goods* (for... reasons) like textiles and electronics, Australia can produce *land-intensive goods* such as wool and meat, Mexico has the climate to mass produce produce, and the US can produce *capital-intensive goods* such as vehicles, equipment, and machinery due to its industrialization. With this, each country can specialize in certain products they excel at producing and get the others from each other.
 
+Trade also deters monopolies by promoting competition, with foreign firms competing with domestic, each innovating to find the lowest prices. Trade plays a large role in preventing war, and imported products allow for a wider variety of goods.
+
 ## Comparative/Absolute Advantage
 
 *Open economies* (to international trade) produce more of some goods (*exports*) than others (*imports*) than they would if they were a *closed economy*. This is because with trade, becoming increasingly specialized in producing certain goods means that the nation has an *absolute advantage* (as it is a more efficient producer of that good than others, being specialized; **lower per unit cost**) and *comparative advantage* (if it can produce the product at a **lower [[Basic Economic Concepts#Opportunity Cost|Opportunity Cost]]** than others).
@@ -131,4 +133,4 @@ Specialization results in better/efficient resource allocation, and increases th
 
 ### Trade with Increasing Opportunity Costs
 
-If opportunity costs were to increase with each unit of one good, as it [[Basic Economic Concepts#Law of Increasing Opportunity Cost|usually does]], trade becomes less optimal as each party tries to optimize its production ratio, where 
+If opportunity costs were to increase with each unit of one good, as it [[Basic Economic Concepts#Law of Increasing Opportunity Cost|usually does]], trade becomes less optimal as each party tries to optimize its production ratio, and the differing ratios that provide trade with its benefits disappear. This leads to less-than-complete specialization, and sometimes domestic products can compete with imported ones.
