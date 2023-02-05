@@ -138,6 +138,17 @@ Businesses must keep with the development of new innovations/products as they su
 #### Captial Accumulation
 
 Consumer preferences (*dollar votes*) for certain products give businesses the revenue to buy capital goods to increase and expand production, allowing for greater profits in the future.
+
+## The Invisible Hand
+
+A key concept of laissez-faire and market systems, the "invisible hand" as described by [[Adam Smith]] guides businesses to promote the public interest.
+
+Competition drives businesses to create better products for less (see [[#Technological Advancement|here]] and [[#How will the System accommodate Change?|here]]), and so tailor towards the interest of consumers. In following their self-interest for profit, they must accommodate others' interests for products. Cheaper/more efficient production methods free up resources for other applications as well.
+
+The three main virtues of the market system are:
+1. **Efficiency** in promoting better/cheaper production methods
+2. **Incentives** for innovation and work in economic rewards
+3. **Freedom** for workers and businesses to work in self-interest, and be rewarded/punished
 # Chapter 34
 > International Trade
 
