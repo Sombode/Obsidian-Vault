@@ -101,18 +101,22 @@ The two extreme ends of economic systems are the decentralized *laissez-faire ca
 Market systems are a mix of command and laissez-faire systems, with a mix of self-interest and government initiatives.
 
 Market systems work to answer 5 main questions:
-1. [[What goods and services will be produced?]]
-2. [[How will the goods and services be produced?]]
-3. Who will get the output?
-4. How will the system accommodate change?
-5. How will the system promote progress?
+1. [[#What goods and services will be produced?]]
+2. [[#How will the goods and services be produced?]]
+3. [[#Who will get the output?]]
+4. [[#How will the system accommodate change?]]
+5. [[#How will the system promote progress?]]
 
 > Yes, some of these are similar to the fundamental [[Basic Economic Concepts#^def918|economic questions]] for all societies.
 
 ### What Goods and Services will be Produced?
 
+Products that produce a net profit will be produced, while those that produce a net loss will be discontinued. In terms of total revenue (TR) and total cost (TC), industries where $TR>TC$ will stay and possibly grow. Industries where $TR<TC$ will shrink and some may go out of business.
+
+Most choices revolve around individual businesses joining or leaving industries, and **businesses are driven by the choices/preferences of consumers** (*consumer sovereignty*). What consumers buy with their *dollar votes* indicate what they do/do not want to buy, influencing the market.
 ### How Will the Goods and Services be Produced?
 
+The manufacturing/production process for goods/services will be optimized to minimize cost in order to maximize profit, with many factors playing into optimized costs (labor, resources, location).
 ### Who will get the Output?
 
 ### How will the System accommodate Change?
