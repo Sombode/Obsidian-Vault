@@ -105,7 +105,20 @@ The three main virtues of the market system are:
 2. **Incentives** for innovation and work in economic rewards
 3. **Freedom** for workers and businesses to work in self-interest, and be rewarded/punished
 
+### Downfalls of Command Systems
 
+#### Coordination
+
+With a few needing to coordinate the many, it becomes more difficult to effectively coordinate and execute tasks. If one resource is underperforms, everything that relies on it underperforms as well. This later resulted in cutting down product variety to make up for the complexity of coordination.
+
+#### Measurement
+
+With profit as the general measure of success in market/laissez-faire systems, command economies lack the means to effectively measure the performance of the economy. They used production quotas, but this sacrificed quality and variety for number. If a designated weight was to be the quota, companies would produce large and heavy objects in few quantities. If a designated amount was set, then companies produced many small objects.
+#### Incentive
+
+Planners needed to account for public needs and accordingly accommodate, but this seldom worked well. Shortage and surplus was common. Factory managers never had incentive to adjust as they were rewarded as long as they met the set quota.
+
+### Essential Questions to Market Systems
 
 Market systems work to answer 5 main questions:
 1. [[#What goods and services will be produced?]]
@@ -116,33 +129,33 @@ Market systems work to answer 5 main questions:
 
 > Yes, some of these are similar to the fundamental [[Basic Economic Concepts#^def918|economic questions]] for all societies.
 
-### What Goods and Services will be Produced?
+#### What Goods and Services will be Produced?
 
 Products that produce a net profit will be produced, while those that produce a net loss will be discontinued. In terms of total revenue (TR) and total cost (TC), industries where $TR>TC$ will stay and possibly grow. Industries where $TR<TC$ will shrink and some may go out of business.
 
 Most choices revolve around individual businesses joining or leaving industries, and **businesses are driven by the choices/preferences of consumers** (*consumer sovereignty*). What consumers buy with their "*dollar votes*" indicate what they do/do not want to buy, influencing the market.
-### How Will the Goods and Services be Produced?
+#### How Will the Goods and Services be Produced?
 
 The manufacturing/production process for goods/services will be optimized to minimize cost in order to maximize profit, with many factors playing into optimized costs (labor, resources, location).
 
 >Cost optimization becomes more important as competition comes into play, with multiple sellers competing to lower costs and sell to consumers with the cheapest prices possible.
-### Who will get the Output?
+#### Who will get the Output?
 
 As long as one can and is willing to pay the price of a product, they generally are able to obtain it. This can be influenced by one's income and preferences.
-### How will the System accommodate Change?
+#### How will the System accommodate Change?
 
 Market systems are dynamic, constantly adjusting and changing as self-interest dictates the people will look to optimize costs and profits. As resource costs change (change in price of labor, new technology or production processes), so will the the method of production. As consumers spend more money on one industry over another, that industry will get more revenue to expand and grow, while the other will shrink (once again *consumer sovereignty*).
 
-### How will the System promote Progress?
+#### How will the System promote Progress?
 
-#### Technological Advancement
+##### Technological Advancement
 
 Competition in industries constantly drives businesses to find ways to undercut others with lower prices, adding incentive to find cheaper ways to produce/distribute products and innovate in production processes.
 
 Businesses must keep with the development of new innovations/products as they supplant old ones (called *creative destruction*).
 > ex. Vinyl records were replaced by CDs, CDs were replaced with online streaming. 
 
-#### Captial Accumulation
+##### Captial Accumulation
 
 Consumer preferences (*dollar votes*) for certain products give businesses the revenue to buy capital goods to increase and expand production, allowing for greater profits in the future.
 
