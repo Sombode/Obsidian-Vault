@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Economics/Economics, AP Edition, 22nd Edition..md",
+                "file": "School/Economics/Basic Economic Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "189a38ed5c48185a",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Economics/Economics, AP Edition, 22nd Edition..md"
+                "file": "School/Economics/Basic Economic Concepts.md"
               }
             }
           },
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Economics/Economics, AP Edition, 22nd Edition..md",
+                "file": "School/Economics/Basic Economic Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Economics/Economics, AP Edition, 22nd Edition..md",
+                "file": "School/Economics/Basic Economic Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,8 +162,8 @@
   },
   "active": "d9ea64abe0cbb810",
   "lastOpenFiles": [
-    "School/Economics/Basic Economic Concepts.md",
     "School/Economics/Economics, AP Edition, 22nd Edition..md",
+    "School/Economics/Basic Economic Concepts.md",
     "School/Economics/Sample TPL.png",
     "Backend/Tasks.md",
     "School/Economics/Class Notes/1-30-2023 Econ Notes.md",
