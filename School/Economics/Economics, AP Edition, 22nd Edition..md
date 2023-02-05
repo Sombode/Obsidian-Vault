@@ -105,6 +105,15 @@ The three main virtues of the market system are:
 2. **Incentives** for innovation and work in economic rewards
 3. **Freedom** for workers and businesses to work in self-interest, and be rewarded/punished
 
+### Characteristics of the Market System
+
+Private individual/businesses are able to own *private property* (land, capital) and enter legally binding contracts.
+
+Enforced property rights protect people from having property stolen, and so exchanges must be *mutually agreeable*.
+
+> ex. Copyright law, protection from government seizure (Amendment IV????)
+
+*Freedom of enterprise* allows businesses to obtain/use resources to produce and sell their chosen products in their chosen markets, and *freedom of choice* allows businesses to employ/dispose of resources and money as they see fit, and consumers can buy products they desire.
 ### Downfalls of Command Systems
 
 #### Coordination
