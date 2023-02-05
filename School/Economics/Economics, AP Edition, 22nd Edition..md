@@ -113,13 +113,18 @@ Market systems work to answer 5 main questions:
 
 Products that produce a net profit will be produced, while those that produce a net loss will be discontinued. In terms of total revenue (TR) and total cost (TC), industries where $TR>TC$ will stay and possibly grow. Industries where $TR<TC$ will shrink and some may go out of business.
 
-Most choices revolve around individual businesses joining or leaving industries, and **businesses are driven by the choices/preferences of consumers** (*consumer sovereignty*). What consumers buy with their *dollar votes* indicate what they do/do not want to buy, influencing the market.
+Most choices revolve around individual businesses joining or leaving industries, and **businesses are driven by the choices/preferences of consumers** (*consumer sovereignty*). What consumers buy with their "*dollar votes*" indicate what they do/do not want to buy, influencing the market.
 ### How Will the Goods and Services be Produced?
 
 The manufacturing/production process for goods/services will be optimized to minimize cost in order to maximize profit, with many factors playing into optimized costs (labor, resources, location).
+
+>Cost optimization becomes more important as competition comes into play, with multiple sellers competing to lower costs and sell to consumers with the cheapest prices possible.
 ### Who will get the Output?
 
+As long as one can and is willing to pay the price of a product, they generally are able to obtain it. This can be influenced by one's income and preferences.
 ### How will the System accommodate Change?
+
+Market systems are dynamic, constantly adjusting and changing as self-interest dictates the people will look to optimize costs and profits. As resource costs change (change in price of labor, new technology or production processes), so will the the method of production. As consumers spend more money on one industry over another, that industry will get more revenue to expand an
 
 ### How will the System promote Progress?
 # Chapter 34
