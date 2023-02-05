@@ -97,6 +97,7 @@ Economic systems are designed to solve a society's [[#The Economizing Problem|Ec
 The two extreme ends of economic systems are the decentralized *laissez-faire capitalism* ("pure capitalism," minimal government influence, the market directs activity) and the highly centralized *command system* (heavy government influence/control; seen in communist/socialist countries such as the USSR, Cuba, and China; government owns/controls business firms, centralized planning). Most economic systems lie in-between, called *market systems*/*mixed economies* (capitalism, a mix of government initiatives and decentralized actions, buyers and sellers come together at *markets* to conduct activity, many can and will act in self-interest).
 
 
+
 # Chapter 34
 > International Trade
 
