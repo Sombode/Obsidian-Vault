@@ -114,6 +114,19 @@ Enforced property rights protect people from having property stolen, and so exch
 > ex. Copyright law, protection from government seizure (Amendment IV????)
 
 *Freedom of enterprise* allows businesses to obtain/use resources to produce and sell their chosen products in their chosen markets, and *freedom of choice* allows businesses to employ/dispose of resources and money as they see fit, and consumers can buy products they desire.
+
+Businesses are driven by *self-interest*, and the interests of consumers are understood through *markets*.
+
+Businesses and firms generally *specialize* in producing one/a few goods/services.
+> Human specialization exists in the *division of labor*, allowing people to use their skillset to the fullest potential, saving time and resources.
+
+The government does act, but in a limited way.
+
+### Money
+
+Money does not provide anything, but is used as a *medium of exchange*, simplifying trade. Instead of *bartering* one good for another, money can be exchanged to allow for parties to buy other things in exchange. As long as sellers accept the money, it can be used to facilitate trade.
+
+
 ### Downfalls of Command Systems
 
 #### Coordination
