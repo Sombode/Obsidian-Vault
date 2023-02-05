@@ -124,9 +124,20 @@ The manufacturing/production process for goods/services will be optimized to min
 As long as one can and is willing to pay the price of a product, they generally are able to obtain it. This can be influenced by one's income and preferences.
 ### How will the System accommodate Change?
 
-Market systems are dynamic, constantly adjusting and changing as self-interest dictates the people will look to optimize costs and profits. As resource costs change (change in price of labor, new technology or production processes), so will the the method of production. As consumers spend more money on one industry over another, that industry will get more revenue to expand an
+Market systems are dynamic, constantly adjusting and changing as self-interest dictates the people will look to optimize costs and profits. As resource costs change (change in price of labor, new technology or production processes), so will the the method of production. As consumers spend more money on one industry over another, that industry will get more revenue to expand and grow, while the other will shrink (once again *consumer sovereignty*).
 
 ### How will the System promote Progress?
+
+#### Technological Advancement
+
+Competition in industries constantly drives businesses to find ways to undercut others with lower prices, adding incentive to find cheaper ways to produce/distribute products and innovate in production processes.
+
+Businesses must keep with the development of new innovations/products as they supplant old ones (called *creative destruction*).
+> ex. Vinyl records were replaced by CDs, CDs were replaced with online streaming. 
+
+#### Captial Accumulation
+
+Consumer preferences (*dollar votes*) for certain products give businesses the revenue to buy capital goods to increase and expand production, allowing for greater profits in the future.
 # Chapter 34
 > International Trade
 
