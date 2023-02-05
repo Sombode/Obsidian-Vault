@@ -183,7 +183,13 @@ Businesses are commercial establishments meant to earn profit for owners, and fa
 
 Production of goods/services can be risky with shortages, change in public preferences, and natural disasters crippling supply chains.
 
-Entrepreneurs bear the risk and are either rewarded with profit or punishe
+Entrepreneurs bear the risk and are either rewarded with profit or punished with loss under the *profit system*, incentivizing them to make better decisions.
+
+> Employees and suppliers (of loans or resources) are shielded from this risk, as they are legally entitled to **payment regardless of losses** (this also helps to attract employees/suppliers, as they get a guaranteed salary). However, this also means **they do not share any profit made**. Owners get the remaining money after they are paid, and as such they are known as *residual claimants*.
+
+
+
+
 # Chapter 34
 > International Trade
 
