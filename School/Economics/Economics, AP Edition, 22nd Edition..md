@@ -100,6 +100,13 @@ The two extreme ends of economic systems are the decentralized *laissez-faire ca
 
 Market systems are a mix of command and laissez-faire systems, with a mix of self-interest and government initiatives.
 
+The three main virtues of the market system are:
+1. **Efficiency** in promoting better/cheaper production methods
+2. **Incentives** for innovation and work in economic rewards
+3. **Freedom** for workers and businesses to work in self-interest, and be rewarded/punished
+
+
+
 Market systems work to answer 5 main questions:
 1. [[#What goods and services will be produced?]]
 2. [[#How will the goods and services be produced?]]
@@ -145,10 +152,6 @@ A key concept of laissez-faire and market systems, the "invisible hand" as descr
 
 Competition drives businesses to create better products for less (see [[#Technological Advancement|here]] and [[#How will the System accommodate Change?|here]]), and so tailor towards the interest of consumers. In following their self-interest for profit, they must accommodate others' interests for products. Cheaper/more efficient production methods free up resources for other applications as well.
 
-The three main virtues of the market system are:
-1. **Efficiency** in promoting better/cheaper production methods
-2. **Incentives** for innovation and work in economic rewards
-3. **Freedom** for workers and businesses to work in self-interest, and be rewarded/punished
 # Chapter 34
 > International Trade
 
