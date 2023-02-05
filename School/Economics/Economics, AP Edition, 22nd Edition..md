@@ -171,6 +171,19 @@ A dynamic market economy can be represented with a *circular flow model*, showin
 
 ![[Circular Flow Model.png]]
 
+Households represent the individuals, providing all of the [[#Factors of Production]] and receiving all of the income in the economy.
+
+Businesses are commercial establishments meant to earn profit for owners, and fall into three main categories:
+1. **Sole proprietorships** owned and managed by one person
+2. **Partnerships** of 2+ people pooling resources/skills to own and operate a business
+3. **Corporations** that are an independent legal entity, able to engage in activity by itself
+	1. As not *owned* by anyone, supporters/owners do not bear any personal responsibility to its finances; most corporations are supervised by a board of directors
+
+## Risk
+
+Production of goods/services can be risky with shortages, change in public preferences, and natural disasters crippling supply chains.
+
+Entrepreneurs bear the risk and are either rewarded with profit or punishe
 # Chapter 34
 > International Trade
 
