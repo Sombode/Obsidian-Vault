@@ -96,8 +96,28 @@ Economic systems are designed to solve a society's [[#The Economizing Problem|Ec
 
 The two extreme ends of economic systems are the decentralized *laissez-faire capitalism* ("pure capitalism," minimal government influence, the market directs activity) and the highly centralized *command system* (heavy government influence/control; seen in communist/socialist countries such as the USSR, Cuba, and China; government owns/controls business firms, centralized planning). Most economic systems lie in-between, called *market systems*/*mixed economies* (capitalism, a mix of government initiatives and decentralized actions, buyers and sellers come together at *markets* to conduct activity, many can and will act in self-interest).
 
+## The Market System
 
+Market systems are a mix of command and laissez-faire systems, with a mix of self-interest and government initiatives.
 
+Market systems work to answer 5 main questions:
+1. [[What goods and services will be produced?]]
+2. [[How will the goods and services be produced?]]
+3. Who will get the output?
+4. How will the system accommodate change?
+5. How will the system promote progress?
+
+> Yes, some of these are similar to the fundamental [[Basic Economic Concepts#^def918|economic questions]] for all societies.
+
+### What Goods and Services will be Produced?
+
+### How Will the Goods and Services be Produced?
+
+### Who will get the Output?
+
+### How will the System accommodate Change?
+
+### How will the System promote Progress?
 # Chapter 34
 > International Trade
 

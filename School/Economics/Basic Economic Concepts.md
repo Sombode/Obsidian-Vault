@@ -9,7 +9,7 @@
 	- People make decisions in their best interest (not necessarily *selfish*, just *rational*)
 	- The status quo matters
 - Marginal thinking (what happens *next*?)
-- All societies must answer **3 basic questions**:
+- All societies must answer **3 basic questions**: ^def918
 	- What to Produce?
 	- How Much to Produce?
 	- For Whom?
