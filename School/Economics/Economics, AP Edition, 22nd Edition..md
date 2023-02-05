@@ -61,7 +61,7 @@ Budget lines/constraints can be used to visualize the combinations of two produc
 
 ![[Sample Budget Line.png]]
 
-### Society
+### Factors of Production
 
 Society itself faces an economizing problem, as it has limited resources to allocate and use. These *economic resources* fall under four main categories:
 1. Land
@@ -164,6 +164,12 @@ Consumer preferences (*dollar votes*) for certain products give businesses the r
 A key concept of laissez-faire and market systems, the "invisible hand" as described by [[Adam Smith]] guides businesses to promote the public interest.
 
 Competition drives businesses to create better products for less (see [[#Technological Advancement|here]] and [[#How will the System accommodate Change?|here]]), and so tailor towards the interest of consumers. In following their self-interest for profit, they must accommodate others' interests for products. Cheaper/more efficient production methods free up resources for other applications as well.
+
+## Circular Flow
+
+A dynamic market economy can be represented with a *circular flow model*, showing the continuous flow of resources ([[#Factors of Production]]) and products in an economy (in this case without a government). *Households* sell *resources* (land, labor...) to businesses in the *resource market* in exchange for a *salary*/*income*. *Businesses* then use the resources to produce *goods/services*, which they sell back to households in the *product market*.
+
+![[Circular Flow Model.png]]
 
 # Chapter 34
 > International Trade
