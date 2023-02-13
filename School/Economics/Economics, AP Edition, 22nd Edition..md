@@ -210,6 +210,16 @@ Entrepreneurs bear the risk and are either rewarded with profit or punished with
 > Employees and suppliers (of loans or resources) are shielded from this risk, as they are legally entitled to **payment regardless of losses** (this also helps to attract employees/suppliers, as they get a guaranteed salary). However, this also means **they do not share any profit made**. Owners get the remaining money after they are paid, and as such they are known as *residual claimants*.
 
 
+# Chapter 3
+> Demand, Supply, and Market Equilibrium
+
+## Markets
+
+Markets are the places where independent buyers and sellers come together to exchange/trade goods and services. This can be interpreted in physical goods (food, resources), or other [[#Factors of Production]], like labor. The interaction between buyers and sellers is what drives pricing.
+
+## Demand
+
+From a consumer's perspective (in the [[#Circular Flow|product market]]), demand is how much of a product consumers are **willing and able** to buy at certain prices, under [[Basic Economic Concepts#Ceteris Paribus|Ceteris Paribus]]. A *demand schedule* is a table showing the relation between price and quantity demanded (usually $P$ and $D$, where price is **always** the IV but on the y-axis). *Demand curves* are graphical representations of demand schedules.
 
 
 # Chapter 34
@@ -233,11 +243,11 @@ With a constant [[Basic Economic Concepts#Production Possibility Curves|PPC]] in
 
 The exchange rate between the goods when traded between countries is called the *terms of trade* (*international exchange ratio*). Each party involved wants (but isn't always able to) to get a ratio that is **better** than if they produced it themselves.
 
-### Trading Possibility Lines
+### Consumption Possibilities Curve
 
 A modified domestic [[Basic Economic Concepts#Production Possibility Curves|PPC]] illustrating what an economy could get if it specialized in one resource and traded for the other, generally allowing for greater amounts of one resource it couldn't previously reach.
 
-![[Sample TPL.png]]
+![[Sample CPC.png]]
 
 ### Principle of Comparative Advantage
 **It is best to specialize in producing goods where you have lower opportunity costs than others.
