@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8a9b5df8d3365486",
+        "id": "7ae0f36231adda48",
         "type": "tabs",
         "children": [
           {
-            "id": "5b68c46820a07dcc",
+            "id": "542927a7ca350dcc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Economics/Basic Economic Concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9ea64abe0cbb810",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Economics/Economics, AP Edition, 22nd Edition..md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "189a38ed5c48185a",
@@ -109,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School/Economics/Economics, AP Edition, 22nd Edition..md"
-              }
+              "state": {}
             }
           },
           {
@@ -120,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Economics/Economics, AP Edition, 22nd Edition..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Economics/Economics, AP Edition, 22nd Edition..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,10 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9ea64abe0cbb810",
+  "active": "542927a7ca350dcc",
   "lastOpenFiles": [
-    "School/Economics/Basic Economic Concepts.md",
     "School/Economics/Economics, AP Edition, 22nd Edition..md",
+    "School/Economics/Basic Economic Concepts.md",
     "School/Economics/Sample TPL.png",
     "Backend/Tasks.md",
     "School/Economics/Class Notes/1-30-2023 Econ Notes.md",
