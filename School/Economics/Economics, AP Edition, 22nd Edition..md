@@ -297,11 +297,19 @@ While price is the restricting barrier on consumers buying a product, it is the 
 
 ## Equilibrium
 
-The *equilibrium price* (also *market-clearing price*) in a competitive market is the price where the intentions of buyers and sellers match, where quantity demanded matches quantity supplied (at the *equilibrium quantity*). $$Q_D=Q_S$$  If neither shortage nor surplus exists, then the market is in equilibrium. Surplus will drive down prices, and shortage will drive up price.
+The *equilibrium price* (also *market-clearing price*) in a competitive market is the price where the intentions of buyers and sellers match, where quantity demanded matches quantity supplied (at the *equilibrium quantity*). $$Q_D=Q_S$$  If neither shortage nor surplus exists, then the market is in equilibrium. Surplus will drive down prices, and shortage will drive up price. Equilibrium is naturally achieved in a market by individual decisions, known as the *rationing function of prices*, where those able and willing to provide for the equilibrium price are able to do so, and those who can't won't.
 
 ## Efficiency
 
+Competitive markets also allow for more efficient allocation of a society's resources toward a product.
 
+### Productive Efficiency
+
+The price per production of one unit is decreased through the right mix of resource allocation and technology, resulting in the production of a good in the least costly way, which is *production efficiency*. This leaves extra resources for other uses.
+
+### Allocative Efficiency
+
+A society naturally allocates more resources to more desirable products and less resources to less desirable products. This results in the particular mix of products produced that maximizes [[#Utility]] produced with resources, using resources in the most desirable ways to achieve the most efficient assignments.
 # Chapter 34
 > International Trade
 
