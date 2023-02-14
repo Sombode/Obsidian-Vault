@@ -286,12 +286,15 @@ While price is the restricting barrier on consumers buying a product, it is the 
 ### Determinants of Supply
 
 *Change in supply* can occur based on the following factors:
-- **Change in number of sellers**
+- **Change in number of sellers** (more sellers increase market supply)
 - **Change in resource prices** (higher costs of production decrease profits and incentives, increasing price)
-- **Change in technology**
-- **Change in taxes and subsidies**
-- **Change in price of other goods**
-- **Change in producer expectations**
+- **Change in technology** (better technology and techniques of production increase efficiency, lowering production cost and increasing supply)
+- **Change in taxes and subsidies
+	- Government taxes increase production costs, decrease supply
+	- Government subsidies effectively lowers production costs, increases supply
+- **Change in price of other goods** (sellers may switch production to higher value goods, if possible, called a *substitution in production*)
+- **Change in producer expectations** (if sellers expect future prices to be high, they may either lower current supply and stockpile or increase production and increase current supply) 
+
 # Chapter 34
 > International Trade
 
