@@ -219,7 +219,26 @@ Markets are the places where independent buyers and sellers come together to exc
 
 ## Demand
 
-From a consumer's perspective (in the [[#Circular Flow|product market]]), demand is how much of a product consumers are **willing and able** to buy at certain prices, under [[Basic Economic Concepts#Ceteris Paribus|Ceteris Paribus]]. A *demand schedule* is a table showing the relation between price and quantity demanded (usually $P$ and $D$, where price is **always** the IV but on the y-axis). *Demand curves* are graphical representations of demand schedules.
+From a consumer's perspective (in the [[#Circular Flow|product market]]), demand is how much of a product consumers are **willing and able** to buy at certain prices, under [[Basic Economic Concepts#Ceteris Paribus|Ceteris Paribus]]. A *demand schedule* is a table showing the relation between price and quantity demanded (usually $P$ and $D$ or $Q_D$, where price is **always** the IV but on the y-axis). *Demand curves* are graphical representations of demand schedules.
+
+Quantity demanded is meaningless without the context of a time period, allowing how much demand there is to be determined.
+> ex. Buying ten bushels of corn vs. buying ten bushels of corn per week
+
+It is important to note that it is **quantity** demanded, not demand.
+
+### Law of Demand
+
+As price falls, the quantity demanded rises (and the inverse).$$\downarrow P \Longrightarrow \uparrow Q_D$$$$ \uparrow P \Longrightarrow \downarrow Q_D$$
+This is an **inverse relationship** between price and quantity demanded.
+
+### Income Effect
+
+### Substitution Effect
+
+### Diminishing Marginal Utility
+
+The more of something you consume, the less [[#Utility]] each additional unit gives. This applies to most consumables (food, clothes, etc.). It's about the *spice of life*.
+> ex. Eating the 100th banana doesn't have the same enjoyment as the 1st banana.
 
 
 # Chapter 34
