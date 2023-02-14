@@ -235,18 +235,26 @@ It is important to note that it is **quantity** demanded, not demand.
 ### Law of Demand
 
 As price falls, the quantity demanded rises (and the inverse). This is an **inverse relationship** between price and quantity demanded.$$\downarrow P \Longrightarrow \uparrow Q_D$$$$ \uparrow P \Longrightarrow \downarrow Q_D$$
-### Income Effect
+#### Income Effect
 
-The cheaper something is, the more money is left in the consumer's wallet,  making them feel like they can buy more (increases their *purchasing power*). If the price of something goes down, it may feel like people are getting larger paychecks, even if their income hasn't changed. The inverse is also true.
+The cheaper something is, the more money is left in the consumer's wallet,  making them feel like they can buy more (and they can; it increases their money's *purchasing power*). If the price of something goes down, it may feel like people are getting larger paychecks, even if their income hasn't changed. The inverse is also true.
 
-### Substitution Effect
+#### Substitution Effect
 
-### Diminishing Marginal Utility
+People will look to substitute cheaper products in place of more expensive ones, trying to get a better deal. If a product is cheap, people will try to find more uses for it or use it more. The inverse is also true.
+
+#### Diminishing Marginal Utility
 
 The more of something you consume, the less [[#Utility]] each additional unit gives. This applies to most consumables (food, clothes, etc.). *Spice of life*. As this occurs, consumers will only buy more units of a product if the price is reduced with the utility.
 > ex. Eating the 100th banana doesn't have the same enjoyment as the 1st banana.
 
+### Individual and Market
 
+While individual demand is easier to calculate, the market demand is just the aggregate sum of individual demands in a market.
+
+### Determinants of Demand
+
+While price is the main driver of demand, other *determinants of demand* (also *demand shifters*):
 # Chapter 34
 > International Trade
 
