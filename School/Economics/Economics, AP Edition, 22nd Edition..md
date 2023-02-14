@@ -232,6 +232,7 @@ Quantity demanded is meaningless without the context of a time period, allowing 
 
 It is important to note that it is **quantity** demanded, not demand.
 
+![[Sample Demand Curve.png]]
 ### Law of Demand
 
 As price falls, the quantity demanded rises (and the inverse). This is an **inverse relationship** between price and quantity demanded.$$\downarrow P \Longrightarrow \uparrow Q_D$$$$ \uparrow P \Longrightarrow \downarrow Q_D$$
@@ -254,7 +255,23 @@ While individual demand is easier to calculate, the market demand is just the ag
 
 ### Determinants of Demand
 
-While price is the main driver of demand, other *determinants of demand* (also *demand shifters*):
+While price is the main driver of demand, other *determinants of demand* (also *demand shifters*) exist:
+- **Change in number of consumers** (more people buy more stuff)
+- **Change in income** (less money means people buy less stuff)
+	- Products with prices **directly** related to income (which most items have) are called *superior goods*/*normal goods*
+	- Products with prices **inversely** related to income (such as lower quality/used products) are called *inferior goods*
+- **Change in price of other goods**
+	- *Complementary goods* (go together, i.e. chips and dip; as one price increases demand for the other might decrease)
+	- *Substitutes* (alternatives, competition, i.e. milk and oat milk; lower prices for one drive down demand for the other)
+	- Goods with no bearing on goods are *independent goods*
+- **Change in consumers' expectations**
+	- If people think something will run out soon, people will flock to buy it (panic buying)
+	- If people expect the price to drop later, they won't buy it now (drop in current demand)
+- **Change in consumers attitudes** (taste; preferences; trends/fads)
+
+All of these can also work in reverse.
+
+Note that these cause a **change in demand** itself, not just a change in quantity demanded. Rather than moving a point along the demand curve, the demand curve itself is shifted. 
 # Chapter 34
 > International Trade
 
