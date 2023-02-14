@@ -195,6 +195,12 @@ A dynamic market economy can be represented with a *circular flow model*, showin
 
 Households represent the individuals, providing all of the [[#Factors of Production]] and receiving all of the income in the economy.
 
+Households are compensated for selling their [[#Factors of Production]] with the following (same thing, just different names):
+- *Income* for labor
+- *Rent* for land
+- *Interest* for capital
+- *Profit* for entrepreneurial ability
+
 Businesses are commercial establishments meant to earn profit for owners, and fall into three main categories:
 1. **Sole proprietorships** owned and managed by one person
 2. **Partnerships** of 2+ people pooling resources/skills to own and operate a business
@@ -228,16 +234,16 @@ It is important to note that it is **quantity** demanded, not demand.
 
 ### Law of Demand
 
-As price falls, the quantity demanded rises (and the inverse).$$\downarrow P \Longrightarrow \uparrow Q_D$$$$ \uparrow P \Longrightarrow \downarrow Q_D$$
-This is an **inverse relationship** between price and quantity demanded.
-
+As price falls, the quantity demanded rises (and the inverse). This is an **inverse relationship** between price and quantity demanded.$$\downarrow P \Longrightarrow \uparrow Q_D$$$$ \uparrow P \Longrightarrow \downarrow Q_D$$
 ### Income Effect
+
+The cheaper something is, the more money is left in the consumer's wallet,  making them feel like they can buy more (increases their *purchasing power*). If the price of something goes down, it may feel like people are getting larger paychecks, even if their income hasn't changed. The inverse is also true.
 
 ### Substitution Effect
 
 ### Diminishing Marginal Utility
 
-The more of something you consume, the less [[#Utility]] each additional unit gives. This applies to most consumables (food, clothes, etc.). It's about the *spice of life*.
+The more of something you consume, the less [[#Utility]] each additional unit gives. This applies to most consumables (food, clothes, etc.). *Spice of life*. As this occurs, consumers will only buy more units of a product if the price is reduced with the utility.
 > ex. Eating the 100th banana doesn't have the same enjoyment as the 1st banana.
 
 
