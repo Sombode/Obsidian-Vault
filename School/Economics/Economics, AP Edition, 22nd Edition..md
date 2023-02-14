@@ -295,6 +295,13 @@ While price is the restricting barrier on consumers buying a product, it is the 
 - **Change in price of other goods** (sellers may switch production to higher value goods, if possible, called a *substitution in production*)
 - **Change in producer expectations** (if sellers expect future prices to be high, they may either lower current supply and stockpile or increase production and increase current supply) 
 
+## Equilibrium
+
+The *equilibrium price* (also *market-clearing price*) in a competitive market is the price where the intentions of buyers and sellers match, where quantity demanded matches quantity supplied (at the *equilibrium quantity*). $$Q_D=Q_S$$  If neither shortage nor surplus exists, then the market is in equilibrium. Surplus will drive down prices, and shortage will drive up price.
+
+## Efficiency
+
+
 # Chapter 34
 > International Trade
 
