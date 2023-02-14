@@ -272,6 +272,26 @@ While price is the main driver of demand, other *determinants of demand* (also *
 All of these can also work in reverse.
 
 Note that these cause a **change in demand** itself, not just a change in quantity demanded. Rather than moving a point along the demand curve, the demand curve itself is shifted. 
+
+## Supply
+
+Very similar to [[#Demand]], but showing the amount of product that producers are **willing and able** to make available for sale at various prices over a specific period ($S$ or $Q_S$ for supply). *Supply schedules*, *supply curves*, *quantity supplied vs supply*, *market and individual supply* work similarly.
+
+![[Sample Supply Curve.png]]
+
+### Law of Supply
+As price rises, the quantity supplied rises (and the inverse). This is an **direct relationship** between price and quantity supplied.$$\uparrow P \Longrightarrow \uparrow Q_S$$$$ \downarrow P \Longrightarrow \downarrow Q_S$$
+While price is the restricting barrier on consumers buying a product, it is the reward/*revenue* of the producer. Greater revenue incentivizes greater production.
+
+### Determinants of Supply
+
+*Change in supply* can occur based on the following factors:
+- **Change in number of sellers**
+- **Change in resource prices** (higher costs of production decrease profits and incentives, increasing price)
+- **Change in technology**
+- **Change in taxes and subsidies**
+- **Change in price of other goods**
+- **Change in producer expectations**
 # Chapter 34
 > International Trade
 
