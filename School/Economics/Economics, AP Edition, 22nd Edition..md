@@ -232,6 +232,8 @@ Quantity demanded is meaningless without the context of a time period, allowing 
 
 It is important to note that it is **quantity** demanded, not demand.
 
+In terms of [[#Equilibrium]], an increase in demand increases the equilibrium quantity and equilibrium price.
+
 ![[Sample Demand Curve.png]]
 ### Law of Demand
 
@@ -277,6 +279,8 @@ Note that these cause a **change in demand** itself, not just a change in quanti
 
 Very similar to [[#Demand]], but showing the amount of product that producers are **willing and able** to make available for sale at various prices over a specific period ($S$ or $Q_S$ for supply). *Supply schedules*, *supply curves*, *quantity supplied vs supply*, *market and individual supply* work similarly.
 
+In terms of [[#Equilibrium]], an increase in supply increases the equilibrium quantity and decreases equilibrium price.
+
 ![[Sample Supply Curve.png]]
 
 ### Law of Supply
@@ -310,6 +314,22 @@ The price per production of one unit is decreased through the right mix of resou
 ### Allocative Efficiency
 
 A society naturally allocates more resources to more desirable products and less resources to less desirable products. This results in the particular mix of products produced that maximizes [[#Utility]] produced with resources, using resources in the most desirable ways to achieve the most efficient assignments.
+
+## Government Action
+
+### Price Ceilings
+
+Hard limits on prices designed to aid poorer consumers, *price ceilings* (or *ceiling prices*) often cap the legal price for essential goods. To have any effect, the ceiling must be **below** the equilibrium price.
+> ex. Rent and interest caps
+
+The problem with this is that at a lower price, more is demanded than can be supplied ($Q_D>Q_S$), and thus a persistent *shortage* is created. This means that producers need to find a way to ration out what little supply they have, whether through *first-come, first-serve* or ration coupons. Those with more money can also illegally buy the product for higher prices (but at higher priority/supply) in *black markets*.
+
+![[Price Ceiling Example.png]]
+
+### Price Floors
+
+*Price floors* (or *price supports*, *wage floors*) are minimum prices fixed by the government (often above the equilibrium price to have an effect), often when society feels that suppliers/producers are underpaid. This creates a constant surplus ($Q_S>Q_D$), which is either remedied by governments through restricting supply, incre
+
 # Chapter 34
 > International Trade
 
