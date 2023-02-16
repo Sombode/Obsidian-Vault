@@ -328,7 +328,12 @@ The problem with this is that at a lower price, more is demanded than can be sup
 
 ### Price Floors
 
-*Price floors* (or *price supports*, *wage floors*) are minimum prices fixed by the government (often above the equilibrium price to have an effect), often when society feels that suppliers/producers are underpaid. This creates a constant surplus ($Q_S>Q_D$), which is either remedied by governments through restricting supply, incre
+*Price floors* (or *price supports*, *wage floors*) are minimum prices fixed by the government (often above the equilibrium price to have an effect), often when society feels that suppliers/producers are underpaid. This creates a constant surplus ($Q_S>Q_D$), which is either remedied by governments through restricting supply, increasing demand, or outright purchasing the surplus themselves (essentially subsidizing; either storing or disposing it).
+
+Price floors can also incentivize producers to continue producing otherwise inefficient/unprofitable products, inefficiently using society's resources and failing to achieve [[#Allocative Efficiency]].
+
+
+![[Price Floor Example.png]]
 
 # Chapter 34
 > International Trade
