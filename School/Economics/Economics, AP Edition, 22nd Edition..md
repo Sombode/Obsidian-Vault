@@ -335,6 +335,19 @@ Price floors can also incentivize producers to continue producing otherwise inef
 
 ![[Price Floor Example.png]]
 
+# Chapter 4
+> Market Failures Caused by Externalities and Asymmetric Information
+
+*Market failure* is a condition in which markets do not allocate resources to optimize for net benefits.
+
+## Surplus
+### Consumer Surplus
+The difference between how much a consumer is *willing to pay* (illustrated by a demand curve) and how much they *actually pay* (the price).
+### Producer Surplus
+
+### Total Surplus
+Also known as *social surplus*, the sum of consumer and producer surplus. Markets at [[#Equilibrium]] maximize this. It is a good measure of social welfare.
+
 # Chapter 34
 > International Trade
 
