@@ -359,6 +359,12 @@ Also known as *efficiency losses*, the reductions of [[#Total Surplus]] due to o
 
 ![[Deadweight Loss Example.png]]
 
+# Chapter 6
+> Elasticity
+
+# Chapter 7
+> Utility Maximization
+
 # Chapter 34
 > International Trade
 
