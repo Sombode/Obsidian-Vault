@@ -348,10 +348,16 @@ The difference between the maximum price a consumer is *willing to pay* (illustr
 ![[Consumer Surplus Example.png]]
 ### Producer Surplus
 
-The difference between the *minimum price a producer would take to produce a good* and how they *actually get paid*. Generally this minimum price is the *marginal cost* of producing that unit, being the sum of the costs of the [[#Factors of Production]] needed.
+The difference between the *minimum price a producer would take to produce a good* and how they *actually get paid*. This means finding the area bounded by the supply curve and the price line, below the price line ($\frac{bh}{2}$). Generally this minimum price is the *marginal cost* of producing that unit, being the sum of the costs of the [[#Factors of Production]] needed. Individual producer surpluses may differ depending on their own cost of production. **Producer surplus is *directly* related to price**.
 
 ### Total Surplus
 Also known as *social surplus*, the sum of consumer and producer surplus. Markets at [[#Equilibrium]] maximize this. It is a good measure of social welfare.
+
+## Deadweight Loss
+
+Also known as *efficiency losses*, the reductions of [[#Total Surplus]] due to overproduction/underproduction. This results in a mismatch of desired prices from consumers and producers, where now the *quantity* is the IV.
+
+![[Deadweight Loss Example.png]]
 
 # Chapter 34
 > International Trade
