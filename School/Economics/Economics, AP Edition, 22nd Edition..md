@@ -342,8 +342,13 @@ Price floors can also incentivize producers to continue producing otherwise inef
 
 ## Surplus
 ### Consumer Surplus
-The difference between how much a consumer is *willing to pay* (illustrated by a demand curve) and how much they *actually pay* (the price).
+
+The difference between the maximum price a consumer is *willing to pay* (illustrated by a demand curve) and how much they *actually pay* (the real price). This means finding the area bounded by the demand curve and price line, above the price line (generally a triangle; $\frac{bh}{2}$). **Consumer surplus is *inversely related* to price**.
+
+![[Consumer Surplus Example.png]]
 ### Producer Surplus
+
+The difference between the *minimum price a producer would take to produce a good* and how they *actually get paid*. Generally this minimum price is the *marginal cost* of producing that unit, being the sum of the costs of the [[#Factors of Production]] needed.
 
 ### Total Surplus
 Also known as *social surplus*, the sum of consumer and producer surplus. Markets at [[#Equilibrium]] maximize this. It is a good measure of social welfare.
