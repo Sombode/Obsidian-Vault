@@ -17,7 +17,11 @@ Society's wants/needs far exceed what it has available, with goods and services 
 
 ## Utility
 
-**Utility is the measure of satisfaction of a good/service, or the benefit derived from it.** Humans follow "rational self-interest," carefully choosing opportunities to increase utility. Faulty logic or skewed values can affect what people see as "rational," and emotions can be a key factor. This doesn't mean people are inherently selfish, as increasing utility can come from helping others (pleasure from charity work, raising children, etc.).
+**Utility is the measure of satisfaction of a good/service, or the benefit derived from it.** Humans follow "rational self-interest," carefully choosing opportunities to increase utility. 
+
+Utility is highly subjective. Faulty logic or skewed values can affect what people see as "rational," and emotions can be a key factor. This doesn't mean people are inherently selfish, as increasing utility can come from helping others (pleasure from charity work, raising children, etc.).
+
+Utility is commonly measured in "utils."
 
 ## Marginal Thinking
 
@@ -365,6 +369,25 @@ Also known as *efficiency losses*, the reductions of [[#Total Surplus]] due to o
 # Chapter 7
 > Utility Maximization
 
+## Marginal and Total Utility
+
+As opposed to simply [[#Utility]], *marginal utility* ($MU$) is the additional or extra satisfaction one derives from purchasing an additional unit of a product. Marginal utility will usually change from one quantity to another, under the [[#Law of Diminishing Marginal Utility]].
+
+*Total utility* ($TU$) is a sum of marginal utility at some specific quantity.
+
+> It can be helpful to think of it in terms of calculus. Marginal utility is the derivative (roughly averaged over an interval of 1 unit) of total utility, and total utility the integral of marginal utility.
+> 
+> Adding up marginal utility to get total utility boils down to a Riemann Sum. The total utility graph will generally always be a concave down parabola, and marginal utility a downward sloping line, due to the [[#Law of Diminishing Marginal Utility]].
+
+![[Marginal Utility Table.png]]
+## Law of Diminishing Marginal Utility
+
+As consumers purchase more and more units of a given product, their marginal utility will always decrease. The more of something one has, the less marginal utility they derive from an additional unit. Sometimes, the marginal utility can even become negative.
+
+This can be used to demonstrate why the demand curve is downward sloping, as marginal utility decreases per additional unit, people will only buy more units if the price falls.
+
+## Utility-Maximizing Rule
+$$\frac{MU_1}{P_1}=\frac{MU_1}{P_1}=\frac{MU_3}{P_3}=$$
 # Chapter 34
 > International Trade
 
