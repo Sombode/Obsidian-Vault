@@ -373,6 +373,8 @@ Also known as *efficiency losses*, the reductions of [[#Total Surplus]] due to o
 
 As opposed to simply [[#Utility]], *marginal utility* ($MU$) is the additional or extra satisfaction one derives from purchasing an additional unit of a product. Marginal utility will usually change from one quantity to another, under the [[#Law of Diminishing Marginal Utility]].
 
+Marginal utility is commonly put in terms of *marginal utility per dollar* ($\frac{MU}{P}$), more useful for comparisons.
+
 *Total utility* ($TU$) is a sum of marginal utility at some specific quantity.
 
 > It can be helpful to think of it in terms of calculus. Marginal utility is the derivative (roughly averaged over an interval of 1 unit) of total utility, and total utility the integral of marginal utility.
@@ -387,7 +389,9 @@ As consumers purchase more and more units of a given product, their marginal uti
 This can be used to demonstrate why the demand curve is downward sloping, as marginal utility decreases per additional unit, people will only buy more units if the price falls.
 
 ## Utility-Maximizing Rule
-$$\frac{MU_1}{P_1}=\frac{MU_1}{P_1}=\frac{MU_3}{P_3}=$$
+$$\frac{MU_1}{P_1}=\frac{MU_2}{P_2}=\frac{MU_3}{P_3}...=\frac{MU_N}{P_N}$$
+
+To maximize utility given a choice of products to buy, **consumers should always buy the product that yields the most marginal utility per dollar**. This should result in an allocation of budget so that the last dollar spent on each product yields the same marginal utility, which is the *utility-maximizing rule* (demonstrated by the equation above). At this point, they have achieved *consumer equilibrium*, and any change only decreases total utility.
 # Chapter 34
 > International Trade
 
