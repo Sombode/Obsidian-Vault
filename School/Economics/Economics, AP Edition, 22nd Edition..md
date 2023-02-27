@@ -406,6 +406,18 @@ This can be explained by the large supply of water in the market, and low supply
 *Cardinal utility* can be quantified and put in terms of numbers, such as utils. This can be difficult due to its subjectivity.
 
 *Ordinal utility* simply compares one's preference given a set of choices (prefers A over B). It is all relative, and can be much easier to measure. Ordinal utility is used in indifference curve analysis.
+
+### Indifference Curves
+
+As opposed to [[#Budget Lines]]. indifference curves map all possible combinations of two products such that the total utility derived is the same. Thus, it doesn't matter which point on the curve is chosen, as total utility is the same, making the consumer indifferent towards the particulars.
+
+![[Indifference Curve Example.png]]
+> Points j, k, l, and m all create the same total utility.
+
+Much like a budget line, increasing the quantity of one product decreases the other, making an indifference curve slope downward. 
+
+The slope at each point measures the *marginal rate of substitution,* or how much of one good one must substitute for another to remain at the same total utility. The indifference curve is concave up (convex) as the marginal utility derived from one product decreases the more units are consumed ([[#Law of Diminishing Marginal Utility]]), so more must be substituted to make up for the difference. 
+
 # Chapter 34
 > International Trade
 
