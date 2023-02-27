@@ -416,7 +416,11 @@ As opposed to [[#Budget Lines]]. indifference curves map all possible combinatio
 
 Much like a budget line, increasing the quantity of one product decreases the other, making an indifference curve slope downward. 
 
-The slope at each point measures the *marginal rate of substitution,* or how much of one good one must substitute for another to remain at the same total utility. The indifference curve is concave up (convex) as the marginal utility derived from one product decreases the more units are consumed ([[#Law of Diminishing Marginal Utility]]), so more must be substituted to make up for the difference. 
+The slope at each point measures the *marginal rate of substitution,* (MRS) or how much of one good one must substitute for another to remain at the same total utility. The indifference curve is concave up (convex) as the marginal utility derived from one product decreases the more units are consumed ([[#Law of Diminishing Marginal Utility]]), so more must be substituted to make up for the difference. 
+
+If the total utility used to create the indifference curve changes, it will move accordingly. Thus, an *indifference map* can be created, with indifference curves for varying levels of total utility.
+
+When used in conjunction with [[#Budget Lines]], finding the intersection of the highest indifference curve and budget line (thus an attainable combination that yields the most total utility; $MRS = \frac{P_B}{P_A}$) leads to a consumer's *equilibrium position*. This achieves a similar result to the [[#Utility-Maximizing Rule]], but without having to assign numerical values to utility.
 
 # Chapter 34
 > International Trade
