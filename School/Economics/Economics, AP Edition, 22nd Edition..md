@@ -392,6 +392,20 @@ This can be used to demonstrate why the demand curve is downward sloping, as mar
 $$\frac{MU_1}{P_1}=\frac{MU_2}{P_2}=\frac{MU_3}{P_3}...=\frac{MU_N}{P_N}$$
 
 To maximize utility given a choice of products to buy, **consumers should always buy the product that yields the most marginal utility per dollar**. This should result in an allocation of budget so that the last dollar spent on each product yields the same marginal utility, which is the *utility-maximizing rule* (demonstrated by the equation above). At this point, they have achieved *consumer equilibrium*, and any change only decreases total utility.
+
+## The Diamond-Water Paradox
+
+Also known as the *Paradox of Value,* where essential items (such as water) have lower prices than nonessential items (such as diamonds), despite essential items having much more usefulness.
+
+This can be explained by the large supply of water in the market, and low supply of diamonds, resulting in their different prices. However, since water is consumed on a much higher scale than diamonds, it creates more total utility than diamonds, despite costing less.
+
+## Indifference Curves
+
+### Cardinal and Ordinal Utility
+
+*Cardinal utility* can be quantified and put in terms of numbers, such as utils. This can be difficult due to its subjectivity.
+
+*Ordinal utility* simply compares one's preference given a set of choices (prefers A over B). It is all relative, and can be much easier to measure. Ordinal utility is used in indifference curve analysis.
 # Chapter 34
 > International Trade
 
