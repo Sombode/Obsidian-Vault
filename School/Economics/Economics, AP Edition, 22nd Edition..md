@@ -273,7 +273,7 @@ While price is the main driver of demand, other *determinants of demand* (also *
 - **Change in consumers' expectations**
 	- If people think something will run out soon, people will flock to buy it (panic buying)
 	- If people expect the price to drop later, they won't buy it now (drop in current demand)
-- **Change in consumers attitudes** (taste; preferences; trends/fads)
+- **Change in consumers' attitudes** (taste; preferences; trends/fads)
 
 All of these can also work in reverse.
 
