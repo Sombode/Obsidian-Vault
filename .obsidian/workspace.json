@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "472b746308b45dd3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2447ca1f37160674",
+  "active": "472b746308b45dd3",
   "lastOpenFiles": [
     "School/Economics/Images/Indifference Curve Example.png",
     "School/Economics/Images/Marginal Utility Table.png",
