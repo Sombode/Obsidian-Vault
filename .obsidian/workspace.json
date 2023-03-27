@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff90628eab7dc7f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Economics/Class Notes/3-27-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extracirricular/Science Olympiad/Remote Sensing/Remote Sensing and Image Interpretation Fifth Edition.md"
+                "file": "School/Economics/Class Notes/3-27-23.md"
               }
             }
           },
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extracirricular/Science Olympiad/Remote Sensing/Remote Sensing and Image Interpretation Fifth Edition.md",
+                "file": "School/Economics/Class Notes/3-27-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extracirricular/Science Olympiad/Remote Sensing/Remote Sensing and Image Interpretation Fifth Edition.md",
+                "file": "School/Economics/Class Notes/3-27-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,8 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2447ca1f37160674",
+  "active": "ff90628eab7dc7f8",
   "lastOpenFiles": [
+    "School/Economics/Class Notes/1-30-23.md",
+    "School/Economics/Class Notes/3-27-23.md",
+    "Extracirricular/Science Olympiad/Remote Sensing/Remote Sensing and Image Interpretation Fifth Edition.md",
     "Extracirricular/Science Olympiad/Remote Sensing/Electromagnetic Waves.md",
     "Extracirricular/Science Olympiad/Remote Sensing/Mie Scattering.md",
     "Extracirricular/Science Olympiad/Remote Sensing/Bands/IR.md",
