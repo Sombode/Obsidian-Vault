@@ -471,7 +471,7 @@ A mix between [[#Monopoly]] and [[#Pure Competition]] (more toward pure competit
 	- Sellers do not *collude* (coordinate to control price)
 	- Sellers operate independently (without considering other firms)
 - **Differentiated (Unique) Products**
-	- They are heavily advertised (*nonprice competition*) based on their traits/qualities
+	- They are heavily advertised (*nonprice competition*) based on their traits/qualities (to attempt to shift consumer preferences: decrease demand elasticity and shift demand rightward)
 		- Attributes (slight qualitative variations)
 		- Service (customer support, employee expertise)
 		- Location (accessibility)
@@ -480,3 +480,14 @@ A mix between [[#Monopoly]] and [[#Pure Competition]] (more toward pure competit
 	- Few [[#Economies of Scale]]
 	- Financial barriers toward development/advertising still exist
 	- Trade secrets/trademarks give some firms the upper hand
+
+### Measuring Market Share
+
+#### Four-Firm Concentration Ratio
+$$CR4 = \frac{Output\space of\space  the\space  Four\space  Largest\space  Firms}{Total\space  Industry\space Output}$$
+Purely competitive industries have a low CR4, pure monopolies have a high CR4 . <40% is around monopolistically competitive. Does not fully take into account the locality of shares (locally competitive markets may appear lowly concentrated in the CR4, due to looking at market shares on a national level).
+
+#### Herfindahl-Hirschman Index
+$$HHI=\sum{\%S_n^2}$$
+*Where $S_n$ is the percentage market share of firm $n$ in the industry.*
+
