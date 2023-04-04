@@ -462,3 +462,21 @@ If opportunity costs were to increase with each unit of one good, as it [[Basic 
 
 # Chapter 12
 > Monopolistic Competition
+
+## Monopolistic Competition
+
+A mix between [[#Monopoly]] and [[#Pure Competition]] (more toward pure competition), monopolistic competition consists of:
+- **A Large Number of Sellers**
+	- Each seller has a small market share (and little price control; but still *price makers*)
+	- Sellers do not *collude* (coordinate to control price)
+	- Sellers operate independently (without considering other firms)
+- **Differentiated (Unique) Products**
+	- They are heavily advertised (*nonprice competition*) based on their traits/qualities
+		- Attributes (slight qualitative variations)
+		- Service (customer support, employee expertise)
+		- Location (accessibility)
+		- Branding (brand names, trademarks, packaging, endorsements)
+- **Easy Entry/Exit**
+	- Few [[#Economies of Scale]]
+	- Financial barriers toward development/advertising still exist
+	- Trade secrets/trademarks give some firms the upper hand
