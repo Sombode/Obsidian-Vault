@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "189a38ed5c48185a",
@@ -148,9 +149,10 @@
   },
   "active": "bea87b2f50ba29a5",
   "lastOpenFiles": [
+    "School/Economics/Basic Economic Concepts.md",
+    "School/Economics/Economics, AP Edition, 22nd Edition..md",
     "Extracirricular/Science Olympiad/Remote Sensing/Remote Sensing and Image Interpretation Fifth Edition.md",
     "School/Economics/Class Notes/3-27-23.md",
-    "School/Economics/Economics, AP Edition, 22nd Edition..md",
     "School/Economics/Class Notes/1-30-23.md",
     "Extracirricular/Science Olympiad/Remote Sensing/Electromagnetic Waves.md",
     "Extracirricular/Science Olympiad/Remote Sensing/Mie Scattering.md",

@@ -288,6 +288,7 @@ In terms of [[#Equilibrium]], an increase in supply increases the equilibrium qu
 ![[Sample Supply Curve.png]]
 
 ### Law of Supply
+
 As price rises, the quantity supplied rises (and the inverse). This is an **direct relationship** between price and quantity supplied.$$\uparrow P \Longrightarrow \uparrow Q_S$$$$ \downarrow P \Longrightarrow \downarrow Q_S$$
 While price is the restricting barrier on consumers buying a product, it is the reward/*revenue* of the producer. Greater revenue incentivizes greater production.
 
@@ -345,6 +346,7 @@ Price floors can also incentivize producers to continue producing otherwise inef
 *Market failure* is a condition in which markets do not allocate resources to optimize for net benefits.
 
 ## Surplus
+
 ### Consumer Surplus
 
 The difference between the maximum price a consumer is *willing to pay* (illustrated by a demand curve) and how much they *actually pay* (the real price). This means finding the area bounded by the demand curve and price line, above the price line (generally a triangle; $\frac{bh}{2}$). **Consumer surplus is *inversely related* to price**.
@@ -422,6 +424,43 @@ If the total utility used to create the indifference curve changes, it will move
 
 When used in conjunction with [[#Budget Lines]], finding the intersection of the highest indifference curve and budget line (thus an attainable combination that yields the most total utility; $MRS = \frac{P_B}{P_A}$) leads to a consumer's *equilibrium position*. This achieves a similar result to the [[#Utility-Maximizing Rule]], but without having to assign numerical values to utility.
 
+# Chapter 12
+> Monopolistic Competition
+
+## Monopolistic Competition
+
+A mix between [[#Monopoly]] and [[#Pure Competition]] (more toward pure competition), monopolistic competition consists of:
+- **A Large Number of Sellers**
+	- Each seller has a small market share (and little price control; but still *price makers*)
+	- Sellers do not *collude* (coordinate to control price)
+	- Sellers operate independently (without considering other firms)
+- **Differentiated (Unique) Products**
+	- They are heavily advertised (*nonprice competition*) based on their traits/qualities (to attempt to shift consumer preferences: decrease demand elasticity and shift demand rightward)
+		- Attributes (slight qualitative variations)
+		- Service (customer support, employee expertise)
+		- Location (accessibility)
+		- Branding (brand names, trademarks, packaging, endorsements)
+- **Easy Entry/Exit**
+	- Few [[#Economies of Scale]]
+	- Financial barriers toward development/advertising still exist
+	- Trade secrets/trademarks give some firms the upper hand
+> ex. Medical care, legal assistance, real estate, grocery stores, hair salons, clothing stores, restaurants, etc.
+### Measuring Market Share
+
+#### Four-Firm Concentration Ratio
+$$CR4 = \frac{Output\space of\space  the\space  Four\space  Largest\space  Firms}{Total\space  Industry\space Output}$$
+Purely competitive industries have a low CR4, pure monopolies have a high CR4 . <40% is around monopolistically competitive. Does not fully take into account the locality of shares (locally competitive markets may appear lowly concentrated in the CR4, due to looking at market shares on a national level).
+
+#### Herfindahl-Hirschman Index
+$$HHI=\sum_{n=1}^{a}{(\%S_n)^2}$$
+*Where $S_n$ is the percentage market share of firm $n$ in the industry.*
+
+Purely competitive industries have a HHI approaching 0, with a maximum of 10,000 (for monopolies with a 100% market share).
+
+### Graphical Analysis
+
+The demand curve for a monopolistically competitive seller is highly elastic due to competitors producing close substitutes for their product. As always, produce where $MC=MR$ 
+
 # Chapter 34
 > International Trade
 
@@ -459,35 +498,3 @@ Specialization results in better/efficient resource allocation, and increases th
 ### Trade with Increasing Opportunity Costs
 
 If opportunity costs were to increase with each unit of one good, as it [[Basic Economic Concepts#Law of Increasing Opportunity Cost|usually does]], trade becomes less optimal as each party tries to optimize its production ratio, and the differing ratios that provide trade with its benefits disappear. This leads to less-than-complete specialization, and sometimes domestic products can compete with imported ones.
-
-# Chapter 12
-> Monopolistic Competition
-
-## Monopolistic Competition
-
-A mix between [[#Monopoly]] and [[#Pure Competition]] (more toward pure competition), monopolistic competition consists of:
-- **A Large Number of Sellers**
-	- Each seller has a small market share (and little price control; but still *price makers*)
-	- Sellers do not *collude* (coordinate to control price)
-	- Sellers operate independently (without considering other firms)
-- **Differentiated (Unique) Products**
-	- They are heavily advertised (*nonprice competition*) based on their traits/qualities (to attempt to shift consumer preferences: decrease demand elasticity and shift demand rightward)
-		- Attributes (slight qualitative variations)
-		- Service (customer support, employee expertise)
-		- Location (accessibility)
-		- Branding (brand names, trademarks, packaging, endorsements)
-- **Easy Entry/Exit**
-	- Few [[#Economies of Scale]]
-	- Financial barriers toward development/advertising still exist
-	- Trade secrets/trademarks give some firms the upper hand
-
-### Measuring Market Share
-
-#### Four-Firm Concentration Ratio
-$$CR4 = \frac{Output\space of\space  the\space  Four\space  Largest\space  Firms}{Total\space  Industry\space Output}$$
-Purely competitive industries have a low CR4, pure monopolies have a high CR4 . <40% is around monopolistically competitive. Does not fully take into account the locality of shares (locally competitive markets may appear lowly concentrated in the CR4, due to looking at market shares on a national level).
-
-#### Herfindahl-Hirschman Index
-$$HHI=\sum{\%S_n^2}$$
-*Where $S_n$ is the percentage market share of firm $n$ in the industry.*
-
