@@ -459,3 +459,6 @@ Specialization results in better/efficient resource allocation, and increases th
 ### Trade with Increasing Opportunity Costs
 
 If opportunity costs were to increase with each unit of one good, as it [[Basic Economic Concepts#Law of Increasing Opportunity Cost|usually does]], trade becomes less optimal as each party tries to optimize its production ratio, and the differing ratios that provide trade with its benefits disappear. This leads to less-than-complete specialization, and sometimes domestic products can compete with imported ones.
+
+# Chapter 12
+> Monopolistic Competition
