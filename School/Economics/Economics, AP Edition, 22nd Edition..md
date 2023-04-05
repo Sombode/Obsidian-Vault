@@ -471,6 +471,12 @@ As with [[#Pure Competition]], any economic profit/loss corresponds with the ent
 
 > Realistically, some firms can gain enough monopoly power to turn an economic profit. This can be either through better/unique traits of their product/service (unique enough, best location), or from the small barriers to entry blocking enough to turn away some.
 
+### Inefficiency
+
+Monopolistic competition realizes neither allocative ($P=MC$) nor productive ($MC=min(ATC)$) efficiency (too many firms means that profits are only made below this optimal point, so too many firms operate inefficiently), and the difference in quantity between the profit-maximizing and socially optimal ($MC=MR$ and $MC=min(ATC)$) is called *excess capacity*.
+
+![[Excess Capacity.png]]
+
 # Chapter 34
 > International Trade
 
