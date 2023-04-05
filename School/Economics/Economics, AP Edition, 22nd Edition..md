@@ -459,7 +459,17 @@ Purely competitive industries have a HHI approaching 0, with a maximum of 10,000
 
 ### Graphical Analysis
 
-The demand curve for a monopolistically competitive seller is highly elastic due to competitors producing close substitutes for their product. As always, produce where $MC=MR$ 
+The demand curve for a monopolistically competitive seller is highly elastic due to competitors producing close substitutes for their product. As always, produce where $MC=MR$, and price according to $D=AR=P$.
+
+The more competition a firm faces, the more price elastic demand is (and closer to pure competition it is).
+
+![[Industry Curves for Monopolistic Competition.png]]
+
+#### The Long Run
+
+As with [[#Pure Competition]], any economic profit/loss corresponds with the entry/exit of firms in the industry, shifting industry supply and thus price until a normal profit is achieved. Long-run equilibrium occurs when price is equal to $ATC$.
+
+> Realistically, some firms can gain enough monopoly power to turn an economic profit. This can be either through better/unique traits of their product/service (unique enough, best location), or from the small barriers to entry blocking enough to turn away some.
 
 # Chapter 34
 > International Trade
