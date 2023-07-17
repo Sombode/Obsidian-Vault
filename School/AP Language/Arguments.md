@@ -31,6 +31,11 @@ Aristotle believed that time played a large part in how arguments should be inte
 Statis Theory comes from ancient Greek and Roman methods to classify arguments (in court cases) based on a set of sequential questions that build on each other, eventually leading to a better understanding of the status of an argument. These questions may vary, but usually are along the lines of:
 
 1. Did something happen?
-2. What is its nature?
-3. What is its quality?
-4. What actions should be taken?
+	- *Argument of Fact* 
+	- "True/false" statement proved or disproved with evidence
+	- Superficially simple, but becomes more complex as underlying axioms need to be established
+1. What is its nature?
+	- *Argument of Definition*
+	- Arguments about relating or categorizing an object/action in a certain category
+1. What is its quality?
+2. What actions should be taken?
