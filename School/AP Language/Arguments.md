@@ -34,10 +34,14 @@ Statis Theory comes from ancient Greek and Roman methods to classify arguments (
 	- *Argument of Fact* 
 	- "True/false" statement proved or disproved with evidence
 	- Superficially simple, but becomes more complex as underlying axioms need to be established
-1. What is its nature?
+2. What is its nature?
 	- *Argument of Definition*
 	- Arguments about relating or categorizing an object/action in a certain category
-1. What is its quality?
+3. What is its quality?
 	- *Argument of Evaluation*
 	- Similar to arguments of definition, but now assigning more subjective adjectives to an object (ex. good, better, bad, worse)
-1. What actions should be taken?
+4. What actions should be taken?
+	- *Argument of Proposal*
+	- Sets forth actions to be taken to address an issue
+	- May have to first confirm the existence of the problem to address
+	- May expand on and defend its solution
