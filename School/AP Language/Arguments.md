@@ -38,4 +38,6 @@ Statis Theory comes from ancient Greek and Roman methods to classify arguments (
 	- *Argument of Definition*
 	- Arguments about relating or categorizing an object/action in a certain category
 1. What is its quality?
-2. What actions should be taken?
+	- *Argument of Evaluation*
+	- Similar to arguments of definition, but now assigning more subjective adjectives to an object (ex. good, better, bad, worse)
+1. What actions should be taken?
