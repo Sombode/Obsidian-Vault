@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "589548ea5485829c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/AP Language/Audiences for Arguments.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/AP Language/Arguments.md"
+                "file": "School/AP Language/Audiences for Arguments.md"
               }
             }
           },
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/AP Language/Arguments.md",
+                "file": "School/AP Language/Audiences for Arguments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/AP Language/Arguments.md",
+                "file": "School/AP Language/Audiences for Arguments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,10 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f054621178c0405",
+  "active": "589548ea5485829c",
   "lastOpenFiles": [
-    "School/AP Language/Everything's An Argument.md",
     "School/AP Language/Arguments.md",
+    "School/AP Language/Audiences for Arguments.md",
+    "School/AP Language/Everything's An Argument.md",
     "School/Economics/Economics, AP Edition, 22nd Edition..md",
     "School/AP Language",
     "4-5-2023.md",
@@ -192,7 +205,6 @@
     "Joules.md",
     "Backend/Templates/General Template.md",
     "School/Economics/Class Notes/2-13-23.md",
-    "Personal/Valorant/General.md",
     "School/Economics/Images/Sample Budget Line.png"
   ]
 }
