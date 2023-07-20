@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "301bc35cbfc912c1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -87,6 +97,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "6cd3537792361084",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -170,7 +188,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "589548ea5485829c",
+  "active": "301bc35cbfc912c1",
   "lastOpenFiles": [
     "School/AP Language/Arguments.md",
     "School/AP Language/Audiences for Arguments.md",
