@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "97ad6018b767e322",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/AP Language/Everything's An Argument.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2f054621178c0405",
             "type": "leaf",
             "state": {
@@ -67,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +130,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -153,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/AP Language/Ethos.md"
+                "file": "School/AP Language/Arguments.md"
               }
             }
           },
@@ -163,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/AP Language/Ethos.md",
+                "file": "School/AP Language/Arguments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,17 +167,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/AP Language/Ethos.md",
+                "file": "School/AP Language/Arguments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 296.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,14 +190,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b20503e0d3ac7756",
+  "active": "2f054621178c0405",
   "lastOpenFiles": [
-    "School/AP Language/Pathos.md",
     "School/AP Language/Ethos.md",
-    "School/AP Language/Logos.md",
-    "School/AP Language/Everything's An Argument.md",
-    "School/AP Language/Arguments.md",
+    "School/AP Language/Pathos.md",
     "School/AP Language/Audiences for Arguments.md",
+    "School/AP Language/Arguments.md",
+    "School/AP Language/Everything's An Argument.md",
+    "School/AP Language/Logos.md",
     "School/Economics/Economics, AP Edition, 22nd Edition..md",
     "School/AP Language",
     "4-5-2023.md",

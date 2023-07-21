@@ -45,3 +45,5 @@ Statis Theory comes from ancient Greek and Roman methods to classify arguments (
 	- Sets forth actions to be taken to address an issue
 	- May have to first confirm the existence of the problem to address
 	- May expand on and defend its solution
+
+*Source: [[Everything's An Argument]]*

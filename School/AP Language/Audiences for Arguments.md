@@ -7,3 +7,5 @@ Arguments work most effectively when they resonate with their audience, but achi
 *Real readers* are the actual audience reading an argument, whether they are the intended readers or not.
 
 Some arguments are tailored specifically toward a certain group of people the writer identifies with, with them using collective pronouns such as "we" and "us" in the argument. While this can build strong connections and pull with the ideal readers, other real readers outside of this group become highly isolated and the argument might lose much of its impact on them.
+
+*Source: [[Everything's An Argument]]*
