@@ -1,6 +1,5 @@
 > Appeal to ethics; Arguments of character
 
-
 Ethos relies on the character of the author to support their argument, whether that be their authority on a subject from experience or expertise, or their past credibility.
 
 Throughout their argument, authors portray themselves in a specific way based on the language they use, and the type of person they depict themselves as plays a large role in how strong their ethos is. Those identifying with certain job titles or institutions, or describing past experience in the topic at hand build their authority in the argument.
