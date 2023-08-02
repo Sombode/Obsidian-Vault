@@ -42,19 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f4fd23084deadea3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School/Language/Ethos.md"
+              }
             }
           },
           {
@@ -147,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School/Language/Ethos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School/Language/Ethos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,13 +178,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4fd23084deadea3",
+  "active": "b20503e0d3ac7756",
   "lastOpenFiles": [
+    "School/Language/Pathos.md",
     "School/Language/Logos.md",
     "Personal/Shattered Reality Lore/Chaos.md",
     "Personal/Shattered Reality Lore",
     "School/Language/Ethos.md",
-    "School/Language/Pathos.md",
     "School/Language/Audiences for Arguments.md",
     "School/Economics/Class Notes/1-30-23.md",
     "School/Economics/Class Notes/2-14-23.md",
