@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f4fd23084deadea3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School/Language/Logos.md"
-              }
+              "state": {}
             }
           },
           {
@@ -139,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Language/Logos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +163,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Language/Logos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,11 +185,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "589548ea5485829c",
+  "active": "f4fd23084deadea3",
   "lastOpenFiles": [
+    "School/Language/Logos.md",
+    "Personal/Shattered Reality Lore/Chaos.md",
+    "Personal/Shattered Reality Lore",
     "School/Language/Ethos.md",
     "School/Language/Pathos.md",
-    "School/Language/Logos.md",
     "School/Language/Audiences for Arguments.md",
     "School/Economics/Class Notes/1-30-23.md",
     "School/Economics/Class Notes/2-14-23.md",
@@ -211,7 +219,6 @@
     "Extracirricular/Science Olympiad/Remote Sensing/Bands/IR.md",
     "School/Economics/Images/Indifference Curve Example.png",
     "School/Economics/Images/Marginal Utility Table.png",
-    "School/Economics/Class Notes/2-21-23.md",
     "School/Economics/Images/Sample Supply Curve.png",
     "School/Economics/Images/Sample Demand Curve.png",
     "School/Economics/Images/Sample Budget Line.png"
