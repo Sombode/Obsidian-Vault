@@ -11,11 +11,9 @@
             "id": "b20503e0d3ac7756",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "School/Language/Ethos.md",
-                "mode": "source",
-                "source": false
+                "file": "School/Economics/Images/Industry Curves for Monopolistic Competition.png"
               }
             }
           },
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Language/Ethos.md"
+                "file": "School/Economics/Images/Industry Curves for Monopolistic Competition.png"
               }
             }
           },
@@ -138,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Language/Ethos.md",
+                "file": "School/Economics/Images/Industry Curves for Monopolistic Competition.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Language/Ethos.md",
+                "file": "School/Economics/Images/Industry Curves for Monopolistic Competition.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,13 +178,21 @@
   },
   "active": "b20503e0d3ac7756",
   "lastOpenFiles": [
-    "School/Language/Pathos.md",
+    "School/Economics/Images/Indifference Curve Example.png",
+    "School/Economics/Images/Circular Flow Model.png",
+    "School/Economics/Images/Deadweight Loss Example.png",
+    "School/Economics/Images/Consumer Surplus Example.png",
+    "School/Economics/Basic Economic Concepts.md",
+    "School/Economics/Class Notes/3-8-23.md",
+    "School/Economics/Class Notes/3-6-23.md",
+    "School/Economics/Class Notes/1-30-23.md",
+    "School/Economics/Class Notes/2-13-23.md",
     "School/Language/Ethos.md",
+    "School/Language/Pathos.md",
     "School/Language/Logos.md",
     "Personal/Shattered Reality Lore/Chaos.md",
     "Personal/Shattered Reality Lore",
     "School/Language/Audiences for Arguments.md",
-    "School/Economics/Class Notes/1-30-23.md",
     "School/Economics/Class Notes/2-14-23.md",
     "School/Language/Arguments.md",
     "School/Language/Everything's An Argument.md",
@@ -194,9 +200,7 @@
     "School/Language",
     "School/Economics/Class Notes/4-5-2023.md",
     "School/Economics/Class Notes/3-9-23.md",
-    "School/Economics/Class Notes/3-8-23.md",
     "School/Economics/Class Notes/3-7-23.md",
-    "School/Economics/Class Notes/3-6-23.md",
     "School/Economics/Class Notes/3-13-2023.md",
     "School/Economics/Class Notes/3-10-23.md",
     "School/Economics/Class Notes/2-28-23.md",
@@ -204,13 +208,9 @@
     "School/Economics/Class Notes/2-16-23.md",
     "School/Economics/Images/Excess Capacity.png",
     "School/Economics/Images/Industry Curves for Monopolistic Competition.png",
-    "School/Economics/Basic Economic Concepts.md",
     "Extracirricular/Science Olympiad/Remote Sensing/Remote Sensing and Image Interpretation Fifth Edition.md",
     "School/Economics/Class Notes/3-27-23.md",
     "Extracirricular/Science Olympiad/Remote Sensing/Electromagnetic Waves.md",
-    "Extracirricular/Science Olympiad/Remote Sensing/Mie Scattering.md",
-    "Extracirricular/Science Olympiad/Remote Sensing/Bands/IR.md",
-    "School/Economics/Images/Indifference Curve Example.png",
     "School/Economics/Images/Marginal Utility Table.png",
     "School/Economics/Images/Sample Supply Curve.png",
     "School/Economics/Images/Sample Demand Curve.png",
