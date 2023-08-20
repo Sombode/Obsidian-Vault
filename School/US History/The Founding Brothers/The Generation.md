@@ -36,4 +36,5 @@
 	- This interpretation commonly emphasizes individual liberties and thus libertarian principles
 - The other interpretation sees the revolution as a movement deeply seeded from the colonial era, and focuses on collective government and sacrificing certain individual liberties for the common good
 - The debates and arguments from the outset of the nation have lasted to today, as we continue to argue under for or against the influence of the federal government
+- What separates the American Revolution from other ones is how instead of debate leading to outright, widespread violence, arguments have been institutionalized and continue to this day in discourse
 - 

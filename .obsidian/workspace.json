@@ -104,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School/US History/The Founding Brothers/The Generation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -115,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/US History/The Founding Brothers/The Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/US History/The Founding Brothers/The Generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +154,9 @@
   },
   "active": "11c9858bb931ebe3",
   "lastOpenFiles": [
+    "School/US History/The Founding Brothers/The Generation.md",
     "School/US History/The Founding Brothers",
     "School/Language/Logos.md",
-    "School/US History/The Founding Brothers/The Generation.md",
     "School/Language/Pathos.md",
     "School/Economics/Images/Industry Curves for Monopolistic Competition.png",
     "School/US History",
