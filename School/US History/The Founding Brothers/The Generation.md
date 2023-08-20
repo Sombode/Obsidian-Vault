@@ -13,4 +13,15 @@
 - To ensure a central government, the Constitutional Convention took place in 1787 and drafted a new document to accommodate republican principles
 - While criticized by some for not achieving its original purpose of revising the Articles and also bypassing the normal process for ratification, the Constitution also created a centralized government while staying true to republican principles
 - The creation of the Constitution in 1787 can be seen as the second "founding" of the nation, no longer just proclaiming independence but also nationhood
-- Despite the
+- Uncertainty was prevalent throughout the convention, seen in the many compromises and ambiguity in the resulting Constitution
+- An "American people" did not exist for a long time, with terms such as "American" and "democrat" being mostly insulting terms for a while
+- Assets of the American Revolution:
+	- Bountiful natural resources
+	- Geographic isolation
+	- Young and large population (4 million people)
+	- Broad distribution of property (among whites)
+	- Commitment to republican principles
+	- Popular support for the first chief executive
+	- George Washington
+- Liabilities of the American Revolution:
+	- Republican government is a new
