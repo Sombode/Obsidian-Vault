@@ -2,4 +2,9 @@
 - Many American revolutionaries understood its historical significance at the time, recording documents and portraying themselves in a certain way to be preserved and remembered
 - The ideals of the American Revolution were bolstered by the many subsequent revolutions in history and the rise of many new governments following American principles
 - Still, revolution seemed highly unlikely at the time and many revolutionaries did not fully believe in its success
-- If the British s
+- If the British been more keen to strike down the revolution in its infancy, it might have failed as a whole and history would be forever different
+- Thomas Paine believed that eventually America would evolve into an independent nation, but did not expect it to occur as quickly as it did under revolution
+- Looking back on the success of the revolution with hindsight can hamper the miracle that it was at the time, given the military power of the British
+- However, hindsight also allows historians to gain a sense of contingency throughout the events and understand patterns that appear
+- Thus, a mix of blindness to the future and hindsight must be applied to properly grasp the historical impact of the American revolution
+- Due to its isolation from 
