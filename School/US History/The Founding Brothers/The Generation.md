@@ -28,3 +28,8 @@
 	- The principles of the revolution undermined any centralized government
 	- The states had been largely separate and isolated, with little common history to bind them together
 	- A large amount of the American population was black slaves, especially in the Chesapeake region and the south
+- The first decade of the American nation is arguably the most influential, with certain choices made during this period setting up consequences such as the Civil War and America's emergence as a world power
+- People either view the period surrounding America's founding positively or negatively depending on their opinions on the nation's current state, and many scholars seek to uncover the different viewpoints that may have existed at the time
+- Despite this, most of the institutions were shaped by a small group of interconnected figures 
+- This group of mostly white males emerged under the pressures of the revolution to support the infantile nation, and became America's first natural aristocracy
+- 
