@@ -24,4 +24,7 @@
 	- Popular support for the first chief executive
 	- George Washington
 - Liabilities of the American Revolution:
-	- Republican government is a new
+	- Republican government on this scale is a new and untested concept
+	- The principles of the revolution undermined any centralized government
+	- The states had been largely separate and isolated, with little common history to bind them together
+	- A large amount of the American population was black slaves, especially in the Chesapeake region and the south
