@@ -32,4 +32,8 @@
 - People either view the period surrounding America's founding positively or negatively depending on their opinions on the nation's current state, and many scholars seek to uncover the different viewpoints that may have existed at the time
 - Despite this, most of the institutions were shaped by a small group of interconnected figures 
 - This group of mostly white males emerged under the pressures of the revolution to support the infantile nation, and became America's first natural aristocracy
+- Under the "Jeffersonian interpretation" of the American Revolution, it was meant to be a complete separation from the corruption of monarchy and aristocracy, which was poisoned by the Federalists
+	- This interpretation commonly emphasizes individual liberties and thus libertarian principles
+- The other interpretation sees the revolution as a movement deeply seeded from the colonial era, and focuses on collective government and sacrificing certain individual liberties for the common good
+- The debates and arguments from the outset of the nation have lasted to today, as we continue to argue under for or against the influence of the federal government
 - 
