@@ -1,0 +1,5 @@
+- While near-impossible to imagine at the time, the American Revolution was bound to happen
+- Many American revolutionaries understood its historical significance at the time, recording documents and portraying themselves in a certain way to be preserved and remembered
+- The ideals of the American Revolution were bolstered by the many subsequent revolutions in history and the rise of many new governments following American principles
+- Still, revolution seemed highly unlikely at the time and many revolutionaries did not fully believe in its success
+- If the British s
