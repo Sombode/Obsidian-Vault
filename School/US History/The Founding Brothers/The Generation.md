@@ -37,4 +37,9 @@
 - The other interpretation sees the revolution as a movement deeply seeded from the colonial era, and focuses on collective government and sacrificing certain individual liberties for the common good
 - The debates and arguments from the outset of the nation have lasted to today, as we continue to argue under for or against the influence of the federal government
 - What separates the American Revolution from other ones is how instead of debate leading to outright, widespread violence, arguments have been institutionalized and continue to this day in discourse
-- 
+- Some would say that America was founded on this debate, and thus built upon a contradiction over which people continue to argue
+- While not exactly violent, the discourse surrounding the nation's founding still was discordant and chaotic
+- The revolution only succeeded due to the diversity of personalities and ideologies of the people who led its founding
+- Furthermore, many of the influential people in the revolution knew each other closely, building a sense of trust and friendship (for some) that allowed the nation to grow
+- By taking slavery off of the board early on, the South's allegiance was secured at the cost of violence down the line
+- Many of the founded fathers understood their historical significance and portrayed themselves in a way favorable to the future citizens of the nation they were building
