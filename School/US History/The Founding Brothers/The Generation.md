@@ -10,4 +10,7 @@
 - Due to its isolation from Europe and plentiful natural resources, the American continent was set up to become a large and powerful force
 - The principles that the revolution were based on, mainly used to discredit the authority of Parliament, would also undermine the authority of any central government in the new American nation; this is seen as the government under the Articles was highly decentralized
 - America had great potential in the long-run, but few hopes in the short-run
-- To ensure America would not dissolve into 
+- To ensure a central government, the Constitutional Convention took place in 1787 and drafted a new document to accommodate republican principles
+- While criticized by some for not achieving its original purpose of revising the Articles and also bypassing the normal process for ratification, the Constitution also created a centralized government while staying true to republican principles
+- The creation of the Constitution in 1787 can be seen as the second "founding" of the nation, no longer just proclaiming independence but also nationhood
+- Despite the
