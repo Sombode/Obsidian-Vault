@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.51103591918945,
-    "collapsed": true
+    "width": 268.51103591918945
   },
   "right": {
     "id": "189a38ed5c48185a",
@@ -104,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School/US History/The Founding Brothers/The Generation.md"
+              }
             }
           },
           {
@@ -113,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School/US History/The Founding Brothers/The Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School/US History/The Founding Brothers/The Generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
