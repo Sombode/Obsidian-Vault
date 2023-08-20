@@ -8,4 +8,6 @@
 - However, hindsight also allows historians to gain a sense of contingency throughout the events and understand patterns that appear
 - Thus, a mix of blindness to the future and hindsight must be applied to properly grasp the historical impact of the American revolution
 - Due to its isolation from Europe and plentiful natural resources, the American continent was set up to become a large and powerful force
-- 
+- The principles that the revolution were based on, mainly used to discredit the authority of Parliament, would also undermine the authority of any central government in the new American nation; this is seen as the government under the Articles was highly decentralized
+- America had great potential in the long-run, but few hopes in the short-run
+- To ensure America would not dissolve into 
