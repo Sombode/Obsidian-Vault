@@ -7,4 +7,5 @@
 - Looking back on the success of the revolution with hindsight can hamper the miracle that it was at the time, given the military power of the British
 - However, hindsight also allows historians to gain a sense of contingency throughout the events and understand patterns that appear
 - Thus, a mix of blindness to the future and hindsight must be applied to properly grasp the historical impact of the American revolution
-- Due to its isolation from 
+- Due to its isolation from Europe and plentiful natural resources, the American continent was set up to become a large and powerful force
+- 
