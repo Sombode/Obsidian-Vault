@@ -20,7 +20,13 @@
 > Term may differ depending on usage ("mulch" is softer?)
 - [Follow Up to Tanbark-Oak (Reddit)](https://www.reddit.com/r/bayarea/comments/b34rbv/comment/eiz52qf/?utm_source=share&utm_medium=web2x&context=3)
 > Leftovers from tannin extraction from tanbark oak used for tanbark?
-- [Bark ]
+- [Bark Dust!?!](https://www.reddit.com/r/bayarea/comments/b34rbv/comment/eixl3s3/?utm_source=share&utm_medium=web2x&context=3)
+> Oregon term, but the [Wikipedia Page](https://en.wikipedia.org/wiki/Barkdust) opens up a WHOLE new avenue; is this the correct terminology? (also bark chips, bark mulch, beauty bark)
+- [Age and Tanbark?](https://www.reddit.com/r/bayarea/comments/b34rbv/comment/ej1x1ip/?utm_source=share&utm_medium=web2x&context=3)
+> Usage of the term may fade as one ages (likely given context it would've been used in)
+- [Follow Up to the Follow Up to Tanbark-Oak (Reddit)](https://www.reddit.com/r/bayarea/comments/b34rbv/comment/ewekb7p/?utm_source=share&utm_medium=web2x&context=3)
+> Tanbark used to replace sand for noncoastal areas (supports East Bay usage?)
 ## Samples
 - [SanJoseRealEstateLosGatosHomes](https://sanjoserealestatelosgatoshomes.com/landscaping-with-tanbark-or-mulch-use-caution/) (Silicon Valley: Tanbark)
 - [East Bay?](https://www.reddit.com/r/bayarea/comments/b34rbv/comment/eixvkzj/?utm_source=share&utm_medium=web2x&context=3) (Much of the East Bay?: Tanbark)
+- [Outback Nerf (Australia)](http://cplnerf.blogspot.com/2018/01/game-report-mhvz-7118.html#:~:text=to%20leave%20the-,tanbark,-and%20stay%20towards)
