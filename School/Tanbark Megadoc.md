@@ -10,11 +10,17 @@
 > The use of "tanbark" in California may be due to local wood chips being made from the "tanbark-oak"
 - [u/tanbarkstudy](https://www.reddit.com/user/tanbarkstudy/)
 > Reddit user dedicated to this question, surveyed many California localities, **consider diving into their post comments**
+- [Lead on u/tanbarkstudy's sample](https://www.reddit.com/r/SampleSize/comments/dxrmtn/comment/f7vvhok/?utm_source=share&utm_medium=web2x&context=3)
+> Survey distributed via FB, Insta, email as well as Reddit
 - [u/tanbarkstudy's Map](https://www.google.com/maps/d/u/0/viewer?ll=-3.81666561775622e-14%2C88.67995537446666&z=1&mid=1HQXCEPvY3OeCLVV8roEnWcuUtGWm4gCr)
 > Usage of "tanbark" generally limited to California (specifically near San Francisco), Harrisburg, and Melbourne (a few others in Australia too); isolated incidents in Chicago and Beijing too unsupported to consider
 - [Tanbark Dust Hazard?](https://www.reddit.com/r/AskAnAmerican/comments/sli3yt/comment/hvt83v3/?utm_source=share&utm_medium=web2x&context=3)
 > Tanbark may release toxic dust and be a health hazard
-
+- [Playground Tanbark vs. Landscaping Mulch](https://www.reddit.com/r/AskAnAmerican/comments/sli3yt/comment/hvt8e41/?utm_source=share&utm_medium=web2x&context=3)
+> Term may differ depending on usage ("mulch" is softer?)
+- [Follow Up to Tanbark-Oak (Reddit)](https://www.reddit.com/r/bayarea/comments/b34rbv/comment/eiz52qf/?utm_source=share&utm_medium=web2x&context=3)
+> Leftovers from tannin extraction from tanbark oak used for tanbark?
+- [Bark ]
 ## Samples
 - [SanJoseRealEstateLosGatosHomes](https://sanjoserealestatelosgatoshomes.com/landscaping-with-tanbark-or-mulch-use-caution/) (Silicon Valley: Tanbark)
-- 
+- [East Bay?](https://www.reddit.com/r/bayarea/comments/b34rbv/comment/eixvkzj/?utm_source=share&utm_medium=web2x&context=3) (Much of the East Bay?: Tanbark)
