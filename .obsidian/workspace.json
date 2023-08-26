@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "02aa2ce377dc19da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Tanbark Megadoc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.51103591918945
+    "width": 268.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "189a38ed5c48185a",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Language/Arguments.md"
+                "file": "School/Tanbark Megadoc.md"
               }
             }
           },
@@ -114,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Language/Arguments.md",
+                "file": "School/Tanbark Megadoc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Language/Arguments.md",
+                "file": "School/Tanbark Megadoc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,11 +169,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf35ffa324e0b9fe",
+  "active": "02aa2ce377dc19da",
   "lastOpenFiles": [
+    "School/Tanbark Image.png",
+    "School/Language/Untitled 1.md",
+    "School/Tanbark Megadoc.md",
+    "School/Language/Arguments.md",
+    "School/Tanbark",
     "School/Language/Everything's An Argument.md",
     "School/Language/Audiences for Arguments.md",
-    "School/Language/Arguments.md",
     "School/Language/Pathos.md",
     "School/Language/Ethos.md",
     "School/Language/Logos.md",
@@ -190,8 +208,6 @@
     "School/Economics/Class Notes/2-23-23.md",
     "School/Economics/Class Notes/2-16-23.md",
     "School/Economics/Images/Excess Capacity.png",
-    "Extracirricular/Science Olympiad/Remote Sensing/Remote Sensing and Image Interpretation Fifth Edition.md",
-    "School/Economics/Class Notes/3-27-23.md",
     "School/Economics/Images/Marginal Utility Table.png",
     "School/Economics/Images/Sample Supply Curve.png",
     "School/Economics/Images/Sample Demand Curve.png",
