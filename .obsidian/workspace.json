@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "129b5f396065886a",
+        "id": "4a1f5502f5943bbb",
         "type": "tabs",
         "children": [
           {
-            "id": "11c9858bb931ebe3",
+            "id": "75744dbf52d29a3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Language/Arguments.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02aa2ce377dc19da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Tanbark Megadoc.md",
+                "file": "School/Physics 1/1D Motion/Vectors.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.51103591918945,
-    "collapsed": true
+    "width": 268.51103591918945
   },
   "right": {
     "id": "189a38ed5c48185a",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Tanbark Megadoc.md"
+                "file": "School/Physics 1/1D Motion/Vectors.md"
               }
             }
           },
@@ -128,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Tanbark Megadoc.md",
+                "file": "School/Physics 1/1D Motion/Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Tanbark Megadoc.md",
+                "file": "School/Physics 1/1D Motion/Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,11 +155,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02aa2ce377dc19da",
+  "active": "75744dbf52d29a3a",
   "lastOpenFiles": [
+    "School/Physics 1/1D Motion/Scalars.md",
+    "School/Physics 1/1D Motion/Vectors.md",
+    "School/Physics 1/1D Motion",
+    "School/Physics 1",
+    "School/Tanbark Megadoc.md",
     "School/Tanbark Image.png",
     "School/Language/Untitled 1.md",
-    "School/Tanbark Megadoc.md",
     "School/Language/Arguments.md",
     "School/Tanbark",
     "School/Language/Everything's An Argument.md",
@@ -206,11 +196,9 @@
     "School/Economics/Class Notes/3-10-23.md",
     "School/Economics/Class Notes/2-28-23.md",
     "School/Economics/Class Notes/2-23-23.md",
-    "School/Economics/Class Notes/2-16-23.md",
     "School/Economics/Images/Excess Capacity.png",
     "School/Economics/Images/Marginal Utility Table.png",
     "School/Economics/Images/Sample Supply Curve.png",
-    "School/Economics/Images/Sample Demand Curve.png",
-    "School/Economics/Images/Sample Budget Line.png"
+    "School/Economics/Images/Sample Demand Curve.png"
   ]
 }
