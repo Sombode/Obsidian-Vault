@@ -11,11 +11,9 @@
             "id": "75744dbf52d29a3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "School/Physics 1/1D Motion/Vectors.md",
-                "mode": "source",
-                "source": false
+                "file": "School/Tanbark Image.png"
               }
             }
           }
@@ -104,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Physics 1/1D Motion/Vectors.md"
+                "file": "School/Tanbark Image.png"
               }
             }
           },
@@ -114,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Physics 1/1D Motion/Vectors.md",
+                "file": "School/Tanbark Image.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Physics 1/1D Motion/Vectors.md",
+                "file": "School/Tanbark Image.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,13 +153,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75744dbf52d29a3a",
+  "active": "bf35ffa324e0b9fe",
   "lastOpenFiles": [
-    "School/Physics 1/1D Motion/Scalars.md",
-    "School/Physics 1/1D Motion/Vectors.md",
-    "School/Physics 1/1D Motion",
-    "School/Physics 1",
     "School/Tanbark Megadoc.md",
+    "README.md",
+    "Backend/Tasks.md",
+    "School/Physics/1D Motion/Vectors.md",
+    "School/Physics/1D Motion/Scalars.md",
+    "School/Physics/1D Motion",
+    "School/Physics",
     "School/Tanbark Image.png",
     "School/Language/Untitled 1.md",
     "School/Language/Arguments.md",
@@ -194,8 +194,6 @@
     "School/Economics/Class Notes/3-7-23.md",
     "School/Economics/Class Notes/3-13-2023.md",
     "School/Economics/Class Notes/3-10-23.md",
-    "School/Economics/Class Notes/2-28-23.md",
-    "School/Economics/Class Notes/2-23-23.md",
     "School/Economics/Images/Excess Capacity.png",
     "School/Economics/Images/Marginal Utility Table.png",
     "School/Economics/Images/Sample Supply Curve.png",
