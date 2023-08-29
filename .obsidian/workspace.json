@@ -11,9 +11,11 @@
             "id": "75744dbf52d29a3a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "School/Tanbark Image.png"
+                "file": "School/Tanbark Megadoc.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -102,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Tanbark Image.png"
+                "file": "School/Tanbark Megadoc.md"
               }
             }
           },
@@ -112,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Tanbark Image.png",
+                "file": "School/Tanbark Megadoc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Tanbark Image.png",
+                "file": "School/Tanbark Megadoc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf35ffa324e0b9fe",
+  "active": "75744dbf52d29a3a",
   "lastOpenFiles": [
+    "School/Tanbark Image.png",
     "School/Tanbark Megadoc.md",
     "README.md",
     "Backend/Tasks.md",
@@ -162,7 +165,6 @@
     "School/Physics/1D Motion/Scalars.md",
     "School/Physics/1D Motion",
     "School/Physics",
-    "School/Tanbark Image.png",
     "School/Language/Untitled 1.md",
     "School/Language/Arguments.md",
     "School/Tanbark",
@@ -193,7 +195,6 @@
     "School/Economics/Class Notes/3-9-23.md",
     "School/Economics/Class Notes/3-7-23.md",
     "School/Economics/Class Notes/3-13-2023.md",
-    "School/Economics/Class Notes/3-10-23.md",
     "School/Economics/Images/Excess Capacity.png",
     "School/Economics/Images/Marginal Utility Table.png",
     "School/Economics/Images/Sample Supply Curve.png",

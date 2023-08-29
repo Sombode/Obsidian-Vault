@@ -2,7 +2,7 @@
 
 "Tanbark" as a term for the wood chips found on playgrounds (see image) turns out to be a highly localized term, mainly used in the Harrisburg area and the California Bay Area. More common terms include "wood chips" and "mulch."
 
-Hello there from StackEdit!
+Hello there from StackEdit! Hello StackEdit! Obsidian here!
 
 ![[Tanbark Image.png]]
 
