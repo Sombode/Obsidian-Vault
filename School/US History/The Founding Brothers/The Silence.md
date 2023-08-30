@@ -23,4 +23,5 @@
 - While the exigence of the American Revolution was direct and immediate in its goals, the push for abolition was less supported as it proved less of an immediate threat
 - Many slaveowners argued that their right to own and dispose of their own property protected their rights to slaves
 - The polarization between the North and South over slavery proved to be one of the most fundamental divisions plaguing the Constitutional Convention
-- 
+- Northern delegates demanded immediate assurance that slavery would be abolished, while Southern delegates wished for greater access to slave importation and permanent protections for slavery in the Constitution
+- The South wielded great bargaining power due to its threats of leaving the union, utilized during the Nullification Crisis in 1832 and Civil War in 1861
