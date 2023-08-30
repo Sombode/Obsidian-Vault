@@ -25,3 +25,6 @@
 - The polarization between the North and South over slavery proved to be one of the most fundamental divisions plaguing the Constitutional Convention
 - Northern delegates demanded immediate assurance that slavery would be abolished, while Southern delegates wished for greater access to slave importation and permanent protections for slavery in the Constitution
 - The South wielded great bargaining power due to its threats of leaving the union, utilized during the Nullification Crisis in 1832 and Civil War in 1861
+- The result was two main compromises, with the first being one of the last acts of the Confederation, passing the Northwest Ordinance of 1787 that included a part banning slavery in land north of the Ohio River
+- This could be (and was) seen as a victory for both sides: for abolitionists it was a concrete step towards emancipation, for slaveowners it tacitly acknowledged and approved slavery south of the river
+- The second compromise was one where New England and the Deep South log rolled for an extension of the slave trade for 20 years in exchange for federal regulation of commerce to only require a majority 
