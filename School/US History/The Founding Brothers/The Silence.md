@@ -6,3 +6,6 @@
 - However, on 2/12/1790 the Pennsylvania Abolition Society, backed by Benjamin Franklin, sent another petition to abolish slavery
 - This petition only brought more attention to the issue of slavery, making it impossible to ignore
 - The Constitution itself stayed vague around the topic of slavery, allowing states to decide for themselves how to handle the issue
+- Petitioners argued that while the slave trade was off-limits, abolishing slavery was never restricted
+- However, Southern representatives argued that the Bible was proslavery and that nearly everybody's livelihood in the South depended on slave labor for farming
+- 
