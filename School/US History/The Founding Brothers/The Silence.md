@@ -8,4 +8,7 @@
 - The Constitution itself stayed vague around the topic of slavery, allowing states to decide for themselves how to handle the issue
 - Petitioners argued that while the slave trade was off-limits, abolishing slavery was never restricted
 - However, Southern representatives argued that the Bible was proslavery, the Constitution's evasion of the topic implied acceptance, and that nearly everybody's livelihood in the South depended on slave labor for farming
-- Northern representatives cited the principles of the Declaration of Independence to demonstrate the contradiction to American values 
+- Northern representatives cited the principles of the Declaration of Independence and other parts of the Bible to be clearly antislavery
+- Some Northerners saw slavery as a poor curse put on Southerners, being tricked into employing it and unable to escape it
+- They proposed a tax that would compensate slaveowners for their slaves, but the amount required would be too large to feasibly implement
+- 
