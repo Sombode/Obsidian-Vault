@@ -27,5 +27,8 @@
 - The South wielded great bargaining power due to its threats of leaving the union, utilized during the Nullification Crisis in 1832 and Civil War in 1861
 - The result was two main compromises, with the first being one of the last acts of the Confederation, passing the Northwest Ordinance of 1787 that included a part banning slavery in land north of the Ohio River
 - This could be (and was) seen as a victory for both sides: for abolitionists it was a concrete step towards emancipation, for slaveowners it tacitly acknowledged and approved slavery south of the river
-- The second compromise (dubbed the "Sectional Compromise") one where New England and the Deep South log rolled for an extension of the slave trade for 20 years in exchange for federal regulation of commerce to only require a majority vote (over a supermajority)
+- The second compromise (the "Sectional Compromise") was one where New England and the Deep South log rolled for an extension of the slave trade for 20 years in exchange for federal regulation of commerce to only require a majority vote (over a supermajority)
+- Northerners were ultimately disappointed by the concessions to slavery, and Southerners interpreted the compromises as security for slavery's continuance
+- Interestingly, many Virginians were opposed to the slave trade, but demanded protections for slavery
+- Virginia was already heavily stocked with slaves, and thus their opposition to further imports made economic sense
 - 

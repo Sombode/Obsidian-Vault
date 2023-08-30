@@ -3,5 +3,6 @@
   "spellcheck": true,
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "vimMode": false
 }
