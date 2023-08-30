@@ -2,3 +2,7 @@
 - Their petition was highly hindered by the fact that Quakers did not directly participate in the American Revolution
 - Furthermore, Article I, Section 9 of the Constitution already prohibited tampering with the slave trade until 1808
 - The real purpose of the petition was to convince people toward ending slavery itself
+- Agitation in Congress over the petition only led to wider notice of the issue, so the best course of action would've been to send it to committee and ignore it
+- However, on 2/12/1790 the Pennsylvania Abolition Society, backed by Benjamin Franklin, sent another petition to abolish slavery
+- This petition only brought more attention to the issue of slavery, making it impossible to ignore
+- The Constitution itself stayed vague around the topic of slavery, allowing states to decide for themselves how to handle the issue
