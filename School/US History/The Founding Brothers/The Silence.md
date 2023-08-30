@@ -1,0 +1,4 @@
+- On 2/2/1790, 2 Quaker delegates brought forth a petition to the House calling for the slave trade to be immediately interrupted
+- Their petition was highly hindered by the fact that Quakers did not directly participate in the American Revolution
+- Furthermore, Article I, Section 9 of the Constitution already prohibited tampering with the slave trade until 1808
+- The real purpose of the petition was to convince people toward ending slavery itself

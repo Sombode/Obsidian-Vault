@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Tanbark Megadoc.md",
+                "file": "School/US History/The Founding Brothers/The Generation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff245116471c1ad4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/US History/The Founding Brothers/The Silence.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.51103591918945
+    "width": 268.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "189a38ed5c48185a",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Tanbark Megadoc.md"
+                "file": "School/US History/The Founding Brothers/The Silence.md"
               }
             }
           },
@@ -114,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Tanbark Megadoc.md",
+                "file": "School/US History/The Founding Brothers/The Silence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Tanbark Megadoc.md",
+                "file": "School/US History/The Founding Brothers/The Silence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,10 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75744dbf52d29a3a",
+  "active": "ff245116471c1ad4",
   "lastOpenFiles": [
-    "School/Tanbark Image.png",
+    "School/US History/The Founding Brothers/The Generation.md",
+    "School/US History/The Founding Brothers/The Silence.md",
     "School/Tanbark Megadoc.md",
+    "School/Tanbark Image.png",
     "README.md",
     "Backend/Tasks.md",
     "School/Physics/1D Motion/Vectors.md",
@@ -173,7 +189,6 @@
     "School/Language/Pathos.md",
     "School/Language/Ethos.md",
     "School/Language/Logos.md",
-    "School/US History/The Founding Brothers/The Generation.md",
     "School/US History/The Founding Brothers",
     "School/Economics/Images/Industry Curves for Monopolistic Competition.png",
     "School/US History",
