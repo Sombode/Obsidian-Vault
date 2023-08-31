@@ -14,7 +14,6 @@
 - While the North and South were polarized, Virginia had a mix of both viewpoints
 - One Virginian delegate pushed that the slaves need to maintain hope for their eventual emancipation, otherwise revolts would occur
 - While immediate action on slavery was not allowed, some believed it would be beneficial to discuss the future of slavery
-- Ultimately, the petitions were passed on to a committee, and later disappeared from mainstream discussion
 - The inability to take any decisive action regarding slavery would be the central problem following the American Revolution and preceding the Civil War
 - Many saw the abolition of slavery as inevitable given the egalitarian principles of the American Revolution, though little real action was seen to achieve it
 - Small victories were seen in northern states as Vermont, New Hampshire, Pennsylvania, Rhode Island, and Connecticut implemented some antislavery provisions, whether outright banning it or gradually reducing it
