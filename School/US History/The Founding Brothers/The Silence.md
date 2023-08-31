@@ -42,5 +42,6 @@
 - It became evident that at a certain level of black people in a state, slavery was used to enforce racial segregation
 - The census showed that slave populations were not bound to die out anytime soon, crushing the few hopes that Northerners used to assure themselves
 - The exponential growth of slave populations meant that the longer people waited, the more burdensome and difficult it would be to end slavery as a whole
-- The supposed unfeasibility of any proposed abolition plan led to many believing in the permeance of slavery
+- The supposed unfeasibility of any proposed abolition plan led to many believing in the permeance of slavery, however plans for gradual emancipation were still being developed
+- Many plans involved compensating slaveowners for their slaves economically and transporting the freed slaves to a colony elsewhere, such as Sierra Leone or west America; they would spread out the economic costs over a series of years
 - 
