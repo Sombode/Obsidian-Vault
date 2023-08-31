@@ -30,4 +30,9 @@
 - Northerners were ultimately disappointed by the concessions to slavery, and Southerners interpreted the compromises as security for slavery's continuance
 - Interestingly, many Virginians were opposed to the slave trade, but demanded protections for slavery
 - Virginia was already heavily stocked with slaves, and thus their opposition to further imports made economic sense
-- 
+- When the committee finally made its decision regarding the petitions, one of the most comprehensive lists of proslavery rhetoric and arguments came before Congress:
+	- The many concessions to slavery had not yet been fully fulfilled, and thus action on slavery would be betraying the South
+	- Slavery was deeply embedded into Southern culture
+	- If anything, the British should be to blame for beginning to implement slavery; slaveowners today do not willfully partake but must ("a necessary evil")
+	- Slavery was already part of African tribal culture
+	- 
