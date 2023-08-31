@@ -38,3 +38,7 @@
 	- Freeing slaves meant either incorporating them into an already racially prejudiced society or giving them separate land to colonize
 - This speech served to concretely and openly state what was only implicitly said before, and the racial arguments attempted to pit white people against black
 - While slavery's arguments bolstered the racial prejudice in many Americans, it had already existed in the country for many years prior
+- As the debates were going on, the first census of 1790 was being collected, offering insights into the Northern rejection of and Southern proliferation of slavery
+- It became evident that at a certain level of black people in a state, slavery was used to enforce racial segregation
+- The census showed that slave populations were not bound to die out anytime soon, crushing the few hopes that Northerners used to assure themselves
+- The exponenti
