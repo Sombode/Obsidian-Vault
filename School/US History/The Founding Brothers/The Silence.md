@@ -42,4 +42,5 @@
 - It became evident that at a certain level of black people in a state, slavery was used to enforce racial segregation
 - The census showed that slave populations were not bound to die out anytime soon, crushing the few hopes that Northerners used to assure themselves
 - The exponential growth of slave populations meant that the longer people waited, the more burdensome and difficult it would be to end slavery as a whole
+- The supposed unfeasibility of any proposed abolition plan led to many believing in the permeance of slavery
 - 
