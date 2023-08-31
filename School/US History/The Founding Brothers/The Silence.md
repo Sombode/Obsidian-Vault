@@ -35,4 +35,5 @@
 	- Slavery was deeply embedded into Southern culture
 	- If anything, the British should be to blame for beginning to implement slavery; slaveowners today do not willfully partake but must ("a necessary evil")
 	- Slavery was already part of African tribal culture
+	- Freeing slaves meant either incorporating them into an already racially prejudiced society or giving them separate land to colonize
 	- 
