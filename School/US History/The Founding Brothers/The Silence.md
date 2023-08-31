@@ -41,4 +41,5 @@
 - As the debates were going on, the first census of 1790 was being collected, offering insights into the Northern rejection of and Southern proliferation of slavery
 - It became evident that at a certain level of black people in a state, slavery was used to enforce racial segregation
 - The census showed that slave populations were not bound to die out anytime soon, crushing the few hopes that Northerners used to assure themselves
-- The exponenti
+- The exponential growth of slave populations meant that the longer people waited, the more burdensome and difficult it would be to end slavery as a whole
+- 
