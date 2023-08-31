@@ -36,4 +36,5 @@
 	- If anything, the British should be to blame for beginning to implement slavery; slaveowners today do not willfully partake but must ("a necessary evil")
 	- Slavery was already part of African tribal culture
 	- Freeing slaves meant either incorporating them into an already racially prejudiced society or giving them separate land to colonize
-	- 
+- This speech served to concretely and openly state what was only implicitly said before, and the racial arguments attempted to pit white people against black
+- While slavery's arguments bolstered the racial prejudice in many Americans, it had already existed in the country for many years prior
