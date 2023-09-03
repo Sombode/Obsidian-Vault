@@ -1,0 +1,3 @@
+- Outside of Washington's house, Jefferson encountered a dejected Hamilton broken over the gridlock placed over his financial plans by Madison
+- Seeing as Hamilton planned to resign over his defeat, Jefferson hoped to reconcile things between him and Madison
+- According to Jefferson, he organized a dinner party where the two could hash things out, and eventually Madison allowed the economic plan to pass to a vote in exchange for the 
