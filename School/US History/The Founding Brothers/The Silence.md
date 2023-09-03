@@ -44,5 +44,6 @@
 - The exponential growth of slave populations meant that the longer people waited, the more burdensome and difficult it would be to end slavery as a whole
 - The supposed unfeasibility of any proposed abolition plan led to many believing in the permeance of slavery, however plans for gradual emancipation were still being developed
 - Many plans involved compensating slaveowners for their slaves economically and transporting the freed slaves to a colony elsewhere, such as Sierra Leone or west America; they would spread out the economic costs over a series of years
+- While the North had already implemented emancipation, they did not have to worry about integrating freed men into society, as they had few slaves; the South did have to worry about creating the first genuinely biracial society
 - Implementing any such plan would require a large-scale and federal effort, which may be attacked by those interpreting the ideals of the revolution
 - 
