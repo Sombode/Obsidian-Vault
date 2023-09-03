@@ -5,4 +5,6 @@
 - Jefferson believed that the paralysis caused by debate over Hamilton's plan could ruin the unity of the new nation, so despite his opposition to it he felt it was necessary to strike a deal and pass it
 - In retrospect, Jefferson would come to regret his actions in allowing the plan to pass
 - While the validity of Jefferson's story is backed by evidence, many historians believe it is only part of a much bigger picture
-- Madison had earned his reputation as a popular and powerful politician through his push for a strong national government and writing 
+- Madison had earned his reputation as a popular and powerful politician through his push for a strong national government and ability to convince, despite (or perhaps due to) his meager appearance
+- Many people today know Madison as working together with Jefferson, working out the details as Jefferson looked at the big picture; this view would overlook Madison's own power and influence
+- However, at the time of the dinner party, Hamilton was Madison's close co-conspirator, working together on *The Federalist Papers*
