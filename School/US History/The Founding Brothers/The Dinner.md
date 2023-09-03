@@ -19,4 +19,6 @@
 - Hamilton's approach lacked the seeming subtly of Madison's, glossing over opposing arguments and throwing his force aggressively toward overcoming any obstacles, perhaps a product of his insecurities
 - In his 3-month frenzy writing his *Report on the Public Credit*, Hamilton channeled his economic expertise to create what he hoped would untangle the mess of the US economy
 - To Hamilton, the issue over the original holders of securities having given them away was their problem, not his
-- 
+- Madison's seemingly sudden switch from advocating for a strong national government to opposing Hamilton's plans struck him as illogical, considering their previous collaborations
+- The implicit assumptions and authoritative ethos used in his report only served to further discomfort opposition
+- Hamilton proposed that the government needed to take action to oversee the us
