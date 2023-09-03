@@ -1,3 +1,8 @@
-- Outside of Washington's house, Jefferson encountered a dejected Hamilton broken over the gridlock placed over his financial plans by Madison
+- Outside of Washington's house, Jefferson encountered a dejected Hamilton broken over the gridlock placed over his financial plans by Madison (opposing the provision about the national assumption of state debts)
 - Seeing as Hamilton planned to resign over his defeat, Jefferson hoped to reconcile things between him and Madison
-- According to Jefferson, he organized a dinner party where the two could hash things out, and eventually Madison allowed the economic plan to pass to a vote in exchange for the 
+- According to Jefferson, he organized a dinner party on June 20, 1790, where the two could hash things out, and eventually Madison allowed the economic plan to pass to a vote in exchange for the national capital to be situated along the Potomac River
+- While the dinner party did occur, it is unsure if any such agreement was brokered
+- Jefferson believed that the paralysis caused by debate over Hamilton's plan could ruin the unity of the new nation, so despite his opposition to it he felt it was necessary to strike a deal and pass it
+- In retrospect, Jefferson would come to regret his actions in allowing the plan to pass
+- While the validity of Jefferson's story is backed by evidence, many historians believe it is only part of a much bigger picture
+- Madison had earned his reputation as a popular and powerful politician through his push for a strong national government and writing 
