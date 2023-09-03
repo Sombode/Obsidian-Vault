@@ -15,4 +15,5 @@
 - Madison came out against Hamilton's plan, arguing to create a compromise between the original holders and current holders of the securities, but was denied in the House
 - The plan would also shoulder the debt of some states on others who had already paid off most of theirs, such as Virginia (and many other Southern states)
 - Madison also came to see the assumption of state debts as a way for the national government to subtly gain control over state economies as well
-- While accused of threatening the unity of the nation by the North, Madison was propelled by the South to reject Hamilton's plans that pushed to consolidate more of the states into the new government
+- While accused of threatening the unity of the nation by the North, Madison was propelled by the South to reject Hamilton's plans that pushed to consolidate more of the states' power into the new government
+- 
