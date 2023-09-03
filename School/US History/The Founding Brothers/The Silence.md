@@ -54,5 +54,7 @@
 - James Madison's opinion on the topic was much more convoluted, being that of his fellow Virginians in that he opposed the slave trade adamantly but pushed for the preservation of slavery
 - To hide this inherent hypocrisy, Madison would write about slavery in an obscure and circumlocutory way, but also tried to push slavery out of discussion whenever possible
 - Madison's subtle influence in the Congress became evident when some previously antislavery representatives turned more sympathetic to the South
+- Madison himself hoped to draw out concrete clarifications of the vague language around slavery used in the Constitution 
 - When the committee finally sent out its report on the petitions, it pushed for the protection of slavery until 1808, and was sent to the whole of The House for revision
-- 
+- The report was revised to become a permanent block of Congressional power to tamper with slavery at all, and was passed into law
+- The petitions meant to bring forth the end of slavery had been used to secure its presence permanently, with further discussion in Congress of the topic fading out
