@@ -49,3 +49,6 @@
 - Benjamin Franklin had been a staple of American history, present at many landmark events such as the Continental Congress
 - Despite initially supporting the Stamp Act and spending time in London, Franklin quickly joined the American Revolution and was integral in securing an alliance with France
 - Near the end of his life, Franklin spearheaded the Pennsylvania Abolition Society and became prominently antislavery (even if he owned a few slaves at one point), publishing antislavery texts and supporting other abolitionists
+- With Franklin's support, many northern representatives were emboldened to push the issue of emancipation and abolition further, challenging and questioning the Deep South
+- While many other revolutionary figures, such as John Adams, Alexander Hamilton, and George Washington protested slavery, they did little in terms of progressing abolition in Congress
+- James Madison's opinion on the topic was much more convoluted, being that of his fellow Virginians in that he opposed the slave trade a 
