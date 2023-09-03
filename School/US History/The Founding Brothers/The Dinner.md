@@ -7,4 +7,9 @@
 - While the validity of Jefferson's story is backed by evidence, many historians believe it is only part of a much bigger picture
 - Madison had earned his reputation as a popular and powerful politician through his push for a strong national government and ability to convince, despite (or perhaps due to) his meager appearance
 - Many people today know Madison as working together with Jefferson, working out the details as Jefferson looked at the big picture; this view would overlook Madison's own power and influence
-- However, at the time of the dinner party, Hamilton was Madison's close co-conspirator, working together on *The Federalist Papers*
+- However, at the time of the dinner party, Hamilton was Madison's close co-conspirator, working together on *The Federalist Papers* and consulting each other for advice (principally Hamilton seeking advice while drafting his financial plans)
+- It was only a few months prior to the dinner party that Madison switched from advocating for nationalism back to the original revolutionary faith of Virginia
+- Madison was troubled by Hamilton's plans to reimburse those to whom the government owed money as the public sought to take advantage of it
+	- Many veterans who were originally given the securities as payment for their service had sold them off at a fraction of their value
+	- Upon learning of Hamilton's plan, many investors stocked up on securities to try and secure a large profit
+- Madison came out against Hamilton's plan, arguing to create a compromise between the original holders and current holders of 
