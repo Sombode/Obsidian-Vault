@@ -46,4 +46,6 @@
 - Many plans involved compensating slaveowners for their slaves economically and transporting the freed slaves to a colony elsewhere, such as Sierra Leone or west America; they would spread out the economic costs over a series of years
 - While the North had already implemented emancipation, they did not have to worry about integrating freed men into society, as they had few slaves; the South did have to worry about creating the first genuinely biracial society
 - Implementing any such plan would require a large-scale and federal effort, which may be attacked by those interpreting the ideals of the revolution
-- 
+- Benjamin Franklin had been a staple of American history, present at many landmark events such as the Continental Congress
+- Despite initially supporting the Stamp Act and spending time in London, Franklin quickly joined the American Revolution and was integral in securing an alliance with France
+- Near the end of his life, Franklin spearheaded the Pennsylvania Abolition Society and became prominently antislavery (even if he owned a few slaves at one point), publishing antislavery texts and supporting other abolitionists
