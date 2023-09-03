@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e4bef01853c03f71",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,7 +179,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff245116471c1ad4",
+  "active": "e4bef01853c03f71",
   "lastOpenFiles": [
     "School/Economics/Class Notes/2-27-23.md",
     "School/US History/The Founding Brothers/The Silence.md",
