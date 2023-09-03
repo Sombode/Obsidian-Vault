@@ -16,5 +16,7 @@
 - The plan would also shoulder the debt of some states on others who had already paid off most of theirs, such as Virginia (and many other Southern states)
 - Madison also came to see the assumption of state debts as a way for the national government to subtly gain control over state economies as well
 - While accused of threatening the unity of the nation by the North, Madison was propelled by the South to reject Hamilton's plans that pushed to consolidate more of the states' power into the new government
-- Hamilton's approach lacked the seeming subtly of Madison's, glossing over the finer details and throwing his force aggressively toward overcoming any obstacles, perhaps a product of his insecurities
+- Hamilton's approach lacked the seeming subtly of Madison's, glossing over opposing arguments and throwing his force aggressively toward overcoming any obstacles, perhaps a product of his insecurities
+- In his 3-month frenzy writing his *Report on the Public Credit*, Hamilton channeled his economic expertise to create what he hoped would untangle the mess of the US economy
+- To Hamilton, the issue over the original holders of securities having given them away was their problem, not his
 - 
