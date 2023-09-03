@@ -21,4 +21,8 @@
 - To Hamilton, the issue over the original holders of securities having given them away was their problem, not his
 - Madison's seemingly sudden switch from advocating for a strong national government to opposing Hamilton's plans struck him as illogical, considering their previous collaborations
 - The implicit assumptions and authoritative ethos used in his report only served to further discomfort opposition
-- Hamilton proposed that the government needed to take action to oversee the us
+- Hamilton proposed that the government needed to take action to oversee the extraction of the bountiful natural resources in America so that the economy could prosper
+- Thinking economically, Hamilton preferred for the nation's wealth to be consolidated in a few so that it could be employed as capital instead of simply money (politically, consolidation was a scary subject for most)
+- Having been brought into the spotlight by the urban elite (merchants, bankers, business leaders), Hamilton's plans implicitly endorsed them and attempted to channel their talents toward the public good (which could be construed as some as making the rich richer)
+- However to many, the true wealth was in land, not capital; the urban elite were simply middlemen with little contribution to society that bled others dry with interest rates (as many British and Scottish creditors were doing to them)
+- 
