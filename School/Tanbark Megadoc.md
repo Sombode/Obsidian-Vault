@@ -26,6 +26,8 @@
 > Usage of the term may fade as one ages (likely given context it would've been used in)
 - [Follow Up to the Follow Up to Tanbark-Oak (Reddit)](https://www.reddit.com/r/bayarea/comments/b34rbv/comment/ewekb7p/?utm_source=share&utm_medium=web2x&context=3)
 > Tanbark used to replace sand for noncoastal areas (supports East Bay usage?)
+- [Usage of terminology over time](https://books.google.com/ngrams/graph?content=tanbark%2Ctan+bark%2Cwood+chips&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)
+> Google ngram viewer of different terminology; tanbark most prevalent until 1920's 
 ## Samples
 - [SanJoseRealEstateLosGatosHomes](https://sanjoserealestatelosgatoshomes.com/landscaping-with-tanbark-or-mulch-use-caution/) (Silicon Valley: Tanbark)
 - [East Bay?](https://www.reddit.com/r/bayarea/comments/b34rbv/comment/eixvkzj/?utm_source=share&utm_medium=web2x&context=3) (Much of the East Bay?: Tanbark)
