@@ -27,4 +27,5 @@
 - However to many, the true wealth was in land, not capital; the urban elite were simply middlemen with little contribution to society that bled others dry with interest rates (as many British and Scottish creditors were doing to them)
 - Many of the founding fathers found themselves in a precarious position, with Jefferson focused on personal matters, Madison suffering from dysentery, and Washington down with what some considered to be a life-threatening flu
 	- This caused most of the nation to be on edge and jeopardized the stability of the nation
-- 
+- Jefferson acknowledged his lack of expertise surrounding the feud between Hamilton and Madison, and himself had little interest in retaining public office (after a poor track record as governor as Virginia, he only accepted a position because Washington asked him to)
+- Jefferson would host and mediate the dinner party due to his personal aversion to conflict and role in foreign affairs (with large debts, the nation would not be taken seriously by others)
