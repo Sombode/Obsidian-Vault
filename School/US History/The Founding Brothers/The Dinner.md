@@ -25,4 +25,6 @@
 - Thinking economically, Hamilton preferred for the nation's wealth to be consolidated in a few so that it could be employed as capital instead of simply money (politically, consolidation was a scary subject for most)
 - Having been brought into the spotlight by the urban elite (merchants, bankers, business leaders), Hamilton's plans implicitly endorsed them and attempted to channel their talents toward the public good (which could be construed as some as making the rich richer)
 - However to many, the true wealth was in land, not capital; the urban elite were simply middlemen with little contribution to society that bled others dry with interest rates (as many British and Scottish creditors were doing to them)
+- Many of the founding fathers found themselves in a precarious position, with Jefferson focused on personal matters, Madison suffering from dysentery, and Washington down with what some considered to be a life-threatening flu
+	- This caused most of the nation to be on edge and jeopardized the stability of the nation
 - 

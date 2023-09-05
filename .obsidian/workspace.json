@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Tanbark Megadoc.md",
+                "file": "School/US History/The Founding Brothers/The Dinner.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.51103591918945
+    "width": 268.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "189a38ed5c48185a",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Tanbark Megadoc.md"
+                "file": "School/US History/The Founding Brothers/The Dinner.md"
               }
             }
           },
@@ -139,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Tanbark Megadoc.md",
+                "file": "School/US History/The Founding Brothers/The Dinner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Tanbark Megadoc.md",
+                "file": "School/US History/The Founding Brothers/The Dinner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,12 +183,12 @@
   },
   "active": "30c02e556e19377a",
   "lastOpenFiles": [
+    "School/Tanbark Megadoc.md",
     "School/US History/The Founding Brothers/The Dinner.md",
     "School/US History/The Founding Brothers/The Generation.md",
     "School/US History/The Founding Brothers/The Silence.md",
     "School/Economics/Class Notes/2-27-23.md",
     "Untitled.canvas",
-    "School/Tanbark Megadoc.md",
     "School/Tanbark Image.png",
     "README.md",
     "Backend/Tasks.md",
