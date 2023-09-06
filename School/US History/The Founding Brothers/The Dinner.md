@@ -39,4 +39,7 @@
 - The public was shocked by the Potomac's victory seemingly out-of-nowhere and were quick to criticize the decision as a purely political maneuver given the large undeveloped wilderness that was chosen
 - Despite the westward access Madison claimed the Potomac offered, Washington would choose a more eastward location to build the capital (which he was urged should happen sooner rather than later as many believed the Residency Bill would be repealed in favor of Philadelphia)
 - Although Madison compromised with the debt assumption, there was still vehement backlash in Virginia, with subtle threats of secession appearing to threaten the union
+- The compromise reached in Jefferson's dinner party reflects the larger theme of debate and argument between opposing factions in the government
+- In part due to its large population and economy, Virginia had considerable sway in the government, not mentioning the fact that it was now the seat of the nation's capital
+- The geographic isolation and thus undeveloped and almost rural nature of the capital helped assure people afraid of the encroachment of a large, consolidated federal government or of a more industrial (not agrarian) economy
 - 
