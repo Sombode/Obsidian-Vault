@@ -29,6 +29,6 @@
 	- This caused most of the nation to be on edge and jeopardized the stability of the nation
 - Jefferson acknowledged his lack of expertise surrounding the feud between Hamilton and Madison, and himself had little interest in retaining public office (after a poor track record as governor as Virginia, he only accepted a position because Washington asked him to)
 - Jefferson would host and mediate the dinner party due to his personal aversion to conflict and role in foreign affairs (with large debts, the nation would not be taken seriously by others)
-- The Constitutional responsibility of choosing a location for the capital created plenty of tension in Congress, with states either arguing for it to be situated within their borders or bargaining with other states for votes
+- The Constitutional responsibility of choosing a location for the capital created plenty of tension in Congress, with states either arguing for it to be situated within their borders or bargaining with other states for votes (which Madison dubbed the "Big Knife")
 - A plethora of candidates emerged (16), many biased toward Pennsylvania due to its centrality, but the opposition for any single one was adamant
 - 
