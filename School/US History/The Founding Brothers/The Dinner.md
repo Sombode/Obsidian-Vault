@@ -43,3 +43,4 @@
 - In part due to its large population and economy, Virginia had considerable sway in the government, not mentioning the fact that it was now the seat of the nation's capital
 - The geographic isolation and thus undeveloped and almost rural nature of the capital helped assure people afraid of the encroachment of a large, consolidated federal government
 - Furthermore, the almost agrarian landscape separated the political and economic capitals the the US, unlike most European capitals
+- Overall, the location of the capital had large significance in terms of symbolizing the values of the burgeoning nation
