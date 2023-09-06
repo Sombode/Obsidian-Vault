@@ -36,4 +36,4 @@
 - Jefferson's dinner was not the only secret meeting of its kind, with one such meeting on June 15 securing Philadelphia as the temporary location for the capital until the permanent one was settled (many feared the temporary would become the permanent; this revived hopes for the Potomac river)
 - The decision reached at Jefferson's dinner was the culmination of many prior discussions, though this fact is glossed over in his account
 - In fact, votes for the Potomac as the capital had already been secured, Hamilton only prevented any opposition from truly stopping the decision; the main issue of the meeting was to recalculate Virginia's debt and thus how much they would have to owe (Hamilton would subtly manipulate the numbers to appease Virginians so that they ended up with no net change)
-- 
+- The public was shocked by the Potomac's victory seemingly out-of-nowhere and were quick to criticize the decision as a purely political maneuver given the large undeveloped wilderness that was chosen
