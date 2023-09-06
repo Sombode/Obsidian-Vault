@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "ba5a525c0716ccf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/US History/The Founding Brothers/The Farewell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ff245116471c1ad4",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/US History/The Founding Brothers/The Dinner.md"
+                "file": "School/US History/The Founding Brothers/The Farewell.md"
               }
             }
           },
@@ -140,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/US History/The Founding Brothers/The Dinner.md",
+                "file": "School/US History/The Founding Brothers/The Farewell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/US History/The Founding Brothers/The Dinner.md",
+                "file": "School/US History/The Founding Brothers/The Farewell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,10 +193,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "487ed0eed29fac1b",
+  "active": "ba5a525c0716ccf3",
   "lastOpenFiles": [
-    "School/US History/The Founding Brothers/The Generation.md",
     "School/US History/The Founding Brothers/The Dinner.md",
+    "School/US History/The Founding Brothers/The Farewell.md",
+    "School/US History/The Founding Brothers/The Generation.md",
     "School/Tanbark Megadoc.md",
     "School/US History/The Founding Brothers/The Silence.md",
     "School/Economics/Class Notes/2-27-23.md",
@@ -222,7 +235,6 @@
     "School/Economics/Economics, AP Edition, 22nd Edition..md",
     "School/Language",
     "School/Economics/Class Notes/4-5-2023.md",
-    "School/Economics/Class Notes/3-9-23.md",
     "School/Economics/Images/Excess Capacity.png",
     "School/Economics/Images/Marginal Utility Table.png",
     "School/Economics/Images/Sample Supply Curve.png",

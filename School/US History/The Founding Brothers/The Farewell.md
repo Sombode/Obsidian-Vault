@@ -1,0 +1,4 @@
+- Due to his exploits in the American Revolution and impact in founding the country, George Washington is heavily revered as an almost mythical figure, seen as the "Father of the Country"
+- After becoming so accustomed to having Washington as a central figure in the country, when he published his Farewell Address on September 19, 1796 (in preparation for the coming election of the next executive), people were shocked that he was retiring
+- Washington's Farewell Address became a landmark document alongside the Declaration of Independence and Gettysburg Address, though may have been written by Hamilton
+- 
