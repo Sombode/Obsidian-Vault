@@ -32,4 +32,6 @@
 - The Constitutional responsibility of choosing a location for the capital created plenty of tension in Congress, with states either arguing for it to be situated within their borders or bargaining with other states for votes (which Madison dubbed the "Big Knife")
 - A plethora of candidates emerged (16), many biased toward Pennsylvania due to its centrality, but the opposition for any single one was adamant
 - Madison, however, argued for the capital to be situated along the Potomac, claiming that it was the *demographic* center of the country and that the Potomac provided a direct route westward to Ohio, which the Susquehanna lacked
-- Unfortunately, many of the navigational possibilities of the Potomac (which mostly Virginians believed in) were either overstated or simply misleading; any hope for the Potomac as the location was quickly fading
+- Unfortunately, many of the navigational possibilities of the Potomac (which mostly Virginians believed in) were either overstated or simply misleading; any hope for the Potomac as the capital's location was quickly fading
+- Jefferson's dinner was not the only secret meeting of its kind, with one such meeting on June 15 securing Philadelphia as the temporary location for the capital until the permanent one was settled (many feared the temporary would become the permanent; this revived hopes for the Potomac river)
+- The decision reached at Jefferson's dinner was the culmination of many prior discussions, though this fact is glossed over in his account
