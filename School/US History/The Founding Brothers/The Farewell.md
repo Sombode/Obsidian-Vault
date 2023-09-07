@@ -23,5 +23,8 @@
 - Washington understood the allure and appeal of power, and thus understood that no permanent international alliance could last, only permanent national interests (which is why he advocated American isolationism)
 - Washington's vision of the American continent, as shown in his Circular Letter of 1783, was one where the bountiful land (westward) was free for American colonization and expansion (with little resistance from either natives or the Spanish) designed to highlight the pinnacle of mankind's potential; thus he feared any possible way that foreign intervention could ruin his vision
 - Washington also acknowledged the intellectual bounty provided by the Enlightenment, providing the insights and understanding of human rights necessary to ensure a happy and prosperous nation
-- Washington understood that the future of America lay in the unclaimed land to the west, and as such devoted much of his time and energy in planning to expand westward; though many feared 
+- Washington understood that the future of America lay in the unclaimed land to the west, and as such devoted much of his time and energy in planning to expand westward; though many feared expansion could spark conflict
+- Washington's views on foreign policy were exemplified with the 1793 Proclamation of Neutrality, which stated that America was an impartial witness to the European conflict between England and France
+- He believed that their geographic isolation would allow them to build up the necessary population and resources to handle and overcome foreign opposition, if only Americans bide their time and isolate themselves from foreign policy ("enlightened procrastination")
+- However, there was debate over what exactly isolationism meant in terms of policy, which came to a head over (Chief Justice) Jay's Treaty in 1794, which avoided another war with England in exchange for several concessions (tariffs on exports, debt compensation, acknowledgement of supremacy...)
 - 
