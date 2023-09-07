@@ -33,4 +33,6 @@
 - The brutal suppression of the Pennsylvanian Whiskey Rebellion (against excise taxes on whiskey) by the militia only supported Jefferson's fears, that Washington was becoming senile and oblivious to the takeover of the federal government by conspirators
 - Despite the heavy bloodshed, Jefferson wholeheartedly supported the French Revolution as the next step toward defeating the ancient practice of monarchy, symbolized by the old enemy of England; he believed that Washington has led America toward the wrong side of the battle by "siding" with England and becoming an enemy of the French
 - Washington became frustrated with Jefferson's spreading of rumors about his incompetence, and soon they stopped corresponding with each other
-- 
+- Washington saw decisions by the executive to be final and to be accepted by the people, while Jefferson supported outright and even violent protest against them if they violated principles of the Revolution
+- Jefferson's ideas rubbed off on others, such as James Monroe and Edmund Randolph (Jefferson's successor as secretary of state); both would assure France of popular American support and action once corruption/conspiracy in the government was removed
+- With all of the rumors circulating his senility, Washington resolved to use his Farewell Address to set forth his very much intact control, vision of the 
