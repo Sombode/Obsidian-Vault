@@ -6,3 +6,8 @@
 - For most of his career, Washington maintained excellent physical health and sustained few if any injuries; however, he would become ill before the Constitutional Convention in 1787 and again in 1790, nearly dying and marking his physical decline
 - Not only would his physical vigor decline, but so would his mental drive and energy not just from age but also from opposition in politics and the press (which superficially did not affect him but did deeply nag at him)
 - The principal complaint against Washington was that he essentially turned himself into somewhat of a monarch both in power and in behavior
+- The nature of the Revolution required a figurehead to stabilize and focus energy, and Washington had assumed that role as the first "republican king"
+- However, another lasting legacy of the Revolution was a deep and intrinsic hatred of monarchs, which placed Washington's position in a precarious place
+- Washington was so effective in his duties as a singular actor in the government that most attacks against the government became inherently aimed at him
+- It was through his voluntary resignation that Washington assured critics that he would not become like every other monarch
+- 
