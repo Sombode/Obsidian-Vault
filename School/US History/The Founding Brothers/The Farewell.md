@@ -23,4 +23,5 @@
 - Washington understood the allure and appeal of power, and thus understood that no permanent international alliance could last, only permanent national interests (which is why he advocated American isolationism)
 - Washington's vision of the American continent, as shown in his Circular Letter of 1783, was one where the bountiful land (westward) was free for American colonization and expansion (with little resistance from either natives or the Spanish) designed to highlight the pinnacle of mankind's potential; thus he feared any possible way that foreign intervention could ruin his vision
 - Washington also acknowledged the intellectual bounty provided by the Enlightenment, providing the insights and understanding of human rights necessary to ensure a happy and prosperous nation
-- Washington understood that the future of America lay in the unclaimed land to the west, and as such devoted much of his time and energy in trying to expand westward
+- Washington understood that the future of America lay in the unclaimed land to the west, and as such devoted much of his time and energy in planning to expand westward; though many feared 
+- 
