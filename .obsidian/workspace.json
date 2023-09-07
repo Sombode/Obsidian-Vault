@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "ba5a525c0716ccf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/US History/The Founding Brothers/The Farewell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ff245116471c1ad4",
             "type": "leaf",
             "state": {
@@ -54,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ba5a525c0716ccf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/US History/The Founding Brothers/The Farewell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -195,11 +195,11 @@
   },
   "active": "ba5a525c0716ccf3",
   "lastOpenFiles": [
-    "School/US History/The Founding Brothers/The Dinner.md",
+    "School/US History/The Founding Brothers/The Silence.md",
     "School/US History/The Founding Brothers/The Farewell.md",
+    "School/US History/The Founding Brothers/The Dinner.md",
     "School/US History/The Founding Brothers/The Generation.md",
     "School/Tanbark Megadoc.md",
-    "School/US History/The Founding Brothers/The Silence.md",
     "School/Economics/Class Notes/2-27-23.md",
     "Untitled.canvas",
     "School/Tanbark Image.png",
