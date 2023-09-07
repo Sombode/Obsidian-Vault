@@ -1,4 +1,8 @@
 - Due to his exploits in the American Revolution and impact in founding the country, George Washington is heavily revered as an almost mythical figure, seen as the "Father of the Country"
 - After becoming so accustomed to having Washington as a central figure in the country, when he published his Farewell Address on September 19, 1796 (in preparation for the coming election of the next executive), people were shocked that he was retiring
 - Washington's Farewell Address became a landmark document alongside the Declaration of Independence and Gettysburg Address, though may have been written by Hamilton
+- With Washington stepping down after two terms of presidency (a precedent followed by most future presidents), party politics flared with the prospect of the first contested presidential election
+- While Washington, like many other revolutionary leaders, had been considering (and even threatening) retiring from the busy life of politics to isolation and solace, he only decided to retire now due to his growing age and thus diminishing physical vigor (which was one of his stronger assets)
+- For most of his career, Washington maintained excellent physical health and sustained few if any injuries; however, he would become ill before the Constitutional Convention in 1787 and again in 1790, nearly dying and marking his physical decline
+- Not only would his physical vigor decline, but so would his mental drive and energy
 - 
