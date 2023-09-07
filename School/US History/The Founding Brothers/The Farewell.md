@@ -16,4 +16,7 @@
 	- America should remain neutral and away from European affairs/politics
 - Overall, Washington advocated for unification locally and isolation globally
 - While initially people focused on Washington's advocacy for American isolationism, later on people have begun to closely examine his arguments against parties
-- What made his messages so important were that they came from his personal experience
+- What made his messages so important were that they came from his personal experiences in the Revolution
+- Washington's venerable resignation of the role of president mirrors that of his resignation from the role of commander of the Continental Army in 1783 (following his rejecting of a scheme to overthrow Congress)
+- Washington's push for national unity came from his realization that his first battles in the Revolution over land were meaningless, as keeping the Continental Army together and fighting was all that truly mattered (Britain was fighting from an ocean away, time and space was on their side)
+- 
