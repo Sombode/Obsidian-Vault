@@ -19,4 +19,8 @@
 - What made his messages so important were that they came from his personal experiences in the Revolution
 - Washington's venerable resignation of the role of president mirrors that of his resignation from the role of commander of the Continental Army in 1783 (following his rejecting of a scheme to overthrow Congress)
 - Washington's push for national unity came from his realization that his first battles in the Revolution over land were meaningless, as keeping the Continental Army together and fighting was all that truly mattered (Britain was fighting from an ocean away, time and space was on their side)
-- 
+- A hard realist, Washington was highly suspect that anything based solely off of ideals could ever function; he would be cold and ruthless in his decision-making
+- Washington understood the allure and appeal of power, and thus understood that no permanent international alliance could last, only permanent national interests (which is why he advocated American isolationism)
+- Washington's vision of the American continent, as shown in his Circular Letter of 1783, was one where the bountiful land (westward) was free for American colonization and expansion (with little resistance from either natives or the Spanish) designed to highlight the pinnacle of mankind's potential; thus he feared any possible way that foreign intervention could ruin his vision
+- Washington also acknowledged the intellectual bounty provided by the Enlightenment, providing the insights and understanding of human rights necessary to ensure a happy and prosperous nation
+- Washington understood that the future of America lay in the unclaimed land to the west, and as such devoted much of his time and energy in trying to expand westward
