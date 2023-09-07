@@ -10,4 +10,10 @@
 - However, another lasting legacy of the Revolution was a deep and intrinsic hatred of monarchs, which placed Washington's position in a precarious place
 - Washington was so effective in his duties as a singular actor in the government that most attacks against the government became inherently aimed at him
 - It was through his voluntary resignation that Washington assured critics that he would not become like every other monarch
-- 
+- The main messages/advice Washington gave in his Farewell Address are:
+	- National unity is extremely important
+	- Dissolving into political parties (or other groups) with sectional interests hinders cooperation
+	- America should remain neutral and away from European affairs/politics
+- Overall, Washington advocated for unification locally and isolation globally
+- While initially people focused on Washington's advocacy for American isolationism, later on people have begun to closely examine his arguments against parties
+- What made his messages so important were that they came from his personal experience
