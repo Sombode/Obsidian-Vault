@@ -27,4 +27,6 @@
 - Washington's views on foreign policy were exemplified with the 1793 Proclamation of Neutrality, which stated that America was an impartial witness to the European conflict between England and France
 - He believed that their geographic isolation would allow them to build up the necessary population and resources to handle and overcome foreign opposition, if only Americans bide their time and isolate themselves from foreign policy ("enlightened procrastination")
 - However, there was debate over what exactly isolationism meant in terms of policy, which came to a head over (Chief Justice) Jay's Treaty in 1794, which avoided another war with England in exchange for several concessions (tariffs on exports, debt compensation, acknowledgement of supremacy...)
+- While the treaty had several long-term benefits, Americans saw its conditions as a rejection of Revolutionary ideals and independence, sparking violent protest
+- Despite initial and heavy opposition in the House, Washington's popularity slowly swayed Congress to its ultimate decision of passing the treaty
 - 
