@@ -35,4 +35,4 @@
 - Washington became frustrated with Jefferson's spreading of rumors about his incompetence, and soon they stopped corresponding with each other
 - Washington saw decisions by the executive to be final and to be accepted by the people, while Jefferson supported outright and even violent protest against them if they violated principles of the Revolution
 - Jefferson's ideas rubbed off on others, such as James Monroe and Edmund Randolph (Jefferson's successor as secretary of state); both would assure France of popular American support and action once corruption/conspiracy in the government was removed
-- With all of the rumors circulating his senility, Washington resolved to use his Farewell Address to set forth his very much intact control, vision of the 
+- With all of the rumors circulating his senility, Washington resolved to use his Farewell Address to set forth his very much intact control and vision of the future of the Revolution (being a united people under the Revolutionary principles)
