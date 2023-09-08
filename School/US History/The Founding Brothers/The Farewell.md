@@ -38,7 +38,8 @@
 - With all of the rumors circulating his senility, Washington resolved to use his Farewell Address to set forth his very much intact control and vision of the future of the Revolution (being a united people under the Revolutionary principles)
 - While debate over who wrote how much of Washington's Farewell Address is ongoing, it was clear that it was a collaborative effort (although fundamentally all Washington's ideas), much like the construction of America
 - Washington had actually asked Madison to help him draft the address prior to the end of his first term (he felt that Hamilton and Jefferson were too embroiled in party politics), though reluctantly pushed it back as he was persuaded to accept a second
-- When it came time for him to finally retire, Washington sent Hamilton Madison's draft to revise (for Madison himself had become part of the very party politics he wrote about in the address)
+- When it came time for him to finally retire, Washington sent Hamilton Madison's draft to revise (for Madison himself had become part of the very party politics he wrote about in the Address)
 - Including Madison's draft from his first term also proves that his resignation was the culmination of a long period of rumination, not just an immediate response to backlash over Jay's Treaty
-- Over the course of several months, drafts and copies of the address were meticulously revised and edited with the utmost care to ensure that everything was clear and intended
+- Over the course of several months, drafts and copies of the Address were meticulously revised and edited with the utmost care to ensure that everything was clear and intended
+- The Address was published in newspapers so it could be sent directly to the people of America rather than delivered in front of Congress
 - 
