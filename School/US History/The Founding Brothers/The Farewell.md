@@ -36,3 +36,6 @@
 - Washington saw decisions by the executive to be final and to be accepted by the people, while Jefferson supported outright and even violent protest against them if they violated principles of the Revolution
 - Jefferson's ideas rubbed off on others, such as James Monroe and Edmund Randolph (Jefferson's successor as secretary of state); both would assure France of popular American support and action once corruption/conspiracy in the government was removed
 - With all of the rumors circulating his senility, Washington resolved to use his Farewell Address to set forth his very much intact control and vision of the future of the Revolution (being a united people under the Revolutionary principles)
+- While debate over who wrote how much of Washington's Farewell Address is ongoing, it was clear that it was a collaborative effort, much like the construction of America
+- Washington had actually asked Madison to help him draft the address prior to the end of his first term (he felt that Hamilton and Jefferson were too embroiled in party politics), though reluctantly pushed it back as he was persuaded to accept a second
+- When it came time for him to finally retire, Washington sent Hamii
