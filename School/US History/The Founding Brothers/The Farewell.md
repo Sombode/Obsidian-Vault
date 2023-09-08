@@ -42,4 +42,7 @@
 - Including Madison's draft from his first term also proves that his resignation was the culmination of a long period of rumination, not just an immediate response to backlash over Jay's Treaty
 - Over the course of several months, drafts and copies of the Address were meticulously revised and edited with the utmost care to ensure that everything was clear and intended
 - The Address was published in newspapers so it could be sent directly to the people of America rather than delivered in front of Congress
-- Although collaboration with Hamilton largely proved beneficial, with the refinement of several passages and the overall rhetoric, 
+- Although collaboration with Hamilton largely proved beneficial, with the refinement of several passages and the overall rhetoric, he would refuse to (wholly) include one of Washington's appeals for a national university
+- Along with the several pieces of advice in the Address, Washington would try to justify the need for a strong executive (and his presidency) in stabilizing the nation at such a crucial point of its development
+- The future of America looked bright, with commerce with Britain resuming (and the economy thus running well) and treaties with hostile Indians being negotiated; the only threat for the time being seemed to be slight altercations with French cruisers
+- Washington argued that the federal government would have to expand its powers to compensate for his absence; he proposed a variety of initiatives (domestic manufacturing, agricultural subsidies, a national university/military academy, increased wages...)
