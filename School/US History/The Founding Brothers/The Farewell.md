@@ -42,4 +42,4 @@
 - Including Madison's draft from his first term also proves that his resignation was the culmination of a long period of rumination, not just an immediate response to backlash over Jay's Treaty
 - Over the course of several months, drafts and copies of the Address were meticulously revised and edited with the utmost care to ensure that everything was clear and intended
 - The Address was published in newspapers so it could be sent directly to the people of America rather than delivered in front of Congress
-- 
+- Although collaboration with Hamilton largely proved beneficial, with the refinement of several passages and the overall rhetoric, 
