@@ -50,3 +50,5 @@
 - Despite his silence on the touchy topic of slavery, he would free his slaves in his will and sell off his land to support them once freed; Washington regretted slavery but saw no means of removing it without shattering the nation
 - Washington would also write his "Address to the Cherokee Nation" around the same time as his Farewell Address to urge the Indians to peacefully accept the coming westward expansion of America and assimilate into the nation instead of fighting it
 - While most of the public tearfully accepted and followed the advice of his Address, certain people would still receive it poorly as the ramblings of a sick and senile man
+- Despite publicly stepping down from his leadership, Washington still remained up-to-date and deeply affected (not so much on the surface) by politics, particularly the opposing Republican viewpoints centered in Virginia (right where he retired to)
+- It would be on December 14, 1799 that Washington urged doctors to let him pass from his current affliction of pneumonia
