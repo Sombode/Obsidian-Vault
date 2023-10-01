@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "7d4fa827dcb6288f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
             "id": "487ed0eed29fac1b",
             "type": "leaf",
             "state": {
@@ -55,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,6 +184,16 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "953b96840ad8cc06",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -192,7 +213,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75744dbf52d29a3a",
+  "active": "7d4fa827dcb6288f",
   "lastOpenFiles": [
     "School/US History/The Founding Brothers/The Farewell.md",
     "School/US History/The Founding Brothers/The Silence.md",
