@@ -23,9 +23,11 @@
             "id": "7d4fa827dcb6288f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "School/Tanbark Megadoc.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -152,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/US History/The Founding Brothers/The Generation.md"
+                "file": "School/Tanbark Megadoc.md"
               }
             }
           },
@@ -162,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/US History/The Founding Brothers/The Generation.md",
+                "file": "School/Tanbark Megadoc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/US History/The Founding Brothers/The Generation.md",
+                "file": "School/Tanbark Megadoc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
