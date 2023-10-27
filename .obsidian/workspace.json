@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "135d249bc0305e71",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
             "id": "487ed0eed29fac1b",
             "type": "leaf",
             "state": {
@@ -68,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,7 +225,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d4fa827dcb6288f",
+  "active": "135d249bc0305e71",
   "lastOpenFiles": [
     "School/US History/The Founding Brothers/The Farewell.md",
     "School/US History/The Founding Brothers/The Silence.md",
