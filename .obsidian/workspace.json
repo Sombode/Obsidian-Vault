@@ -4,81 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4a1f5502f5943bbb",
+        "id": "8c8b86b3f1f8af71",
         "type": "tabs",
         "children": [
           {
-            "id": "75744dbf52d29a3a",
+            "id": "12d4ff338474441f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/US History/The Founding Brothers/The Generation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d4fa827dcb6288f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Tanbark Megadoc.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "135d249bc0305e71",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
-          },
-          {
-            "id": "487ed0eed29fac1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/US History/The Founding Brothers/The Dinner.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff245116471c1ad4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/US History/The Founding Brothers/The Silence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba5a525c0716ccf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/US History/The Founding Brothers/The Farewell.md",
+                "file": "School/Language/Ethos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.51103591918945,
-    "collapsed": true
+    "width": 268.51103591918945
   },
   "right": {
     "id": "189a38ed5c48185a",
@@ -164,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Tanbark Megadoc.md"
+                "file": "School/Language/Ethos.md"
               }
             }
           },
@@ -174,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Tanbark Megadoc.md",
+                "file": "School/Language/Ethos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Tanbark Megadoc.md",
+                "file": "School/Language/Ethos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,13 +165,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "135d249bc0305e71",
+  "active": "12d4ff338474441f",
   "lastOpenFiles": [
     "School/US History/The Founding Brothers/The Farewell.md",
     "School/US History/The Founding Brothers/The Silence.md",
     "School/US History/The Founding Brothers/The Dinner.md",
-    "School/US History/The Founding Brothers/The Generation.md",
     "School/Tanbark Megadoc.md",
+    "School/US History/The Founding Brothers/The Generation.md",
     "School/Economics/Class Notes/2-27-23.md",
     "Untitled.canvas",
     "School/Tanbark Image.png",
