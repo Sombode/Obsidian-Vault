@@ -68,11 +68,39 @@
 
 - People are becoming more acutely aware of environmental risks (TMI?) and pollution, increasing media attention
 - While before policy could be controlled by few elites (politicians, experts in the field), now there is much greater control
-	- This can be a bad thing, as political activists/public interest groups hold more sway than the actual scientific experts ("The scientific establishment is far less influential than it once was;" Cambridge Reports unpublished study)
+	- This can be a bad thing, as political activists/public interest groups hold more sway than the actual scientific experts ("The scientific establishment is far less influential than it once was;" (384) Cambridge Reports unpublished study)
 - Policymaking is becoming stricter...
 - ...due to the greater impacts we as a society have (we have the capacity to injure larger populations)
-- Policymaking is becoming stricter due to our increased standards of living making us more risk-adverse (we expect better living, so we take steps to avoid risks)
+- ...due to our increased standards of living making us more risk-adverse (we expect better living, so we take steps to avoid risks)
+- ...due to scientific advancement publishing more accurate findings on trace substances concentrations (more easily detected) and effects
+- ...due to a cult involving the erosion of traditional American values????
+- "\[B]usinessmen with financial and emotional commitments to new technologies find it very difficult to accept evidence of negative effects until such evidence becomes irrefutable" (384)
+- 5 main claims/hypotheses of the article (385):
+		**\1.** The relevant scientific community
+		believes nuclear plants to be safe, and
+		neither ideology nor economic self-
+		interest plays a substantial role in their
+		assessment.
+		**\2.** Among other key leadership groups,
+		by contrast, views about nuclear
+		energy correlate with political ideology.
+		**\3.** National media journalists are skep-
+		tical about nuclear safety.
+		**\4.** Journalists inaccurately report the
+		views of the relevant scientific com-
+		munity.
+		**\5.** The views of other leadership groups
+		on nuclear energy correlate highly with
+		the news sources that they consider
+		reliable.
+
+## Nuclear Energy, Ideology, and the Perception of Risk
+
+- Since the 1950s, U.S. support of nuclear energy has shifted from support to opposition (385)
+- While economic factors influence some (political/business execs; plant abandonment and exceeding budget), most are worried about safety
+- Table 1 is a survey of various figureheads on nuclear safety (386)
+	- 
 # meta notes
 
   - Old (June 1987), close to TMI
-  - 
+  - Look into Ralph Nader; the article kinda hates on him (public figure)
