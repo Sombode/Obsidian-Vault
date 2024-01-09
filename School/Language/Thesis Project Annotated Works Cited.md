@@ -99,7 +99,16 @@
 - Since the 1950s, U.S. support of nuclear energy has shifted from support to opposition (385)
 - While economic factors influence some (political/business execs; plant abandonment and exceeding budget), most are worried about safety
 - Table 1 is a survey of various figureheads on nuclear safety (386)
-	- 
+	- Overall 36.8% confidence in nuclear safety
+	- Energy experts the most confidence (75.8%, 98.7% for nuclear)
+		- It was determined that no economic self-interest/ideology majorly influences their position (387)
+	- Public interest groups least (6.4%), next to TV/Movies/Hollywood and Media
+	- ! Check out Institut fur Demoskopie 1985 for a similar study on German scientists
+- "No matter how remote the possibility of their occurrence, \[nuclear] disasters are perceived as far more likely to b highly disruptive, both socially and psychologically" (387)
+	- The paper later states that this is incorrect the same way that people don't worry about meteors striking (387)
+- "The public can accept... that the number of deaths resulting from the burning of coal will be much greater than that... from the building of new nuclear plants because the former can be taken in stride" (387)
+	- What? (see Perrow 1984) Coal deaths are simply overlooked because they've always happened?
+- The paper proposes that ideology plays a large role 
 # meta notes
 
   - Old (June 1987), close to TMI
