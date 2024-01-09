@@ -108,7 +108,14 @@
 	- The paper later states that this is incorrect the same way that people don't worry about meteors striking (387)
 - "The public can accept... that the number of deaths resulting from the burning of coal will be much greater than that... from the building of new nuclear plants because the former can be taken in stride" (387)
 	- What? (see Perrow 1984) Coal deaths are simply overlooked because they've always happened?
-- The paper proposes that ideology plays a large role 
+- The paper proposes that ideology plays a large role in determining public perception of nuclear energy (Liberalism decreases; along with age, maleness, and being non-Jewish)
+- While group membership (like being a Hollywood elite) seems to impact public perception, it may be inextricably linked to ideology in a way that cannot be properly isolated
+	- However, being a Hollywood elite leads to reduced confidence while being in a military/bureaucrat group increases confidence
+- These differences cannot be attributed to differences in risk perception (i.e. Liberals are not simply more risk-averse than conservatives)
+	- Conservatives were more risk-averse during the 1950s fluoridation controversy and used similar arguments to anti-nuclear people today (? look into this ?)
+- French communists are strong pro-nuclear? (390)
+	- "The enemy of the workers is not nuclear power and science, but capitalists and management" (Golay 1980) (390)
+- 
 # meta notes
 
   - Old (June 1987), close to TMI
