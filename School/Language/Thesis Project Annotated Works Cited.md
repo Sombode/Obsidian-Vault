@@ -132,7 +132,12 @@
 	- "The only pronuclear sources in the top 10 \[top-quoted sources] were spokesmen for utility companies and the nuclear industry. As we have seen, the public credibility of such organization is quite low" (394)
 - Bernard Cohen's poll finds that 91% of academics in the radiation health field find public fears of radiation exaggerated (and exaggerated in media) (394)
 	- Some widely quoted experts in media (Dr. Sternglass following TMI) were ranked as untrustworthy
-- 
+- "\[P]eople tend to trust 'experts' who share their own social outlooks" (394)
+- "Today, however, journalists regard 'antiestablishment' scientists as rather more trustworthy than mainstream scientists" (Goodfield 1981) (394)
+- There are differing views over how much influence the media has on public perception (recently people think its more)
+	- It seems that those trust pronuclear sources are pronuclear, while those who trust public television are more antinuclear (395)
+
+
 # meta notes
 
   - Old (June 1987), close to TMI
