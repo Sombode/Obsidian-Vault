@@ -106,6 +106,7 @@
 	- ! Check out Institut fur Demoskopie 1985 for a similar study on German scientists
 - "No matter how remote the possibility of their occurrence, \[nuclear] disasters are perceived as far more likely to b highly disruptive, both socially and psychologically" (387)
 	- The paper later states that this is incorrect the same way that people don't worry about meteors striking (387)
+	- The paper later (later) shows how the media does disproportionately focus on large disasters over everyday deaths (394)
 - "The public can accept... that the number of deaths resulting from the burning of coal will be much greater than that... from the building of new nuclear plants because the former can be taken in stride" (387)
 	- What? (see Perrow 1984) Coal deaths are simply overlooked because they've always happened?
 - The paper proposes that ideology plays a large role in determining public perception of nuclear energy (Liberalism decreases; along with age, maleness, and being non-Jewish)
@@ -123,7 +124,15 @@
 - "The results suggest that antinuclear scientists reject traditional norms of scientific communication" (391; only making public statements on areas of expertise/only publicizing findings after they are accepted by professional journals)
 - Antinuclear scientists publish more often in public/popular journals (compared to most/pronuclear scientists) than professional/academic ones (compared to...) (392)
 - Antinuclear scientists also hold differing views on the safety/state of nuclear energy
-- The antinuclear/popular group is very small (roughly 1.2k i)
+- The antinuclear/popular group is very small (roughly 1.2k in AMWS)
+- However, pronuclear scientists have published more in popular journals (overall) than antinuclear
+- The paper explains this by saying that elite journalists are skeptical of nuclear energy (many are liberals) (392)
+- National media seems to have developed an antinuclear tilt since 1970s, failing to properly report the views of the scientific community with more antinuclear sources/stories than pronuclear (393) (table 8)
+	- The most quoted "independent expert" source is the antinuclear USC (Union of Concerned Scientists) (393)
+	- "The only pronuclear sources in the top 10 \[top-quoted sources] were spokesmen for utility companies and the nuclear industry. As we have seen, the public credibility of such organization is quite low" (394)
+- Bernard Cohen's poll finds that 91% of academics in the radiation health field find public fears of radiation exaggerated (and exaggerated in media) (394)
+	- Some widely quoted experts in media (Dr. Sternglass following TMI) were ranked as untrustworthy
+- 
 # meta notes
 
   - Old (June 1987), close to TMI
