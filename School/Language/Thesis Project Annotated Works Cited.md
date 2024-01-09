@@ -115,7 +115,15 @@
 	- Conservatives were more risk-averse during the 1950s fluoridation controversy and used similar arguments to anti-nuclear people today (? look into this ?)
 - French communists are strong pro-nuclear? (390)
 	- "The enemy of the workers is not nuclear power and science, but capitalists and management" (Golay 1980) (390)
-- 
+
+## Nuclear Energy: Scientists versus the Media
+
+- Although most scientists agree that nuclear energy is "a relatively benign energy source that should be tapped" (390), the public/elite think that scientists are split 50/50 (1984 national poll)
+- "The scientific community as a whole does not communicate with the general public. Rather, a somewhat smaller group of more visible scientists does most of the communicating" (Goodell 1977) "...and this group seems skewed toward the antinuclear argument"(391)
+- "The results suggest that antinuclear scientists reject traditional norms of scientific communication" (391; only making public statements on areas of expertise/only publicizing findings after they are accepted by professional journals)
+- Antinuclear scientists publish more often in public/popular journals (compared to most/pronuclear scientists) than professional/academic ones (compared to...) (392)
+- Antinuclear scientists also hold differing views on the safety/state of nuclear energy
+- The antinuclear/popular group is very small (roughly 1.2k i)
 # meta notes
 
   - Old (June 1987), close to TMI
