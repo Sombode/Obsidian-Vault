@@ -137,7 +137,9 @@
 - There are differing views over how much influence the media has on public perception (recently people think its more)
 	- It seems that those trust pronuclear sources are pronuclear, while those who trust public television are more antinuclear (395)
 
+## The Perception of Risk as a Surrogate for Ideology
 
+- 
 # meta notes
 
   - Old (June 1987), close to TMI
