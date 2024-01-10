@@ -139,7 +139,11 @@
 
 ## The Perception of Risk as a Surrogate for Ideology
 
-- 
+- This section tries to understand the subconscious motivations for holding certain attitudes
+- It seems to suggest that the issue of nuclear energy is used as a focal point and surrogate to tackle the larger issue of attacking traditional U.S. institutions?
+- Look into antinuclear activist Barry Commoner 1979 (Wolfe 1982, 243) (397)
+- Left-leaning media seems to favor antinuclear views
+- While many decisions regard nuclear power in France are made primarily by experts on the basis of technical information, U.S. activist movements have forced public participiation
 # meta notes
 
   - Old (June 1987), close to TMI
