@@ -143,8 +143,18 @@
 - It seems to suggest that the issue of nuclear energy is used as a focal point and surrogate to tackle the larger issue of attacking traditional U.S. institutions?
 - Look into antinuclear activist Barry Commoner 1979 (Wolfe 1982, 243) (397)
 - Left-leaning media seems to favor antinuclear views
-- While many decisions regard nuclear power in France are made primarily by experts on the basis of technical information, U.S. activist movements have forced public participiation
-# meta notes
+- While many decisions regard nuclear power in France are made primarily by experts on the basis of technical information, U.S. activist movements have forced public participation in nuclear energy policy (397)
+	- "It is clear that the irrationality of the regulatory process in the United States has been partly responsible for cost overruns and has, in some cases, probably reduced rather than enhanced the safety of nuclear energy" (398)
+	- France is able to use similar technology as the U.S. while costing less to produce power with a better safety record (398)
+	- However, France has a largely standardized nuclear industry, with almost-identical plant designs and thus a wealth of technical experience handling any mishaps (398)
+	- In the U.S, plants are built by contracted firms that may not the same level of experience (many only build one plant), and reactor designs can vary much more along with requiring bureaucratic hearings/evaluations for approval (398)
+- Antinuclear sentiments can be justified by the Atomic Energy Commission's purposeful concealment of certain nuclear dangers and overhype of nuclear power (cost and safety) (398)
+## meta notes
 
   - Old (June 1987), close to TMI
   - Look into Ralph Nader; the article kinda hates on him (public figure)
+  - The conclusion kind of lost me, felt motivated? (against the left/liberals?)
+	  - Some large sections of it only draw from a few authors over and over
+- Many of the conclusions are drawn from extensive statistics/properly gathered data
+	- A lot of fun statistical analysis
+- They describe their methodology, and little bias seems present
