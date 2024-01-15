@@ -291,4 +291,15 @@ https://www.jstor.org/stable/2152291
 
 ### 1.2 The Behavioral Immune System and Disgust
 
-- 
+- "In humans it has been suggested that a *behavioral immune system* evolved to supplement out physiological immune system by motivating people to avoid coming into contact with pathogens in the first place" (5)
+	- It supposedly does this by triggering disgust toward potentially infected objects
+- "\[P]eople might pay special attention to, want to learn more about, and share more information about potential pathogen threats" (5)
+- "\[T]he behavioral immune system is expected to be hypervigilant and to err on the side of treating any pathogen cue as a potential threat" (5)
+- People's sensitivity to potential threats can also vary, with some people having a stronger reaction to possible pathogens (5)
+	- "\[P]eople with high disgust sensitivity have been shown to be more opposed to genetically modified food, and to support governmental regulation of food, air, and water" (6)
+- "Neither radiation nor pathogens can be seen, but both can make people sick. Thus, radiation might also activate the behavioral immune system" (7)
+	- However, there is a distinction in that radiation is dosage-dependent and not contagious
+- "Yet much data suggests that people's understanding of nuclear radiation and its risks is guided by their intuitive understanding of contagion" (7)
+	- "People who have been—or who are thought to have been—irradiated also tend to be treated by others as if they had been contaminated" (7)
+- Since people appear to treat radiation like a infectious pathogen, it is very possible that radiation triggers their behavioral immune system (8)
+
