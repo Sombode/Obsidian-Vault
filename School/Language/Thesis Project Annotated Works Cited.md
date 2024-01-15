@@ -250,4 +250,14 @@ https://www.jstor.org/stable/2152291
 ## Conclusion
 
 - "\[T]he absence of positive leadership has allowed the technology to drift into an uneconomic mode, turning off the future growth of the industry" (Alvin Weinberg qtd. in 723)
-- TMI induced a social 
+- TMI induced social resistance to nuclear energy, leading to the decentralization of the nuclear industry as local governments gained more influence (724)
+- "\[T]he institutional homogeneity required for the successful implementation of a highly inflexible and complex technology" was shattered as local governments gained control of the industry (724)
+- "Not by accident, the nuclear enterprise succeeded only in political systems characterized by centralized control, most notably France, Japan, and South Korea, while it became embroiled in continuous controversy in federally fragmented political systems, such as the United States or West Germany" (724)
+- Most of the conflicts of nuclear debate emerged after millions had be invested in nuclear energy and design/development had overlooked many important considerations
+
+## meta notes
+
+- Like the other sources, this one is old (1992-1993)
+- This was published in a *political science* journal by a German sociologist
+- The article is rife with citations/sources, but some major claims are uncited
+- Initially it is hard to determine what the article was trying to get at/what the main argument was
