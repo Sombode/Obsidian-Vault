@@ -183,4 +183,17 @@ https://www.jstor.org/stable/2152291
 	- It's also important to note that Carter used to be a nuclear engineer, working on with the Navy's nuclear submarine program (outside knowledge)
 - The nuclear industry was already suffering from construction costs, shrinking energy demand, and political difficulties, only to be mortally wounded after TMI due to decentralization (711)
 	- As more regulatory control was handed to local governments, capped rates and waste regulations prevented any real chance of recovery
-- "Yet nuclear power remained in a state of permanent siege. Alliances between local citizen groups and municipal, county, and state authorities in the fields of emergency planning, utility regulation,"
+- "Yet nuclear power remained in a state of permanent siege. Alliances between local citizen groups and municipal, county, and state authorities in the fields of emergency planning, utility regulation, and nuclear waste policy wrecked newly completed nuclear plants, increased the financial crisis, and prevented the closing of the nuclear fuel cycle" (711)
+- "\[T]he federal fragmentation of authority became both the central barrier to the economic and political recovery of American nuclear power and the nuclear opposition's major opportunity to compensate for the parallel decline of public interest in the energy issue in the 1980s" (711)
+	- This argument supposedly contradicts theories of "interest-group liberalism" as described (i think) in [[#“Elite Ideology and Risk Perception in Nuclear Energy Policy”]]
+	- "Especially during nuclear policy implementation at the local and state levels, the fragmented and decentralized American polity proved highly permeable to nonproducer groups" (712)
+- "The fate of the nuclear industry is also a telling example of the power of American democratic institutions to thwart a project that had lost its societal legitimation" (712)
+
+## The Impact of Three Mile Island
+
+- "\[T]he accident at Three Mile Island... cast doubt on the long-standing convictions of the expert proponents, spread skepticism among public supporters, and redouble\[d] the efforts of opponents" (712)
+- "The burden of proof, which up to then had rested with the nuclear critics, shifted to the promoters of nuclear power" (712)
+	- No longer "why is nuclear bad," but now "why is nuclear good"
+- Carter's appointed Kemeny Commission that investigated the cause of the accident supposedly had many outspoken nuclear critics (712)
+- TMI was a "wake-up call" for the general public, which had overall trusted the expert risk analysis ("car driving and cigarette smoking are more dangerous than nuclear power" (712)) before
+- 
