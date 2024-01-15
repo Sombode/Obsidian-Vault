@@ -242,4 +242,12 @@ https://www.jstor.org/stable/2152291
 		- Thus some highly populated states with unaccommodating geography (California and New York) were forced to construct local dump sites (721)
 - Waste sites are also subject to political gridlock, many of them resented by the public (721)
 - "While most experts agree today that the disposal of high-level nuclear waste poses no unsolvable technical difficulties, its main impediment arises from concerns of political equality and societal acceptability" (722)
-- "In a time when the clear majority of the public is opposed to nuclear power, no electorally accountable state government is willing to host a repository for the nation's high-leevl "
+- "In a time when the clear majority of the public is opposed to nuclear power, no electorally accountable state government is willing to host a repository for the nation's high-level nuclear waste" (722)
+- Due to being more of a long-term issue, research and development focused mainly on reactors themselves and not waste management (722)
+- "In fact, each of the thirteen states at one point or another considered a possible choice \[for a national high-level waste dump] has mounted its decided resistance, from spontaneous citizen outrage to state-initiated legal intervention" (723)
+- The first high-level waste site in Nevada was likely only constructed as Nevada held "the least political clout at the federal level" (723)
+
+## Conclusion
+
+- "\[T]he absence of positive leadership has allowed the technology to drift into an uneconomic mode, turning off the future growth of the industry" (Alvin Weinberg qtd. in 723)
+- TMI induced a social 
