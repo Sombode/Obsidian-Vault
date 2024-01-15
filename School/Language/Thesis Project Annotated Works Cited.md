@@ -158,3 +158,9 @@
 - Many of the conclusions are drawn from extensive statistics/properly gathered data
 	- A lot of fun statistical analysis
 - They describe their methodology, and little bias seems present
+
+
+# “Decentralization of Control in U.S. Nuclear Energy Policy”
+
+https://www.jstor.org/stable/2152291
+
