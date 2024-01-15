@@ -1,4 +1,6 @@
-hey hey look at this [https://www.vox.com/2016/2/29/11132930/nuclear-power-costs-us-france-korea]
+hey hey look at this [Vox](https://www.vox.com/2016/2/29/11132930/nuclear-power-costs-us-france-korea)
+
+ho ho ho (good luck bub) [giant paper](https://www.sciencedirect.com/science/article/abs/pii/S0272494421002024)
 
 # “The Need for a New, Clear Option: An In-Depth Analysis of Nuclear Energy”
 
