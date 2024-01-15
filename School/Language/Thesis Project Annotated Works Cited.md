@@ -80,23 +80,11 @@ ho ho ho (good luck bub) [giant paper](https://www.sciencedirect.com/science/art
 - ...due to a cult involving the erosion of traditional American values????
 - "\[B]usinessmen with financial and emotional commitments to new technologies find it very difficult to accept evidence of negative effects until such evidence becomes irrefutable" (384)
 - 5 main claims/hypotheses of the article (385):
-		**\1.** The relevant scientific community
-		believes nuclear plants to be safe, and
-		neither ideology nor economic self-
-		interest plays a substantial role in their
-		assessment.
-		**\2.** Among other key leadership groups,
-		by contrast, views about nuclear
-		energy correlate with political ideology.
-		**\3.** National media journalists are skep-
-		tical about nuclear safety.
-		**\4.** Journalists inaccurately report the
-		views of the relevant scientific com-
-		munity.
-		**\5.** The views of other leadership groups
-		on nuclear energy correlate highly with
-		the news sources that they consider
-		reliable.
+		**\1.** The relevant scientific community believes nuclear plants to be safe, and neither ideology nor economic self-interest plays a substantial role in their assessment.
+		**\2.** Among other key leadership groups, by contrast, views about nuclear energy correlate with political ideology.
+		**\3.** National media journalists are skeptical about nuclear safety.
+		**\4.** Journalists inaccurately report the views of the relevant scientific community.
+		**\5.** The views of other leadership groups on nuclear energy correlate highly with the news sources that they consider reliable.
 
 ## Nuclear Energy, Ideology, and the Perception of Risk
 
