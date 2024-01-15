@@ -11,8 +11,12 @@
             "id": "29e4c44636739557",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School/Language/Thesis Project Annotated Works Cited.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.51103591918945
+    "width": 268.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "189a38ed5c48185a",
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School/Language/Thesis Project Annotated Works Cited.md"
+              }
             }
           },
           {
@@ -108,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School/Language/Thesis Project Annotated Works Cited.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School/Language/Thesis Project Annotated Works Cited.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }

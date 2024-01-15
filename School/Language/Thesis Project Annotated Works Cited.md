@@ -223,3 +223,11 @@ https://www.jstor.org/stable/2152291
 	- This was leveraged by the antinuclear movement, as bus drivers, volunteer firemen, and emergency workers could refuse to take part
 		- $4 billion in plants would lay idle, costing more than $1 million for each day of nonoperation (716)
 - However, the NRC never lastingly revoked operating licenses due to the lack of evacuation plans, and in 1988 the federal government was allowed to draft emergency plans if local governments refused (716)
+### Utility Regulation
+
+- The Arab oil embargo in 1973 led to skyrocketing electricity rates (overall), causing public protests to lower rates. Lower rates across the board meant that it would be harder to finance the construction of new nuclear plants (718)
+- Many nuclear plants have cost overruns of 1000% over the initial budget or more, leading to skyrocketing electricity rates that infuriated consumers (719)
+	- This leads to governments turning on the nuclear industry, no longer allowing for rate increases to fund plant construction (see the Shoreham plant)
+- "Between 1982 and 1984 alone, thirty-two plants under construction were scrapped, some of them more than 50 percent completed, but their owners were without cash to proceed with construction" (719)
+- "By 1988, about $30 billion had been wasted on nuclear plants abandoned before they were ready to operate; the costs for plants finished at excessive cost totalled \[sic] another $70 billion" (719)
+- "Reactors coming on line \[sic] during the 1980s cost between $1,100 and $3,500 or more per kW in 1983 dollars, compared with"
