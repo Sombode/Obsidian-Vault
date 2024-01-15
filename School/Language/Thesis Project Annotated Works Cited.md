@@ -281,4 +281,14 @@ https://www.jstor.org/stable/2152291
 	- Only 20% of Europeans supported nuclear in their country (2015), with 37% opposing its use
 	- Nuclear was once the least supported energy source, and is only supported by a minority now (3)
 - Many claim that the media's portrayal of nuclear is a primary cause for public opposition (3)
-	- 
+	- Most media coverage is overall negative toward nuclear (3)
+	- Over 70% of U.S. newspaper headlines painted nuclear in a bad light (3)
+- However, this article claims that media does not play as strong a role
+	- The public holds many misconceptions about nuclear that aren't present in media (produces CO2, depletes ozone) (4)
+	- Even after the widely publicized Fukushima Daiichi accident, public support in the U.S. only dropped by a bit before returning to normal (4)
+	- "Moreover, explanations that rely on biases in the media would still have to explain why the media is biased in the first place, especially since news media are strongly demand-driven, suggesting that bias in the media might be an effect rather than a cause of public opinion" (4)
+		- ! This is an interesting point
+
+### 1.2 The Behavioral Immune System and Disgust
+
+- 
