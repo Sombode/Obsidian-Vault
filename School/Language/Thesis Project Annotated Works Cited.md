@@ -172,4 +172,15 @@ https://www.jstor.org/stable/2152291
 	- (This is the main one discussed) "\[T]he institutional fragmentation of the American polity and economy did not allow the comprehensive planning that would have been necessary for the success of the complex technology" (710)
 		- See [[#The Perception of Risk as a Surrogate for Ideology]] to see France as an "antithesis" to the U.S.
 - In the wake of disasters such as TMI, governments have slowly gained more influence on nuclear regulation
-- "Decentralization of contr"
+- "Decentralization of control obstructed the stable environment and the institutional homogeneity needed for the successful implementation of the nuclear program" (710)
+- There are three main issues in the nuclear power debate:
+	1. Emergency planning
+	2. Utility rate regulation
+	3. Waste disposal
+- Activist groups against these issues only gained traction after much nuclear infrastructure was built, and its inflexible nature meant that little could be addressed
+- The U.S. antinuclear movement has moved the industry toward decentralization, aided by president Carter as he appointed many movement leaders
+	- Carter himself was opposed to commercial plutonium reprocessing and fast breeder reactors (see *Nuclear Power and Non-Proliferation* by Michael Brenner)
+	- It's also important to note that Carter used to be a nuclear engineer, working on with the Navy's nuclear submarine program (outside knowledge)
+- The nuclear industry was already suffering from construction costs, shrinking energy demand, and political difficulties, only to be mortally wounded after TMI due to decentralization (711)
+	- As more regulatory control was handed to local governments, capped rates and waste regulations prevented any real chance of recovery
+- "Yet nuclear power remained in a state of permanent siege. Alliances between local citizen groups and municipal, county, and state authorities in the fields of emergency planning, utility regulation,"
