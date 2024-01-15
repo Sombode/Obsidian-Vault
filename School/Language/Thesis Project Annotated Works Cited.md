@@ -220,4 +220,6 @@ https://www.jstor.org/stable/2152291
 		- Good for money, real bad for disaster
 - Safety regulations following TMI forced reactors to have contingency plans for emergency evacuations, but this required the cooperation of local governments (to control traffic, medical, and emergency services) (716)
 	- Local governments could effectively shut down a plant by refusing to cooperate (like the Indian Point, Shoreham, and Seabrook plants)
-	- This was leveraged by the antinuclear 
+	- This was leveraged by the antinuclear movement, as bus drivers, volunteer firemen, and emergency workers could refuse to take part
+		- $4 billion in plants would lay idle, costing more than $1 million for each day of nonoperation (716)
+- However, the NRC never lastingly revoked operating licenses due to the lack of evacuation plans, and in 1988 the federal government was allowed to draft emergency plans if local governments refused (716)
