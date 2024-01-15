@@ -204,4 +204,8 @@ https://www.jstor.org/stable/2152291
 ## Citizen-State Alliances in the 1980s
 
 - "The focus of conflict only shifted to the local and state levels, where the economic, technological, and sociopolitical infrastructure of already existing nuclear power plants offered multiple targets of attack" (714)
-- 
+- "\[A]fter all, it was concrete communities, counties, and states that had to bear the costs of badly managed, carelessly constructed, or overly expensive nuclear power plants" (714)
+	- Disconnect between policymakers designing nuclear infrastructure and common people bearing their mistakes
+- Despite his administration's platform for free markets and federal deregulation, Reagan actively lifted regulations on nuclear and pushed for government support of nuclear (at the detriment of alternatives such as solar and nuclear) (714)
+- However research into new nuclear technologies such as fast breeder reactors and fuel reprocessing was cancelled due to costs and technical challenges (714)
+- As the governmental Atomic Energy Commission (AEC) and Congressional Joint Committee on Atomic Energy (JCAE) were dissolved in the 1970s, and state governments were allowed to prevent new reactor construction ()
