@@ -164,7 +164,12 @@
 
 https://www.jstor.org/stable/2152291
 
-- "\[A] credible source ranked the civilian U.S. nuclear power program as 'the largest managerial disaster in business history'" (James Cook qtd in 1)
+- "\[A] credible source ranked the civilian U.S. nuclear power program as 'the largest managerial disaster in business history'" (James Cook qtd in 709)
 - There are various theories for the failure of nuclear energy in the U.S:
 	- The inflexibility of the technology itself (long lead times (construction/wind-up), high capital demands, large units)
-	- 
+	- The policy shift away from disaster containment to prevention spurred public scrutiny over the true safety of nuclear technology
+	- Policymakers were initially over-enthusiastic about nuclear energy as a technology, rushing past important economic considerations
+	- (This is the main one discussed) "\[T]he institutional fragmentation of the American polity and economy did not allow the comprehensive planning that would have been necessary for the success of the complex technology" (710)
+		- See [[#The Perception of Risk as a Surrogate for Ideology]] to see France as an "antithesis" to the U.S.
+- In the wake of disasters such as TMI, governments have slowly gained more influence on nuclear regulation
+- "Decentralization of contr"
