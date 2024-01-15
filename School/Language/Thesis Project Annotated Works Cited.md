@@ -164,3 +164,7 @@
 
 https://www.jstor.org/stable/2152291
 
+- "\[A] credible source ranked the civilian U.S. nuclear power program as 'the largest managerial disaster in business history'" (James Cook qtd in 1)
+- There are various theories for the failure of nuclear energy in the U.S:
+	- The inflexibility of the technology itself (long lead times (construction/wind-up), high capital demands, large units)
+	- 
