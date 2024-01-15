@@ -230,4 +230,16 @@ https://www.jstor.org/stable/2152291
 	- This leads to governments turning on the nuclear industry, no longer allowing for rate increases to fund plant construction (see the Shoreham plant)
 - "Between 1982 and 1984 alone, thirty-two plants under construction were scrapped, some of them more than 50 percent completed, but their owners were without cash to proceed with construction" (719)
 - "By 1988, about $30 billion had been wasted on nuclear plants abandoned before they were ready to operate; the costs for plants finished at excessive cost totalled \[sic] another $70 billion" (719)
-- "Reactors coming on line \[sic] during the 1980s cost between $1,100 and $3,500 or more per kW in 1983 dollars, compared with"
+- "Reactors coming on line \[sic] during the 1980s cost between $1,100 and $3,500 or more per kW in 1983 dollars, compared with the average of $600 per kW for the fifty-seven reactors completed before 1981" (720)
+	- Note that safety regulations/policy also add costs (outside knowledge)
+
+### Nuclear Waste Policy
+
+- "Similar to emergency evacuation and utility regulation, the problem of waste disposal emerged at the back end of the nuclear policy cycle, consigning the costs of the technology's precarious infrastructure to concrete localities and states" (721)
+- The nuclear industry's poor reputation following TMI lead to numerous campaigns against the development of nuclear waste disposal sites
+- The Low-Level Radioactive Waste Policy Act in 1980 forced the burden of disposing low-level waste (contaminated objects) on individual states and urging interstate negotiation
+	- This led to "political warfare between states" as states with high amounts of waste were turned down by others
+		- Thus some highly populated states with unaccommodating geography (California and New York) were forced to construct local dump sites (721)
+- Waste sites are also subject to political gridlock, many of them resented by the public (721)
+- "While most experts agree today that the disposal of high-level nuclear waste poses no unsolvable technical difficulties, its main impediment arises from concerns of political equality and societal acceptability" (722)
+- "In a time when the clear majority of the public is opposed to nuclear power, no electorally accountable state government is willing to host a repository for the nation's high-leevl "
