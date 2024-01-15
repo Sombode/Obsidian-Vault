@@ -263,3 +263,12 @@ https://www.jstor.org/stable/2152291
 - This was published in a *political science* journal by a German sociologist
 - The article is rife with citations/sources, but some major claims are uncited
 - Initially it is hard to determine what the article was trying to get at/what the main argument was
+
+# “Disgust Sensitivity and Public Opinion on Nuclear Energy”
+
+## Introduction
+
+- Many scientists agree that nuclear power is important in combatting climate change (2)
+- However, there is public skepticism and opposition toward nuclear energy, highlighted by political protests (2)
+- The article claims this disparity is the result of the "behavioral immune system," triggered by fears of contamination (2)
+- 
