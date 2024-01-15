@@ -1,3 +1,5 @@
+hey hey look at this [https://www.vox.com/2016/2/29/11132930/nuclear-power-costs-us-france-korea]
+
 # “The Need for a New, Clear Option: An In-Depth Analysis of Nuclear Energy”
 
 [https://www.jstor.org/stable/26427280](https://www.jstor.org/stable/26427280)
@@ -208,4 +210,14 @@ https://www.jstor.org/stable/2152291
 	- Disconnect between policymakers designing nuclear infrastructure and common people bearing their mistakes
 - Despite his administration's platform for free markets and federal deregulation, Reagan actively lifted regulations on nuclear and pushed for government support of nuclear (at the detriment of alternatives such as solar and nuclear) (714)
 - However research into new nuclear technologies such as fast breeder reactors and fuel reprocessing was cancelled due to costs and technical challenges (714)
-- As the governmental Atomic Energy Commission (AEC) and Congressional Joint Committee on Atomic Energy (JCAE) were dissolved in the 1970s, and state governments were allowed to prevent new reactor construction ()
+- As the governmental Atomic Energy Commission (AEC) and Congressional Joint Committee on Atomic Energy (JCAE) were dissolved in the 1970s, and state governments were allowed to prevent new reactor construction (11 by 1984 aided by a Supreme Court decision in 1983), local governments gained greater control in the more decentralized nuclear industry
+- States would also pass "provincial laws" regulating the transportation and disposal of nuclear waste, which would indirectly lead to the phasing out of existing nuclear plants (716)
+
+### Emergency Planning
+
+- "The issue of evacuation and emergency planning is a telling example of previous policy negligence, which became visible so late that remedies had to be extremely costly" (716)
+	- "The nuclear industry alone picked the reactor sites. As a result, most nuclear plants were built in the vicinity of major population centers, in order to minimize the costs of electricity transmission" (716)
+		- Good for money, real bad for disaster
+- Safety regulations following TMI forced reactors to have contingency plans for emergency evacuations, but this required the cooperation of local governments (to control traffic, medical, and emergency services) (716)
+	- Local governments could effectively shut down a plant by refusing to cooperate (like the Indian Point, Shoreham, and Seabrook plants)
+	- This was leveraged by the antinuclear 
