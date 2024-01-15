@@ -266,9 +266,19 @@ https://www.jstor.org/stable/2152291
 
 # “Disgust Sensitivity and Public Opinion on Nuclear Energy”
 
-## Introduction
+## 1. Introduction
 
 - Many scientists agree that nuclear power is important in combatting climate change (2)
 - However, there is public skepticism and opposition toward nuclear energy, highlighted by political protests (2)
 - The article claims this disparity is the result of the "behavioral immune system," triggered by fears of contamination (2)
-- 
+
+### 1.1 The Gap Between Experts and the Public on Nuclear Energy
+
+- "Most experts on nuclear energy agree that nuclear power has no negative health consequences during normal operation, and that even the rare incidents have only caused a limited number of casualties" (3)
+- "\[M]ost agree that nuclear power should be part of the solution to fight climate change" (3)
+- Despite expert consensus, the public is divided/critical of nuclear
+	- 53% of people worldwide (2005) thought that the risks outweighed the benefits (33% on the other side)
+	- Only 20% of Europeans supported nuclear in their country (2015), with 37% opposing its use
+	- Nuclear was once the least supported energy source, and is only supported by a minority now (3)
+- Many claim that the media's portrayal of nuclear is a primary cause for public opposition (3)
+	- 
