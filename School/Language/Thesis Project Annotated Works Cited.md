@@ -196,4 +196,12 @@ https://www.jstor.org/stable/2152291
 	- No longer "why is nuclear bad," but now "why is nuclear good"
 - Carter's appointed Kemeny Commission that investigated the cause of the accident supposedly had many outspoken nuclear critics (712)
 - TMI was a "wake-up call" for the general public, which had overall trusted the expert risk analysis ("car driving and cigarette smoking are more dangerous than nuclear power" (712)) before
+- TMI hit the nuclear industry in the midst of its growth, when economic and political issues were already troubling it, causing public support to plummet (713)
+- After the disaster, NRC regulations became much stricter and essentially shut down the industry (no new reactors, more contingencies) (713)
+- TMI also caused private investors of nuclear power to drop out, leading to major economic woes (713)
+- However, with the decline of the nuclear industry came the decline of the antinuclear movement, sped up with the president Reagan's new nuclear rearmament policy and tensions with the USSR (pushing aside nuclear energy debate for nuclear *weapons* debate) (713)
+
+## Citizen-State Alliances in the 1980s
+
+- "The focus of conflict only shifted to the local and state levels, where the economic, technological, and sociopolitical infrastructure of already existing nuclear power plants offered multiple targets of attack" (714)
 - 
