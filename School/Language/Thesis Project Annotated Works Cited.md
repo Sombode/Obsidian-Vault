@@ -154,7 +154,7 @@ ho ho ho (good luck bub) [giant paper](https://www.sciencedirect.com/science/art
 
 # “Decentralization of Control in U.S. Nuclear Energy Policy”
 
-https://www.jstor.org/stable/2152291
+[https://www.jstor.org/stable/2152291](https://www.jstor.org/stable/2152291)
 
 - "\[A] credible source ranked the civilian U.S. nuclear power program as 'the largest managerial disaster in business history'" (James Cook qtd in 709)
 - There are various theories for the failure of nuclear energy in the U.S:
@@ -254,6 +254,9 @@ https://www.jstor.org/stable/2152291
 
 # “Disgust Sensitivity and Public Opinion on Nuclear Energy”
 
+**UNFINISHED**
+
+[https://www.sciencedirect.com/science/article/abs/pii/S0272494421002024](https://www.sciencedirect.com/science/article/abs/pii/S0272494421002024)
 ## 1. Introduction
 
 - Many scientists agree that nuclear power is important in combatting climate change (2)
@@ -295,3 +298,7 @@ https://www.jstor.org/stable/2152291
 - Since people appear to treat radiation like a infectious pathogen, it is very possible that radiation triggers their behavioral immune system (8)
 
 ### 1.4 Overview of the Studies
+
+# “Historical Construction Costs of Global Nuclear Power Reactors”
+
+[https://www.sciencedirect.com/science/article/pii/S0301421516300106](https://www.sciencedirect.com/science/article/pii/S0301421516300106)
