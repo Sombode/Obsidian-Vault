@@ -302,3 +302,9 @@ ho ho ho (good luck bub) [giant paper](https://www.sciencedirect.com/science/art
 # “Historical Construction Costs of Global Nuclear Power Reactors”
 
 [https://www.sciencedirect.com/science/article/pii/S0301421516300106](https://www.sciencedirect.com/science/article/pii/S0301421516300106)
+
+# 
+
+This is a good counterargument
+
+[https://www.jstor.org/stable/24807574?seq=15](https://www.jstor.org/stable/24807574?seq=15)
