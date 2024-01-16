@@ -74,10 +74,10 @@ ho ho ho (good luck bub) [giant paper](https://www.sciencedirect.com/science/art
 - While before policy could be controlled by few elites (politicians, experts in the field), now there is much greater control
 	- This can be a bad thing, as political activists/public interest groups hold more sway than the actual scientific experts ("The scientific establishment is far less influential than it once was;" (384) Cambridge Reports unpublished study)
 - Policymaking is becoming stricter...
-- ...due to the greater impacts we as a society have (we have the capacity to injure larger populations)
-- ...due to our increased standards of living making us more risk-adverse (we expect better living, so we take steps to avoid risks)
-- ...due to scientific advancement publishing more accurate findings on trace substances concentrations (more easily detected) and effects
-- ...due to a cult involving the erosion of traditional American values????
+	- ...due to the greater impacts we as a society have (we have the capacity to injure larger populations)
+	- ...due to our increased standards of living making us more risk-adverse (we expect better living, so we take steps to avoid risks)
+	- ...due to scientific advancement publishing more accurate findings on trace substances concentrations (more easily detected) and effects
+	- ...due to a cult involving the erosion of traditional American values????
 - "\[B]usinessmen with financial and emotional commitments to new technologies find it very difficult to accept evidence of negative effects until such evidence becomes irrefutable" (384)
 - 5 main claims/hypotheses of the article (385):
 		**\1.** The relevant scientific community believes nuclear plants to be safe, and neither ideology nor economic self-interest plays a substantial role in their assessment.
