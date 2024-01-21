@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c058565716b50f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Language/Atomic Bonding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Language/Thesis Project Annotated Works Cited.md"
+                "file": "School/Language/Atomic Bonding.md"
               }
             }
           },
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Language/Thesis Project Annotated Works Cited.md",
+                "file": "School/Language/Atomic Bonding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Language/Thesis Project Annotated Works Cited.md",
+                "file": "School/Language/Atomic Bonding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,10 +181,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29e4c44636739557",
+  "active": "8c058565716b50f8",
   "lastOpenFiles": [
-    "Extracirricular/Science Olympiad/Remote Sensing/Electromagnetic Waves.md",
     "School/Language/Thesis Project Annotated Works Cited.md",
+    "School/Language/Atomic Bonding.md",
+    "Extracirricular/Science Olympiad/Remote Sensing/Electromagnetic Waves.md",
     "School/Economics/Class Notes/3-9-23.md",
     "School/Language/e][.md",
     "School/Physics/1D Motion/Vectors.md",
@@ -206,7 +221,6 @@
     "School/Economics/Class Notes/3-8-23.md",
     "School/Economics/Class Notes/3-6-23.md",
     "School/Economics/Class Notes/1-30-23.md",
-    "School/Economics/Class Notes/2-13-23.md",
     "Personal/Shattered Reality Lore",
     "School/Language",
     "School/Economics/Images/Excess Capacity.png",
