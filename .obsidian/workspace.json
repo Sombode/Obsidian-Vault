@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "29e4c44636739557",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Language/Thesis Project Annotated Works Cited.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c058565716b50f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Language/Atomic Bonding.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "77c1a0607ac33466",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/US History/Chapter 24 Notes.md",
+                "file": "School/US History/The American Pageant.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.51103591918945,
-    "collapsed": true
+    "width": 268.51103591918945
   },
   "right": {
     "id": "189a38ed5c48185a",
@@ -130,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/US History/Chapter 24 Notes.md"
+                "file": "School/US History/The American Pageant.md"
               }
             }
           },
@@ -140,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/US History/Chapter 24 Notes.md",
+                "file": "School/US History/The American Pageant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/US History/Chapter 24 Notes.md",
+                "file": "School/US History/The American Pageant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,10 +168,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "77c1a0607ac33466",
+  "active": "bf35ffa324e0b9fe",
   "lastOpenFiles": [
+    "School/Language/Everything's An Argument.md",
+    "School/US History/The American Pageant.md",
+    "School/US History/Untitled.md",
     "School/US History/Chapter 24 Notes.md",
-    "School/Language/Atomic Bonding.md",
+    "School/Language/Audiences for Arguments.md",
+    "School/Atomic Bonding.md",
+    "School/Language/Arguments.md",
     "School/Language/Thesis Project Annotated Works Cited.md",
     "Extracirricular/Science Olympiad/Remote Sensing/Electromagnetic Waves.md",
     "School/Economics/Class Notes/3-9-23.md",
@@ -219,10 +198,7 @@
     "School/Physics/1D Motion",
     "School/Physics",
     "School/Language/Untitled 1.md",
-    "School/Language/Arguments.md",
     "School/Tanbark",
-    "School/Language/Everything's An Argument.md",
-    "School/Language/Audiences for Arguments.md",
     "School/Language/Pathos.md",
     "School/US History/The Founding Brothers",
     "School/Economics/Images/Industry Curves for Monopolistic Competition.png",
@@ -232,8 +208,6 @@
     "School/Economics/Images/Deadweight Loss Example.png",
     "School/Economics/Images/Consumer Surplus Example.png",
     "School/Economics/Basic Economic Concepts.md",
-    "School/Economics/Class Notes/3-8-23.md",
-    "School/Economics/Class Notes/3-6-23.md",
     "Personal/Shattered Reality Lore",
     "School/Language",
     "School/Economics/Images/Excess Capacity.png",
