@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "77c1a0607ac33466",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/US History/Chapter 24 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Language/Atomic Bonding.md"
+                "file": "School/US History/Chapter 24 Notes.md"
               }
             }
           },
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Language/Atomic Bonding.md",
+                "file": "School/US History/Chapter 24 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Language/Atomic Bonding.md",
+                "file": "School/US History/Chapter 24 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,10 +194,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8c058565716b50f8",
+  "active": "77c1a0607ac33466",
   "lastOpenFiles": [
-    "School/Language/Thesis Project Annotated Works Cited.md",
+    "School/US History/Chapter 24 Notes.md",
     "School/Language/Atomic Bonding.md",
+    "School/Language/Thesis Project Annotated Works Cited.md",
     "Extracirricular/Science Olympiad/Remote Sensing/Electromagnetic Waves.md",
     "School/Economics/Class Notes/3-9-23.md",
     "School/Language/e][.md",
@@ -221,7 +234,6 @@
     "School/Economics/Basic Economic Concepts.md",
     "School/Economics/Class Notes/3-8-23.md",
     "School/Economics/Class Notes/3-6-23.md",
-    "School/Economics/Class Notes/1-30-23.md",
     "Personal/Shattered Reality Lore",
     "School/Language",
     "School/Economics/Images/Excess Capacity.png",
