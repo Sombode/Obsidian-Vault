@@ -7,7 +7,13 @@ The U.S. begins to expand its railroad network in the late 1800s. The high costs
 
 ## Spanning the Continent with Rails
 
-In 1862, the Union Pacific Railroad was contracted by Congress to build a transcontinental railroad from Omaha, Nebraska to San Francisco, California.
+In 1862, the *Union Pacific Railroad* was contracted by Congress to build part of a *transcontinental railroad* starting in Omaha, Nebraska. The *Central Pacific Railroad* company started building the other side in San Francisco, California. Central Pacific Railroad had four main financial backers (the *Big Four*), including Leland Stanford and Collis P. Huntington.
+
+The transcontinental railroad would be completed in 1869, opening up westward expansion and increasing Asian trade.
+
+## Binding the Continent with Rails
+
+
 
 
 *Source: [[The American Pageant]]*
