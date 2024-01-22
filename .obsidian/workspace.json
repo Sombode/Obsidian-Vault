@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/US History/The American Pageant.md",
+                "file": "School/US History/American Pageant Chapters/Chapter 24 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.51103591918945
+    "width": 268.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "189a38ed5c48185a",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/US History/The American Pageant.md"
+                "file": "School/US History/American Pageant Chapters/Chapter 24 Notes.md"
               }
             }
           },
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/US History/The American Pageant.md",
+                "file": "School/US History/American Pageant Chapters/Chapter 24 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/US History/The American Pageant.md",
+                "file": "School/US History/American Pageant Chapters/Chapter 24 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,12 +169,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "bf35ffa324e0b9fe",
+  "active": "77c1a0607ac33466",
   "lastOpenFiles": [
-    "School/Language/Everything's An Argument.md",
     "School/US History/The American Pageant.md",
+    "School/US History/American Pageant Chapters",
+    "School/Language/Everything's An Argument.md",
     "School/US History/Untitled.md",
-    "School/US History/Chapter 24 Notes.md",
+    "School/US History/American Pageant Chapters/Chapter 24 Notes.md",
     "School/Language/Audiences for Arguments.md",
     "School/Atomic Bonding.md",
     "School/Language/Arguments.md",
@@ -207,7 +209,6 @@
     "School/Economics/Images/Circular Flow Model.png",
     "School/Economics/Images/Deadweight Loss Example.png",
     "School/Economics/Images/Consumer Surplus Example.png",
-    "School/Economics/Basic Economic Concepts.md",
     "Personal/Shattered Reality Lore",
     "School/Language",
     "School/Economics/Images/Excess Capacity.png",
