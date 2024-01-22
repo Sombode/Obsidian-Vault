@@ -43,5 +43,63 @@
       ],
       "key": "ArrowDown"
     }
+  ],
+  "obsidian-editor-shortcuts:insertLineBelow": [],
+  "obsidian-editor-shortcuts:insertLineAbove": [],
+  "obsidian-editor-shortcuts:joinLines": [],
+  "obsidian-editor-shortcuts:selectLine": [],
+  "editor:toggle-checklist-status": [],
+  "obsidian-editor-shortcuts:addCursorsToSelectionEnds": [],
+  "obsidian-editor-shortcuts:duplicateLine": [],
+  "obsidian-editor-shortcuts:selectWordOrNextOccurrence": [],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "file-explorer:new-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "obsidian-editor-shortcuts:goToPrevHeading": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "PageUp"
+    }
+  ],
+  "obsidian-editor-shortcuts:goToNextHeading": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "PageDown"
+    }
   ]
 }
