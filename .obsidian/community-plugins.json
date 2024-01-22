@@ -1,7 +1,7 @@
 [
-  "obsidian-tasks-plugin",
-  "obsidian-minimal-settings",
-  "obsidian-style-settings",
   "obsidian-git",
-  "obsidian-tikzjax"
+  "obsidian-tikzjax",
+  "obsidian-minimal-settings",
+  "obsidian-editor-shortcuts",
+  "obsidian-style-settings"
 ]
