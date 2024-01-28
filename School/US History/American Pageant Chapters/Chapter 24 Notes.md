@@ -15,5 +15,8 @@ The transcontinental railroad would be completed in 1869, opening up westward ex
 
 
 
+# References
 
-*Source: [[The American Pageant]]*
+[[The American Pageant]]
+
+[APNotes](https://www.apnotes.net/notes-13e/ch24-13e.html)
