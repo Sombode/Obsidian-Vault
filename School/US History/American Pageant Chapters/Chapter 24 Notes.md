@@ -1,4 +1,3 @@
-# Chapter 24
 Industry Comes of Age (1865 - 1900)
 
 ## The Iron Colt Becomes an Iron Horse
