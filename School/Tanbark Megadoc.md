@@ -28,6 +28,16 @@
 > Tanbark used to replace sand for noncoastal areas (supports East Bay usage?)
 - [Usage of terminology over time](https://books.google.com/ngrams/graph?content=tanbark%2Ctan+bark%2Cwood+chips&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)
 > Google ngram viewer of different terminology; tanbark most prevalent until 1920's 
+- (Link needed)
+>  Circus term in PA? (Look more into this)
+- [Quora](https://www.quora.com/The-bits-of-chipped-wood-that-cover-the-ground-at-playgrounds-we-always-called-that-tanbark-I-heard-some-people-discussing-that-apparently-tanbark-is-a-Bay-Area-term-Is-this-true#:~:text=I%20knew%20%27tanbark%27%20as%20a%20circus%20term%20growing%20up%20in%20the%20East%3B)
+> Follow-up to previous: Circus rings were covered with tanbark
+- [Dictionary.com](https://www.dictionary.com/browse/tanbark#:~:text=a%20surface%20covered%20with%20pieces%20of%20tanbark%2C%20especially%20a%20circus%20ring.)
+- [OHNS](http://www.hobonickels.org/circus.htm#:~:text=Tanbark%20%2D%20The%20shredded%20bark%20from%20trees%20from%20which%20tannin%20has%20been%20extracted%20and%20used%20to%20cover%20circus%20arena%20ground.)
+> More on circuses: The first US circus opened in Philadelphia on April 3rd, 1793
+- [Wikipedia](https://en.wikipedia.org/wiki/Circus#:~:text=Ricketts%20and%20the%20first%20American%20circus)
+> PA has a "Tanbark Trail" in the Allegheny National Forest (though seemingly far from the tanbark-speaking region)
+- [Wikipedia](https://en.wikipedia.org/wiki/Tanbark_Trail)
 ## Samples
 - [SanJoseRealEstateLosGatosHomes](https://sanjoserealestatelosgatoshomes.com/landscaping-with-tanbark-or-mulch-use-caution/) (Silicon Valley: Tanbark)
 - [East Bay?](https://www.reddit.com/r/bayarea/comments/b34rbv/comment/eixvkzj/?utm_source=share&utm_medium=web2x&context=3) (Much of the East Bay?: Tanbark)
