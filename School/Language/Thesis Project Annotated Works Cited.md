@@ -6,6 +6,8 @@ ho ho ho (good luck bub) [giant paper](https://www.sciencedirect.com/science/art
 
 [french citizens aren't as pro-nuclear as you thought; turns out the government just hates democracy](https://www.jstor.org/stable/43864137)
 
+[nevermind france loves nuclear](https://www.jstor.org/stable/43864137)
+
 [nuclear's expensive; new tech not economic](https://www.jstor.org/stable/resrep05830)
 
 # “The Need for a New, Clear Option: An In-Depth Analysis of Nuclear Energy”
