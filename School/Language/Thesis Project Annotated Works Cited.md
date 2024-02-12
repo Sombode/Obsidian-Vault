@@ -10,6 +10,8 @@ ho ho ho (good luck bub) [giant paper](https://www.sciencedirect.com/science/art
 
 [nuclear's expensive; new tech not economic](https://www.jstor.org/stable/resrep05830)
 
+[nuclear power is like, racist, and stuff](https://wires.onlinelibrary.wiley.com/doi/10.1002/wene.498)
+
 # “The Need for a New, Clear Option: An In-Depth Analysis of Nuclear Energy”
 
 [https://www.jstor.org/stable/26427280](https://www.jstor.org/stable/26427280)
