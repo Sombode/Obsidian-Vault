@@ -4,6 +4,8 @@ ho ho ho (good luck bub) [giant paper](https://www.sciencedirect.com/science/art
 
 [this could be good for showing why france works (political parties like nuclear)](https://www.jstor.org/stable/24540209)
 
+[french citizens aren't as pro-nuclear as you thought; turns out the government just hates democracy](https://www.jstor.org/stable/43864137)
+
 # “The Need for a New, Clear Option: An In-Depth Analysis of Nuclear Energy”
 
 [https://www.jstor.org/stable/26427280](https://www.jstor.org/stable/26427280)
