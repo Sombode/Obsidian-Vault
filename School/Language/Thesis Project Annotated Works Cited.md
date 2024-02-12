@@ -2,6 +2,8 @@ hey hey look at this [Vox](https://www.vox.com/2016/2/29/11132930/nuclear-power-
 
 ho ho ho (good luck bub) [giant paper](https://www.sciencedirect.com/science/article/abs/pii/S0272494421002024)
 
+[this could be good for showing why france works (political parties like nuclear)](https://www.jstor.org/stable/24540209)
+
 # “The Need for a New, Clear Option: An In-Depth Analysis of Nuclear Energy”
 
 [https://www.jstor.org/stable/26427280](https://www.jstor.org/stable/26427280)
