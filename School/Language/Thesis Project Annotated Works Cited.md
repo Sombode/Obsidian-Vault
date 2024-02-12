@@ -15,6 +15,9 @@ ho ho ho (good luck bub) [giant paper](https://www.sciencedirect.com/science/art
 [bing bang bop this is exactly your argument](https://www.jstor.org/stable/27162748)
 
 [the sequel](https://www.jstor.org/stable/27204740)
+
+[oh?](https://www.jstor.org/stable/3330272)
+
 # “The Need for a New, Clear Option: An In-Depth Analysis of Nuclear Energy”
 
 [https://www.jstor.org/stable/26427280](https://www.jstor.org/stable/26427280)
