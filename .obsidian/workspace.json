@@ -155,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,7 +168,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "bf35ffa324e0b9fe",
+  "active": "77c1a0607ac33466",
   "lastOpenFiles": [
     "School/Tanbark Megadoc.md",
     "School/US History/American Pageant Chapters/Chapter 24 Notes.md",
