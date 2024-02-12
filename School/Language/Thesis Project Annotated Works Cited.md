@@ -12,6 +12,9 @@ ho ho ho (good luck bub) [giant paper](https://www.sciencedirect.com/science/art
 
 [nuclear power is like, racist, and stuff](https://wires.onlinelibrary.wiley.com/doi/10.1002/wene.498)
 
+[bing bang bop this is exactly your argument](https://www.jstor.org/stable/27162748)
+
+[the sequel](https://www.jstor.org/stable/27204740)
 # “The Need for a New, Clear Option: An In-Depth Analysis of Nuclear Energy”
 
 [https://www.jstor.org/stable/26427280](https://www.jstor.org/stable/26427280)
