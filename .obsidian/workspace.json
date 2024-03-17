@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "School/Language/Thesis Project Annotated Works Cited.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -155,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 462.5
   },
   "left-ribbon": {
     "hiddenItems": {
