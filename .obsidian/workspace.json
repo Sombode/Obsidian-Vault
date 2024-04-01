@@ -18,29 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8987e139ce756757",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
-          },
-          {
-            "id": "81f9d62dccc6a71e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,7 +168,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "81f9d62dccc6a71e",
+  "active": "77c1a0607ac33466",
   "lastOpenFiles": [
     "School/Language/Pathos.md",
     "School/Language/Everything's An Argument.md",
