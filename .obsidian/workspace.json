@@ -28,9 +28,21 @@
                 "currentVersion": "1.5.12"
               }
             }
+          },
+          {
+            "id": "6dbfd03cee05d19e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,12 +96,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 268.51103591918945,
-    "collapsed": true
+    "width": 268.51103591918945
   },
   "right": {
     "id": "189a38ed5c48185a",
@@ -115,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School/Language/Thesis Project Annotated Works Cited.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,7 +136,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Language/Thesis Project Annotated Works Cited.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +152,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Language/Thesis Project Annotated Works Cited.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462.5
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,13 +187,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "56bec9d7574b2ddd",
+  "active": "6cd3537792361084",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Pasted image 20240408230939.png",
+    "School/Language/Thesis Project Annotated Works Cited.md",
     "School/Language/Pathos.md",
     "School/Language/Everything's An Argument.md",
     "School/Language/Audiences for Arguments.md",
     "School/Language/Arguments.md",
-    "School/Language/Thesis Project Annotated Works Cited.md",
     "School/Economics/Images/Circular Flow Model.png",
     "README.md",
     "School/Tanbark Megadoc.md",
@@ -211,7 +221,6 @@
     "Backend/Tasks.md",
     "School/Physics/1D Motion",
     "School/Physics",
-    "School/Language/Untitled 1.md",
     "School/Tanbark",
     "School/US History/The Founding Brothers",
     "School/Economics/Images/Industry Curves for Monopolistic Competition.png",
@@ -223,7 +232,6 @@
     "School/Language",
     "School/Economics/Images/Excess Capacity.png",
     "School/Economics/Images/Marginal Utility Table.png",
-    "School/Economics/Images/Sample Supply Curve.png",
-    "School/Economics/Images/Sample Demand Curve.png"
+    "School/Economics/Images/Sample Supply Curve.png"
   ]
 }
