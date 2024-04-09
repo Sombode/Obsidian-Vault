@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "56bec9d7574b2ddd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +179,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "77c1a0607ac33466",
+  "active": "56bec9d7574b2ddd",
   "lastOpenFiles": [
     "School/Language/Pathos.md",
     "School/Language/Everything's An Argument.md",
