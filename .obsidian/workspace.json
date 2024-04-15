@@ -127,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School/Language/Thesis Project Annotated Works Cited.md"
+              }
             }
           },
           {
@@ -136,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School/Language/Thesis Project Annotated Works Cited.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School/Language/Thesis Project Annotated Works Cited.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
