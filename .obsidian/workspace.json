@@ -8,28 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77c1a0607ac33466",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Language/Thesis Project Annotated Works Cited.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56bec9d7574b2ddd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
-          },
-          {
             "id": "6dbfd03cee05d19e",
             "type": "leaf",
             "state": {
@@ -54,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,17 +174,17 @@
   },
   "active": "64eb26a9eaf95fc5",
   "lastOpenFiles": [
-    "README.md",
     "Alexander's Equation Copilot Dump.md",
+    "School/Language/Thesis Project Annotated Works Cited.md",
+    "Raw Notes/Taconian Orogeny.md",
+    "README.md",
     "School/Economics/Basic Economic Concepts.md",
     "School/Economics/Class Notes/1-30-23.md",
     "Uploaded Resources/Econ Images/Circular Flow Model.png",
     "Uploaded Resources/Tanbark Image.png",
     "School/Tanbark Megadoc.md",
-    "Raw Notes/Taconian Orogeny.md",
     "Uploaded Resources",
     "Raw Notes",
-    "School/Language/Thesis Project Annotated Works Cited.md",
     "Pasted image 20240408230939.png",
     "School/Language/Pathos.md",
     "School/Language/Everything's An Argument.md",
