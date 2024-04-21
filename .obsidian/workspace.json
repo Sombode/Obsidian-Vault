@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alexander's Equation Copilot Dump.md",
+                "file": "School/Language/Thesis Project Annotated Works Cited.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Raw Notes/Taconian Orogeny.md"
+                "file": "School/Language/Thesis Project Annotated Works Cited.md"
               }
             }
           },
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raw Notes/Taconian Orogeny.md",
+                "file": "School/Language/Thesis Project Annotated Works Cited.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raw Notes/Taconian Orogeny.md",
+                "file": "School/Language/Thesis Project Annotated Works Cited.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,11 +171,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "64eb26a9eaf95fc5",
+  "active": "6dbfd03cee05d19e",
   "lastOpenFiles": [
     "Alexander's Equation Copilot Dump.md",
-    "School/Language/Thesis Project Annotated Works Cited.md",
     "Raw Notes/Taconian Orogeny.md",
+    "School/Language/Thesis Project Annotated Works Cited.md",
     "README.md",
     "School/Economics/Basic Economic Concepts.md",
     "School/Economics/Class Notes/1-30-23.md",
