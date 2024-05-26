@@ -11,11 +11,14 @@
             "id": "6dbfd03cee05d19e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "School/Language/Thesis Project Annotated Works Cited.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 413.44775887895173,
+                  "y": 68.94015526770026,
+                  "zoom": -0.7340609509420334
+                }
               }
             }
           },
@@ -109,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Language/Thesis Project Annotated Works Cited.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -119,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Language/Thesis Project Annotated Works Cited.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Language/Thesis Project Annotated Works Cited.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +177,10 @@
   },
   "active": "6dbfd03cee05d19e",
   "lastOpenFiles": [
+    "School/Language/Thesis Project Annotated Works Cited.md",
+    "Untitled.canvas",
     "Alexander's Equation Copilot Dump.md",
     "Raw Notes/Taconian Orogeny.md",
-    "School/Language/Thesis Project Annotated Works Cited.md",
     "README.md",
     "School/Economics/Basic Economic Concepts.md",
     "School/Economics/Class Notes/1-30-23.md",
@@ -205,8 +209,6 @@
     "School/US History/The Founding Brothers/The Farewell.md",
     "School/US History/The Founding Brothers/The Silence.md",
     "School/US History/The Founding Brothers/The Dinner.md",
-    "School/US History/The Founding Brothers/The Generation.md",
-    "Untitled.canvas",
     "School/Physics/1D Motion",
     "School/Physics",
     "School/Tanbark",
