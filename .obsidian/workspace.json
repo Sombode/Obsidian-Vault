@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a6584df971d3211",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Economics/Class Notes/2-16-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d8bc73fb1ef82db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Building Your Mental Bank Account.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Language/Thesis Project Annotated Works Cited.md"
+                "file": "Building Your Mental Bank Account.md"
               }
             }
           },
@@ -120,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Language/Thesis Project Annotated Works Cited.md",
+                "file": "Building Your Mental Bank Account.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Language/Thesis Project Annotated Works Cited.md",
+                "file": "Building Your Mental Bank Account.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,11 +197,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e8d9cbffb45a7a13",
+  "active": "7d8bc73fb1ef82db",
   "lastOpenFiles": [
+    "Building Your Mental Bank Account.md",
+    "School/Economics/Class Notes/2-16-23.md",
+    "School/Language/Thesis Project Annotated Works Cited.md",
+    "Untitled 1.canvas",
     "Raw Notes/Taconian Orogeny.md",
     "Untitled.canvas",
-    "School/Language/Thesis Project Annotated Works Cited.md",
     "Alexander's Equation Copilot Dump.md",
     "README.md",
     "School/Economics/Basic Economic Concepts.md",
@@ -206,7 +233,6 @@
     "School/Language/Logos.md",
     "School/US History/The Founding Brothers/The Farewell.md",
     "School/US History/The Founding Brothers/The Silence.md",
-    "School/US History/The Founding Brothers/The Dinner.md",
     "School/Physics/1D Motion",
     "School/Physics",
     "School/Tanbark",
