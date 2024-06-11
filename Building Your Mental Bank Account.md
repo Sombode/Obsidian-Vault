@@ -42,3 +42,13 @@
 - 2024: The Code Dream Team (Sub 90 was real)
 - 2024: GEO MAXXED (1st place at Solon)
 - 2024: Made it to Nationals
+
+## ESP Journaling
+
+- (E)ffort - Description of the work accomplished
+- (S)uccess - Something that was done well
+- (P)rogress - Something that improved since the last entry
+
+- Every time you do practice, make an entry in the journal
+- Be specific
+
