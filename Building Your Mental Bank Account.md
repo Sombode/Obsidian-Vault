@@ -31,4 +31,14 @@
 # The Mental Bank Account
 
 - The mental bank account stores the good feelings from previous accomplishments
-- The
+- These accumulated positive feelings can be retrieved to handle a new struggle
+
+## Top Ten Science Olympiad Moments
+
+- 6th Grade: Made Varsity
+- 9th Grade: Survived Mission Possible
+- 9th Grade: 6 Events
+- 2023: 2nd at Solon
+- 2024: The Code Dream Team (Sub 90 was real)
+- 2024: GEO MAXXED (1st place at Solon)
+- 2024: Made it to Nationals
