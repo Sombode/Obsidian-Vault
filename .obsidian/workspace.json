@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raw Notes/Taconian Orogeny.md",
+                "file": "Building Your Mental Bank Account.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,27 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7d8bc73fb1ef82db",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "25a5ce71fbcfde46",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.51103591918945,
-    "collapsed": true
+    "width": 268.51103591918945
   },
   "right": {
     "id": "189a38ed5c48185a",
@@ -140,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Raw Notes/Taconian Orogeny.md"
+                "file": "School/Economics/Class Notes/2-16-23.md"
               }
             }
           },
@@ -150,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raw Notes/Taconian Orogeny.md",
+                "file": "School/Economics/Class Notes/2-16-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raw Notes/Taconian Orogeny.md",
+                "file": "School/Economics/Class Notes/2-16-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,15 +184,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "25a5ce71fbcfde46",
+  "active": "9a6584df971d3211",
   "lastOpenFiles": [
     "Building Your Mental Bank Account.md",
-    "School/Economics/Class Notes/2-16-23.md",
-    "School/Language/Thesis Project Annotated Works Cited.md",
-    "Untitled 1.canvas",
-    "Raw Notes/Taconian Orogeny.md",
-    "Untitled.canvas",
     "Alexander's Equation Copilot Dump.md",
+    "Raw Notes/Taconian Orogeny.md",
+    "School/Language/Thesis Project Annotated Works Cited.md",
+    "School/Economics/Class Notes/2-16-23.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "README.md",
     "School/Economics/Basic Economic Concepts.md",
     "School/Economics/Class Notes/1-30-23.md",
