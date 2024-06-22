@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Language/Thesis Project Annotated Works Cited.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a6584df971d3211",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Economics/Class Notes/2-16-23.md",
+                "file": "Alexander's Equation Copilot Dump.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Economics/Class Notes/2-16-23.md"
+                "file": "Alexander's Equation Copilot Dump.md"
               }
             }
           },
@@ -131,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Economics/Class Notes/2-16-23.md",
+                "file": "Alexander's Equation Copilot Dump.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Economics/Class Notes/2-16-23.md",
+                "file": "Alexander's Equation Copilot Dump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,20 +172,23 @@
       "random-note:Open random note": false
     }
   },
-  "active": "9a6584df971d3211",
+  "active": "e8d9cbffb45a7a13",
   "lastOpenFiles": [
     "Building Your Mental Bank Account.md",
     "Alexander's Equation Copilot Dump.md",
-    "Raw Notes/Taconian Orogeny.md",
+    "Uploaded Resources/Tanbark Image.png",
+    "Uploaded Resources/Econ Images/Deadweight Loss Example.png",
+    "Uploaded Resources/Econ Images/Consumer Surplus Example.png",
+    "Uploaded Resources/Econ Images/Circular Flow Model.png",
     "School/Language/Thesis Project Annotated Works Cited.md",
-    "School/Economics/Class Notes/2-16-23.md",
     "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "School/Economics/Class Notes/2-16-23.md",
+    "Raw Notes/Taconian Orogeny.md",
     "Untitled.canvas",
     "README.md",
     "School/Economics/Basic Economic Concepts.md",
     "School/Economics/Class Notes/1-30-23.md",
-    "Uploaded Resources/Econ Images/Circular Flow Model.png",
-    "Uploaded Resources/Tanbark Image.png",
     "School/Tanbark Megadoc.md",
     "Uploaded Resources",
     "Raw Notes",
@@ -219,7 +210,6 @@
     "School/Language/Ethos.md",
     "School/Language/Logos.md",
     "School/US History/The Founding Brothers/The Farewell.md",
-    "School/US History/The Founding Brothers/The Silence.md",
     "School/Physics/1D Motion",
     "School/Physics",
     "School/Tanbark",
@@ -227,8 +217,6 @@
     "Uploaded Resources/Econ Images/Industry Curves for Monopolistic Competition.png",
     "School/US History",
     "Uploaded Resources/Econ Images/Indifference Curve Example.png",
-    "Uploaded Resources/Econ Images/Deadweight Loss Example.png",
-    "Uploaded Resources/Econ Images/Consumer Surplus Example.png",
     "Personal/Shattered Reality Lore",
     "School/Language",
     "Uploaded Resources/Econ Images/Excess Capacity.png",
