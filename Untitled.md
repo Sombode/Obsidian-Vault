@@ -23,3 +23,11 @@
 	- present tense
 	- positive
 	- precise (specific)
+- Regularly recite affirmations during practice and whenever doubt crops up
+
+## Visualization
+
+- Visualizing a situation beforehand helps us gain a better control over it
+- Our bodies react the same to a visualized scenario compared to the actual scenario
+	- When basketball players visualize shooting a basketball, signals get sent to the necessary muscles
+- Visualization helps improve confidence and ability
