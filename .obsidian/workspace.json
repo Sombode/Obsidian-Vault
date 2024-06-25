@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ee2300974c1212b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,7 +182,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e8d9cbffb45a7a13",
+  "active": "9ee2300974c1212b",
   "lastOpenFiles": [
     "Building Your Mental Bank Account.md",
     "Alexander's Equation Copilot Dump.md",
