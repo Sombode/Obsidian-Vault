@@ -18,3 +18,8 @@
 ## Affirmations
 
 - Affirmations help mold your mindset into a more positive one
+- Affirmations should be:
+	- first person
+	- present tense
+	- positive
+	- precise (specific)

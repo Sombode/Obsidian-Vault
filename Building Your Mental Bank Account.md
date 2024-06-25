@@ -1,4 +1,4 @@
-> CVSO Confidence Camp Lesson 1
+                                                                                                                                                                   > CVSO Confidence Camp Lesson 1
 
 - Most of this information comes from *The Confident Mind* by Dr. Nate Zinsser (sports psychologist)
 
